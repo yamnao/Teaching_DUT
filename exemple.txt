@@ -1,0 +1,48 @@
+Réalisateur(s) de "How to Train Your Dragon" : ['Dean DeBlois', 'Chris Sanders']
+
+"How to Train Your Dragon" est un film du genre "Animation", sorti en 2010. Il est numéro 199 au box-office
+	revenu: 494.9 millions de dollars
+	studio: Paramount (DreamWorks)
+	réalisateurs: ['Dean DeBlois', 'Chris Sanders']
+	acteurs: ['Jay Baruchel', 'Gerard Butler', 'America Ferrera', 'Jonah Hill', 'Kristen Wiig', 'Christopher Mintz-Plasse', 'TJ Miller']
+
+Film(s) de "Tim Burton" : {'Batman', 'Planet of the Apes (2001)', 'Batman Returns', 'Dark Shadows', 'Alice in Wonderland (2010)', "Miss Peregrine's Home for Peculiar Children", 'Sleepy Hollow', 'Charlie and the Chocolate Factory'}
+
+"Meilleur" film de la catégorie "Animation": Frozen
+
+10 "meilleurs" films du genre Animation: ['Frozen', 'Incredibles 2', 'Minions', 'Toy Story 3', 'Despicable Me 3', 'Finding Dory', 'Zootopia', 'Despicable Me 2', 'The Lion King', 'Finding Nemo']
+
+"Meilleur" film de l'année 1993 au box-office: Jurassic Park
+
+Les 9 films du box-office sortis en 1993 : ['Jurassic Park', 'Mrs. Doubtfire', 'The Fugitive', "Schindler's List", 'The Firm', 'Indecent Proposal', 'Cliffhanger', 'Sleepless in Seattle', 'Philadelphia']
+
+Revenu total des films de "Tim Burton" : 3288.90
+
+Réalisateur générant le plus gros revenu : Steven Spielberg (9295.90 millions de $)
+
+10 "plus gros" réalisateurs: ['Steven Spielberg', 'Peter Jackson', 'Michael Bay', 'David Yates', 'James Cameron', 'Christopher Nolan', 'Anthony Russo', 'Joe Russo', 'Lee Unkrich', 'Pierre Coffin']
+
+Réalisateur ayant le plus de films au box-office : Steven Spielberg (20)
+
+Acteur ayant joué dans le plus de films au box-office : Samuel L. Jackson (29)
+
+10 acteurs ayant joué dans le plus de films: ['Samuel L. Jackson', 'Tom Cruise', 'Tom Hanks', 'Liam Neeson', 'Johnny Depp', 'Matt Damon', 'Morgan Freeman', 'Hugh Jackman', 'Gary Oldman', 'Will Smith', 'Cameron Diaz']
+
+Acteurs ayant joué dans exactement 15 films au box-office : {'Bruce Willis', 'Helena Bonham Carter', 'Dwayne Johnson', 'Cate Blanchett', 'Cameron Diaz', 'Will Smith', 'Harrison Ford'} 
+
+Genre réalisant le plus gros revenu : Animation (56797.10 millions de $)
+
+Studio réalisant le plus gros revenu : Buena Vista (66888.60 millions de $)
+
+Acteur réalisant le plus gros revenu : Samuel L. Jackson (17899.30 millions de $)
+
+Genres des films auxquels a participé "Harrison Ford" : {'Action Thriller', 'Thriller', 'Sci-Fi', 'Horror', 'Action', 'Period Adventure', 'Sci-Fi Fantasy'}
+
+Liste des films de "Harrison Ford", avec leur genre : [('The Expendables 3', 'Action'), ('Indiana Jones and the Kingdom of the Crystal Skull', 'Period Adventure'), ('Air Force One', 'Action Thriller'), ('Return of the Jedi', 'Sci-Fi Fantasy'), ('Blade Runner 2049', 'Sci-Fi'), ('What Lies Beneath', 'Horror'), ('The Empire Strikes Back', 'Sci-Fi Fantasy'), ('Star Wars', 'Sci-Fi Fantasy'), ('Star Wars: The Force Awakens', 'Sci-Fi Fantasy'), ('Clear and Present Danger', 'Action Thriller'), ('The Fugitive', 'Action Thriller'), ('Presumed Innocent', 'Thriller'), ('Indiana Jones and the Last Crusade', 'Period Adventure'), ('Indiana Jones and the Temple of Doom', 'Period Adventure'), ('Raiders of the Lost Ark', 'Period Adventure')]
+
+Studio avec le plus de variété dans les genres produits : Warner Bros. (33 genres différents)
+
+Acteurs qui ont joué avec "Harrison Ford": {'Barkhad Abdi', 'Peter Mayhew', 'Sylvester Stallone', 'Simon Pegg', 'Peter Cushing', 'Frank Oz', 'Clark Gregg', 'Jeffrey Wright', 'Billy Dee Williams', 'Kenny Baker', 'Wesley Snipes', 'Shia LaBeouf', 'Gary Oldman', 'Adam Driver', 'Antonio Banderas', 'Kelsey Grammer', 'Jason Statham', 'Mark Hamill', 'Randy Couture', 'Benjamin Bratt', 'Thora Birch', 'Edward James Olmos', "Lupita Nyong'o", 'Andy Serkis', 'Domhnall Gleeson', 'Tony Cox', 'Bonnie Bedelia', 'Ronda Rousey', 'Dave Bautista', 'Karen Allen', 'Alfred Molina', 'Iko Uwais', 'Mel Gibson', 'Ian McDiarmid', 'Alec Guinness', 'William H. Macy', 'Carrie Fisher', 'Ray Winstone', 'Jim Broadbent', 'Ryan Gosling', 'Cate Blanchett', 'Dolph Lundgren', 'Kellan Lutz', 'Arnold Schwarzenegger', 'Daisy Ridley', 'Michelle Pfeiffer', 'Oscar Isaac', 'James Earl Jones', 'Jet Li', 'Sean Connery', 'Willem Dafoe', 'John Boyega', 'Brian Dennehy', 'Jared Leto', 'Glenn Close', 'Anthony Daniels', 'Tommy Lee Jones', 'Robin Wright', 'Julianne Moore'}
+
+Acteur qui a joué avec le plus d'acteurs différents : Samuel L. Jackson (147)
+

@@ -1,0 +1,760 @@
+Avatar#2,788.0#2009
+Titanic#2,187.5#1997
+Star Wars: The Force Awakens#2,068.2#2015
+Avengers: Infinity War#2,047.7#2018
+Jurassic World#1,671.7#2015
+Marvel's The Avengers#1,518.8#2012
+Furious 7#1,516.0#2015
+Avengers: Age of Ultron#1,405.4#2015
+Black Panther#1,346.9#2018
+Harry Potter and the Deathly Hallows Part 2#1,341.5#2011
+Star Wars: The Last Jedi#1,332.5#2017
+Jurassic World: Fallen Kingdom#1,304.9#2018
+Frozen#1,276.5#2013
+Beauty and the Beast (2017)#1,263.5#2017
+Incredibles 2#1,241.4#2018
+The Fate of the Furious#1,236.0#2017
+Iron Man 3#1,214.8#2013
+Minions#1,159.4#2015
+Captain America: Civil War#1,153.3#2016
+Transformers: Dark of the Moon#1,123.8#2011
+The Lord of the Rings: The Return of the King#1,119.9#2003
+Skyfall#1,108.6#2012
+Transformers: Age of Extinction#1,104.1#2014
+The Dark Knight Rises#1,084.9#2012
+Toy Story 3#1,067.0#2010
+Pirates of the Caribbean: Dead Man's Chest#1,066.2#2006
+Rogue One: A Star Wars Story#1,056.1#2016
+Pirates of the Caribbean: On Stranger Tides#1,045.7#2011
+Despicable Me 3#1,034.8#2017
+Jurassic Park#1,029.2#1993
+Finding Dory#1,028.6#2016
+Star Wars: Episode I - The Phantom Menace#1,027.0#1999
+Alice in Wonderland (2010)#1,025.5#2010
+Zootopia#1,023.8#2016
+The Hobbit: An Unexpected Journey#1,021.1#2012
+The Dark Knight#1,004.6#2008
+Harry Potter and the Sorcerer's Stone#974.8#2001
+Despicable Me 2#970.8#2013
+The Lion King#968.5#1994
+The Jungle Book (2016)#966.6#2016
+Pirates of the Caribbean: At World's End#963.4#2007
+Jumanji: Welcome to the Jungle#962.1#2017
+Harry Potter and the Deathly Hallows Part 1#960.3#2010
+The Hobbit: The Desolation of Smaug#958.4#2013
+The Hobbit: The Battle of the Five Armies#956.0#2014
+Finding Nemo#940.3#2003
+Harry Potter and the Order of the Phoenix#939.9#2007
+Harry Potter and the Half-Blood Prince#934.4#2009
+The Lord of the Rings: The Two Towers#926.0#2002
+Shrek 2#919.8#2004
+Harry Potter and the Goblet of Fire#896.9#2005
+Spider-Man 3#890.9#2007
+Ice Age: Dawn of the Dinosaurs#886.7#2009
+Spectre#880.7#2015
+Spider-Man: Homecoming#880.2#2017
+Harry Potter and the Chamber of Secrets#879.0#2002
+Ice Age: Continental Drift#877.2#2012
+The Secret Life of Pets#875.5#2016
+Batman v Superman: Dawn of Justice#873.6#2016
+The Lord of the Rings: The Fellowship of the Ring#871.5#2001
+Wolf Warrior 2#870.3#2017
+The Hunger Games: Catching Fire#865.0#2013
+Guardians of the Galaxy Vol. 2#863.8#2017
+Inside Out#857.6#2015
+Thor: Ragnarok#854.0#2017
+Venom (2018)#852.7#2018
+Star Wars: Episode III - Revenge of the Sith#848.8#2005
+Transformers: Revenge of the Fallen#836.3#2009
+The Twilight Saga: Breaking Dawn Part 2#829.7#2012
+Inception#828.3#2010
+Wonder Woman#821.8#2017
+Spider-Man#821.7#2002
+Independence Day#817.4#1996
+Fantastic Beasts and Where To Find Them#814.0#2016
+Coco#807.1#2017
+Shrek the Third#799.0#2007
+Harry Potter and the Prisoner of Azkaban#796.7#2004
+Pirates of the Caribbean: Dead Men Tell No Tales#794.9#2017
+E.T.: The Extra-Terrestrial#792.9#1982
+Mission: Impossible - Fallout#791.0#2018
+Fast & Furious 6#788.7#2013
+Indiana Jones and the Kingdom of the Crystal Skull#786.6#2008
+Spider-Man 2#783.8#2004
+Deadpool#783.1#2016
+Star Wars#775.4#1977
+Guardians of the Galaxy#773.3#2014
+2012#769.7#2009
+Maleficent#758.5#2014
+The Da Vinci Code#758.2#2006
+The Amazing Spider-Man#757.9#2012
+The Hunger Games: Mockingjay - Part 1#755.4#2014
+Shrek Forever After#752.6#2010
+X-Men: Days of Future Past#747.9#2014
+Madagascar 3: Europe's Most Wanted#746.9#2012
+Suicide Squad#746.8#2016
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe#745.0#2005
+Monsters University#744.2#2013
+The Matrix Reloaded#742.1#2003
+Deadpool 2#738.1#2018
+Up#735.1#2009
+Gravity#723.2#2013
+Captain America: The Winter Soldier#714.3#2014
+The Twilight Saga: Breaking Dawn Part 1#712.2#2011
+Dawn of the Planet of the Apes#710.6#2014
+The Twilight Saga: New Moon#709.7#2009
+Transformers#709.7#2007
+The Amazing Spider-Man 2#709.0#2014
+It#700.4#2017
+The Twilight Saga: Eclipse#698.5#2010
+Mission: Impossible - Ghost Protocol#694.7#2011
+The Hunger Games#694.4#2012
+Mission: Impossible - Rogue Nation#682.7#2015
+Forrest Gump#677.9#1994
+Doctor Strange#677.7#2016
+Interstellar#677.5#2014
+The Sixth Sense#672.8#1999
+Man of Steel#668.0#2013
+Kung Fu Panda 2#665.7#2011
+Ice Age: The Meltdown#660.9#2006
+Justice League#657.9#2017
+Big Hero 6#657.8#2014
+Pirates of the Caribbean: The Curse of the Black Pearl#654.3#2003
+The Hunger Games: Mockingjay - Part 2#653.4#2015
+Star Wars: Episode II - Attack of the Clones#649.4#2002
+Thor: The Dark World#644.6#2013
+Moana#643.3#2016
+Bohemian Rhapsody#635.9#2018
+Sing#634.2#2016
+The Incredibles#633.0#2004
+Kung Fu Panda#631.7#2008
+The Martian#630.2#2015
+Fast Five#626.1#2011
+Hancock#624.4#2008
+MIB 3#624.0#2012
+Iron Man 2#623.9#2010
+Ant-Man and the Wasp#622.7#2018
+How to Train Your Dragon 2#621.5#2014
+Ratatouille#620.7#2007
+Logan (2017)#619.0#2017
+The Lost World: Jurassic Park#618.6#1997
+The Passion of the Christ#611.9#2004
+Mamma Mia!#609.9#2008
+Life of Pi#609.0#2012
+Transformers: The Last Knight#605.4#2017
+Madagascar: Escape 2 Africa#603.9#2008
+Casino Royale#599.0#2006
+Fantastic Beasts: The Crimes of Grindelwald#595.9#2018
+Tangled#591.8#2010
+War of the Worlds#591.7#2005
+Men in Black#589.4#1997
+The Croods#587.2#2013
+The Hangover Part II#586.8#2011
+Quantum of Solace#586.1#2008
+I Am Legend#585.3#2007
+Iron Man#585.2#2008
+Ready Player One#582.2#2018
+Operation Red Sea#579.2#2018
+Monsters, Inc.#577.4#2001
+Night at the Museum#574.5#2006
+Fifty Shades of Grey#571.0#2015
+Kong: Skull Island#566.7#2017
+The Smurfs#563.7#2011
+Cars 2#562.1#2011
+Puss in Boots#555.0#2011
+The Mermaid (Mei ren yu)#553.8#2016
+Armageddon#553.7#1998
+King Kong#550.5#2005
+Ted#549.4#2012
+American Sniper#547.4#2014
+Mission: Impossible II#546.4#2000
+Sherlock Holmes: A Game of Shadows#545.4#2011
+The Day After Tomorrow#544.3#2004
+Detective Chinatown 2#544.1#2018
+X-Men: Apocalypse#543.9#2016
+Cinderella (2015)#543.5#2015
+Despicable Me#543.1#2010
+Brave#540.4#2012
+World War Z#540.0#2013
+The Empire Strikes Back#538.4#1980
+WALL-E#533.3#2008
+The Revenant#533.0#2015
+Madagascar#532.7#2005
+Godzilla (2014)#529.1#2014
+The Boss Baby#528.0#2017
+The Meg#527.8#2018
+Dunkirk#527.3#2017
+The Simpsons Movie#527.1#2007
+Hotel Transylvania 3: Summer Vacation#527.1#2018
+Sherlock Holmes#524.0#2009
+Kung Fu Panda 3#521.2#2016
+Terminator 2: Judgment Day#520.9#1991
+Ant-Man#519.3#2015
+Meet the Fockers#516.6#2004
+Ghost#505.7#1990
+Aladdin#504.1#1992
+Rio 2#500.1#2014
+Troy#497.4#2004
+Toy Story 2#497.4#1999
+How to Train Your Dragon#494.9#2010
+Twister#494.5#1996
+Teenage Mutant Ninja Turtles (2014)#493.3#2014
+Oz The Great and Powerful#493.3#2013
+Clash of the Titans (2010)#493.2#2010
+War for the Planet of the Apes#490.7#2017
+Angels & Demons#485.9#2009
+Rio#484.6#2011
+Bruce Almighty#484.6#2003
+Shrek#484.4#2001
+Saving Private Ryan#481.8#1998
+Rise of the Planet of the Apes#481.8#2011
+Mr. & Mrs. Smith#478.2#2005
+Home Alone#476.7#1990
+Return of the Jedi#475.1#1983
+Charlie and the Chocolate Factory#475.0#2005
+Hotel Transylvania 2#474.8#2015
+Indiana Jones and the Last Crusade#474.2#1989
+San Andreas#474.0#2015
+Wreck-It Ralph#471.2#2012
+Jaws#470.7#1975
+The LEGO Movie#469.2#2014
+The Hangover#467.5#2009
+Star Trek Into Darkness#467.4#2013
+The Matrix#463.5#1999
+Pretty Woman#463.4#1990
+Lucy#463.4#2014
+Cars#462.2#2006
+Gladiator#460.6#2000
+X-Men: The Last Stand#459.4#2006
+Mission: Impossible#457.7#1996
+National Treasure: Book of Secrets#457.4#2007
+The Last Samurai#456.8#2003
+300#456.1#2007
+Ocean's Eleven#450.7#2001
+Thor#449.3#2011
+Pearl Harbor#449.2#2001
+Tarzan#448.2#1999
+La La Land#446.1#2016
+Alvin and the Chipmunks: The Squeakquel#443.1#2009
+The Bourne Ultimatum#442.8#2007
+Men in Black II#441.8#2002
+Les Miserables (2012)#441.8#2012
+The Exorcist#441.3#1973
+Mrs. Doubtfire#441.3#1993
+Terminator: Genisys#440.6#2015
+The Greatest Showman#435.0#2017
+Warcraft#433.7#2016
+Terminator 3: Rise of the Machines#433.4#2003
+The Mummy Returns#433.0#2001
+Die Another Day#432.0#2002
+Cast Away#429.6#2000
+The Matrix Revolutions#427.3#2003
+The Intouchables (U.S.-only)#426.6#2012
+Rampage (2018)#426.3#2018
+Django Unchained#425.4#2012
+Beauty and the Beast#425.0#1991
+Dances with Wolves#424.2#1990
+The Chronicles of Narnia: Prince Caspian#419.7#2008
+The Mummy#415.9#1999
+The Chronicles of Narnia: The Voyage of the Dawn Treader#415.7#2010
+Jason Bourne#415.5#2016
+Sex and the City#415.3#2008
+The Wolverine#414.8#2013
+Kingsman: The Secret Service#414.4#2015
+The King's Speech#414.2#2010
+Night at the Museum: Battle of the Smithsonian#413.1#2009
+Batman#411.3#1989
+The Bodyguard#411.0#1992
+Pacific Rim#411.0#2013
+Kingsman: The Golden Circle#410.9#2017
+The Mummy (2017)#409.2#2017
+Ice Age: Collision Course#408.6#2016
+Signs#408.2#2002
+X2: X-Men United#407.7#2003
+Prometheus#403.4#2012
+The Mummy: Tomb of the Dragon Emperor#401.1#2008
+Gone with the Wind#400.2#1939
+Tron Legacy#400.1#2010
+Mission: Impossible III#397.9#2006
+Snow White and the Huntsman#396.6#2012
+Grease#395.0#1978
+Mamma Mia! Here We Go Again#393.8#2018
+Twilight#393.6#2008
+Solo: A Star Wars Story#392.9#2018
+The Wolf of Wall Street#392.0#2013
+Superman Returns#391.1#2006
+Robin Hood: Prince of Thieves#390.5#1991
+Raiders of the Lost Ark#389.9#1981
+Independence Day: Resurgence#389.7#2016
+Home (2015)#386.0#2015
+Star Trek#385.7#2009
+Monster Hunt#385.3#2016
+Happy Feet#384.3#2006
+Cars 3#383.9#2017
+Live Free or Die Hard#383.5#2007
+Ice Age#383.3#2002
+Monsters Vs. Aliens#381.5#2009
+Back to the Future#381.1#1985
+Godzilla#379.0#1998
+True Lies#378.9#1994
+Mad Max: Fury Road#378.9#2015
+Slumdog Millionaire#377.9#2008
+Fifty Shades Darker#377.0#2017
+A Star is Born (2018)#376.3#2018
+Taken 2#376.1#2012
+G.I. Joe: Retaliation#375.7#2013
+Batman Begins#374.2#2005
+What Women Want#374.1#2000
+The Adventures of Tintin#374.0#2011
+Toy Story#373.6#1995
+X-Men Origins: Wolverine#373.1#2009
+Penguins of Madagascar#373.0#2014
+Dr. Seuss' The Grinch (2018)#372.7#2018
+The Golden Compass#372.2#2007
+Fifty Shades Freed#371.4#2018
+Terminator Salvation#371.4#2009
+Captain America: The First Avenger#370.6#2011
+Edge of Tomorrow#370.5#2014
+There's Something About Mary#369.9#1998
+Gone Girl#369.3#2014
+The Fugitive#368.9#1993
+Jurassic Park III#368.8#2001
+My Big Fat Greek Wedding#368.7#2002
+Hitch#368.1#2005
+Shark Tale#367.3#2004
+Die Hard: With A Vengeance#366.1#1995
+The Nun#365.6#2018
+Notting Hill#363.9#1999
+A Bug's Life#363.3#1998
+Night at the Museum: Secret of the Tomb#363.2#2014
+Fast and Furious#363.2#2009
+Ocean's Twelve#362.7#2004
+Noah#362.6#2014
+Planet of the Apes (2001)#362.2#2001
+The Hangover Part III#362.0#2013
+The World Is Not Enough#361.8#1999
+Monster Hunt 2#361.7#2018
+Alvin and the Chipmunks#361.3#2007
+The Karate Kid#359.1#2010
+Home Alone 2: Lost in New York#359.0#1992
+Hotel Transylvania#358.4#2012
+Minority Report#358.4#2002
+Your Name.#358.0#2017
+Top Gun#356.8#1986
+The Legend of Tarzan#356.7#2016
+American Beauty#356.3#1999
+Apollo 13#355.2#1995
+Rain Man#354.8#1988
+The Great Gatsby (2013)#353.6#2013
+X-Men: First Class#353.6#2011
+Basic Instinct#352.9#1992
+Murder on the Orient Express (2017)#352.8#2017
+The Angry Birds Movie#352.3#2016
+GoldenEye#352.2#1995
+Catch Me If You Can#352.1#2002
+Now You See Me#351.7#2013
+Hannibal#351.7#2001
+The Mask#351.6#1994
+Peter Rabbit#351.3#2018
+Speed#350.4#1994
+Dinosaur#349.8#2000
+Deep Impact#349.5#1998
+Dr. Seuss' The Lorax#348.8#2012
+The Maze Runner#348.3#2014
+The Smurfs 2#347.5#2013
+National Treasure#347.5#2004
+Rush Hour 2#347.3#2001
+I, Robot#347.2#2004
+Trolls#346.9#2016
+xXx: The Return of Xander Cage#346.1#2017
+Pocahontas#346.1#1995
+How the Grinch Stole Christmas#345.1#2000
+Star Trek Beyond#343.5#2016
+Alvin and the Chipmunks: Chipwrecked#342.7#2011
+The Flintstones#341.6#1994
+Wanted#341.4#2008
+A Quiet Place#340.7#2018
+Enchanted#340.5#2007
+300: Rise of An Empire#337.6#2014
+Batman Forever#336.5#1995
+Prince of Persia: The Sands of Time#336.4#2010
+Over the Hedge#336.0#2006
+Journey 2: The Mysterious Island#335.3#2012
+The Rock#335.1#1996
+The Great Wall#334.9#2017
+Now You See Me 2#334.9#2016
+The Curious Case of Benjamin Button#333.9#2008
+Indiana Jones and the Temple of Doom#333.1#1984
+Tomorrow Never Dies#333.0#1997
+The Good Dinosaur#332.2#2015
+Back to the Future Part II#332.0#1989
+22 Jump Street#331.3#2014
+Fantastic Four (2005)#330.6#2005
+Meet the Parents#330.4#2000
+Who Framed Roger Rabbit#329.8#1988
+Black Swan#329.4#2010
+The Perfect Storm#328.7#2000
+Crocodile Dundee#328.2#1986
+Seven#327.3#1995
+The Devil Wears Prada#326.6#2006
+Taken 3#326.5#2015
+The Hunchback of Notre Dame#325.3#1996
+A Christmas Carol (2009)#325.3#2009
+The SpongeBob Movie: Sponge Out of Water#325.2#2015
+Schindler's List#322.1#1993
+Megamind#321.9#2010
+Lethal Weapon 3#321.7#1992
+Robin Hood#321.7#2010
+Inglourious Basterds#321.5#2009
+101 Dalmatians (1996)#320.7#1996
+The Conjuring 2#320.4#2016
+Fatal Attraction#320.1#1987
+The Last Airbender#319.7#2010
+The Conjuring#319.5#2013
+The Proposal#317.4#2009
+Beverly Hills Cop#316.4#1984
+Air Force One#315.2#1997
+The Expendables 2#315.0#2012
+Chicken Little#314.4#2005
+As Good as It Gets#314.2#1997
+A Beautiful Mind#313.5#2001
+Maze Runner: The Scorch Trials#312.3#2015
+Resident Evil: The Final Chapter#312.2#2017
+Austin Powers: The Spy Who Shagged Me#312.0#1999
+The LEGO Batman Movie#312.0#2017
+Ocean's Thirteen#311.3#2007
+Little Fockers#310.7#2010
+The Polar Express#310.6#2004
+Bolt#310.0#2008
+Ransom#309.5#1996
+Runaway Bride#309.5#1999
+The Blind Side#309.2#2009
+The Fault in our Stars#307.2#2014
+The Pursuit of Happyness#307.1#2006
+Rise of the Guardians#306.9#2012
+Close Encounters of the Third Kind#306.9#1977
+Chicago#306.8#2002
+Annabelle: Creation#306.5#2017
+Wonder#305.9#2017
+Wrath of the Titans#305.3#2012
+A Good Day to Die Hard#304.7#2013
+Mulan#304.3#1998
+Skyscraper#304.1#2018
+Passengers (2016)#303.1#2016
+Battleship#303.0#2012
+Dangal#302.9#2016
+Liar Liar#302.7#1997
+G.I. Joe: The Rise of Cobra#302.5#2009
+Hook#300.9#1991
+Rocky IV#300.5#1985
+Superman#300.5#1978
+Rambo: First Blood Part II#300.4#1985
+Van Helsing#300.3#2004
+Resident Evil: Afterlife#300.2#2010
+Stuart Little#300.1#1999
+Beverly Hills Cop II#300.0#1987
+Alice Through the Looking Glass#299.5#2016
+My Best Friend's Wedding#299.3#1997
+Real Steel#299.3#2011
+The Divergent Series: Insurgent#297.3#2015
+Dr. Seuss' Horton Hears a Who!#297.1#2008
+Look Who's Talking#297.0#1989
+Ocean's 8#296.9#2018
+Austin Powers in Goldmember#296.7#2002
+Miss Peregrine's Home for Peculiar Children#296.5#2016
+X-Men#296.3#2000
+Ferdinand#296.1#2017
+Ghostbusters#295.2#1984
+Shutter Island#294.8#2010
+Doctor Dolittle#294.5#1998
+Salt#293.5#2010
+G-Force#292.8#2009
+The Departed#291.5#2006
+What Lies Beneath#291.4#2000
+Pacific Rim Uprising#290.5#2018
+Shakespeare in Love#289.3#1998
+Fantastic Four: Rise of the Silver Surfer#289.0#2007
+Divergent#288.9#2014
+Coming to America#288.8#1988
+The Bourne Supremacy#288.5#2004
+Bridesmaids#288.4#2011
+Sex and the City 2#288.3#2010
+Maze Runner: The Death Cure#288.3#2018
+Casper#287.9#1995
+Bee Movie#287.6#2007
+American Pie 2#287.6#2001
+Pitch Perfect 2#287.5#2015
+The Green Mile#286.8#1999
+Oblivion#286.2#2013
+Elysium#286.1#2013
+Lethal Weapon 4#285.4#1998
+Wedding Crashers#285.2#2005
+Ralph Breaks the Internet#285.2#2018
+John Carter#284.1#2012
+Turbo#282.6#2013
+Bridget Jones's Diary#281.9#2001
+Split#278.5#2017
+The Tourist#278.3#2010
+Scary Movie#278.0#2000
+XXX#277.4#2002
+The Bourne Legacy#276.1#2012
+Spirited Away#276.1#2002
+Mr. Peabody & Sherman#275.7#2014
+Scooby-Doo#275.7#2002
+Lincoln#275.3#2012
+Lara Croft: Tomb Raider#274.7#2001
+The Expendables#274.5#2010
+Cloudy with a Chance of Meatballs 2#274.3#2013
+The Nutty Professor (1996)#274.0#1996
+Tomb Raider#273.8#2018
+Jerry Maguire#273.6#1996
+Bad Boys II#273.3#2003
+Lilo & Stitch#273.1#2002
+The Silence of the Lambs#272.7#1991
+Grown Ups#271.4#2010
+Neighbors#270.7#2014
+The Firm#270.2#1993
+We're the Millers#270.0#2013
+Gran Torino#270.0#2008
+10,000 B.C.#269.8#2008
+Epic#268.4#2013
+Exodus: Gods and Kings#268.2#2014
+Paddington#268.0#2015
+Bambi#267.4#1942
+The Princess and the Frog#267.0#2009
+Batman Returns#266.8#1992
+Something's Gotta Give#266.7#2003
+Indecent Proposal#266.6#1993
+American Gangster#266.5#2007
+Waterworld#264.2#1995
+The Truman Show#264.1#1998
+Charlie's Angels#264.1#2000
+The Fifth Element#263.9#1997
+The Incredible Hulk#263.4#2008
+Jumanji#262.8#1995
+Bridget Jones: The Edge of Reason#262.5#2004
+Knight & Day#261.9#2010
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan#261.6#2006
+Total Recall#261.3#1990
+Aquaman#261.3#2018
+Michael Jackson's This Is It#261.2#2009
+Robots#260.7#2005
+The Lone Ranger#260.5#2013
+Super 8#260.1#2011
+Mojin: The Lost Legend#259.4#2015
+Blade Runner 2049#259.2#2017
+Charlie's Angels: Full Throttle#259.2#2003
+Rush Hour 3#258.0#2007
+The Full Monty#257.9#1997
+Annabelle#257.0#2014
+The Village#256.7#2004
+Lost in Hong Kong#256.3#2015
+Erin Brockovich#256.3#2000
+Get Out#255.4#2017
+Cliffhanger#255.0#1993
+Kung Fu Yoga#254.2#2017
+Baahubali 2: The Conclusion#254.2#2017
+Babe#254.1#1995
+Wild Hogs#253.6#2007
+Halloween (2018)#253.5#2018
+High School Musical 3: Senior Year#252.9#2008
+Hercules#252.7#1997
+True Grit#252.3#2010
+Bean#251.2#1997
+American Hustle#251.2#2013
+You've Got Mail#250.8#1998
+Enemy of the State#250.6#1998
+Brother Bear#250.4#2003
+The Mask of Zorro#250.3#1998
+Eragon#249.5#2006
+The Ring#249.3#2002
+The Blair Witch Project#248.6#1999
+Unbreakable#248.1#2000
+Dumb and Dumber#247.3#1994
+Grown Ups 2#247.0#2013
+Love Actually#246.9#2003
+Journey to the West: The Demons Strike Back#246.6#2017
+The Peanuts Movie#246.2#2015
+Rango#245.7#2011
+Four Weddings and a Funeral#245.7#1994
+Face/Off#245.7#1997
+Teenage Mutant Ninja Turtles: Out of the Shadows#245.6#2016
+Dark Shadows#245.5#2012
+Hulk#245.4#2003
+Bienvenue chez les Ch'tis#245.1#0
+The Godfather#245.1#1972
+Pixels#244.9#2015
+Hercules (2014)#244.8#2014
+Back to the Future Part III#244.5#1990
+Rush Hour#244.4#1998
+After Earth#243.8#2013
+A Few Good Men#243.2#1992
+Cloudy with a Chance of Meatballs#243.0#2009
+8 Mile#242.9#2002
+Daddy's Home#242.8#2015
+Marley and Me#242.7#2008
+RoboCop (2014)#242.7#2014
+Eraser#242.3#1996
+Journey to the Center of the Earth#242.0#2008
+Assassin's Creed#240.9#2016
+Alien: Covenant#240.9#2017
+Sully#240.8#2016
+Die Hard 2: Die Harder#240.0#1990
+Resident Evil: Retribution#240.0#2012
+Crocodile Dundee II#239.6#1988
+Planes#239.3#2013
+Batman and Robin#238.2#1997
+Crazy Rich Asians#238.0#2018
+Click#237.7#2006
+Gulliver's Travels#237.4#2010
+Gone in 60 Seconds#237.2#2000
+Saturday Night Fever#237.1#1977
+Silver Linings Playbook#236.4#2012
+2 Fast 2 Furious#236.4#2003
+Hidden Figures#236.0#2016
+A.I. Artificial Intelligence#235.9#2001
+Dead Poets Society#235.9#1989
+Spy#235.7#2015
+American Pie#235.5#1999
+Howl's Moving Castle#235.2#2005
+American Reunion#235.0#2012
+Big Daddy#234.8#1999
+Alvin and the Chipmunks: The Road Chip#234.8#2015
+The Imitation Game#233.6#2014
+The Day the Earth Stood Still (2008)#233.1#2008
+The Girl with the Dragon Tattoo (2011)#232.6#2011
+Argo#232.3#2012
+The English Patient#232.0#1996
+Sister Act#231.6#1992
+American Wedding#231.4#2003
+Juno#231.4#2007
+Constantine#230.9#2005
+Get Smart#230.7#2008
+Space Jam#230.4#1996
+The Heat#229.9#2013
+Mr. Bean's Holiday#229.7#2007
+Life Is Beautiful#229.2#1998
+Ghostbusters (2016)#229.1#2016
+Ghost Rider#228.7#2007
+Goodbye Mr. Loser#228.1#2015
+Sleepless in Seattle#227.9#1993
+Lethal Weapon 2#227.9#1989
+The Green Hornet#227.8#2011
+Out of Africa#227.5#1985
+Baby Driver#226.9#2017
+Immortals#226.9#2011
+Paddington 2#226.9#2018
+Taken#226.8#2009
+Percy Jackson & The Olympians: The Lightning Thief#226.5#2010
+Hansel and Gretel: Witch Hunters#226.3#2013
+Good Will Hunting#225.9#1997
+Valerian and the City of a Thousand Planets#225.9#2017
+The Social Network#224.9#2010
+Chicken Run#224.8#2000
+Con Air#224.0#1997
+Interview with the Vampire#223.7#1994
+Flightplan#223.4#2005
+Yes Man#223.2#2008
+Non-Stop#222.8#2014
+Honey, I Shrunk the Kids#222.7#1989
+Fahrenheit 9/11#222.4#2004
+Jumper#222.2#2008
+Wild Wild West#222.1#1999
+Geostorm#221.6#2017
+Presumed Innocent#221.3#1990
+Scary Movie 3#220.7#2003
+Elf#220.4#2003
+Inferno#220.0#2016
+Green Lantern#219.9#2011
+The Terminal#219.4#2004
+What Happens in Vegas#219.4#2008
+It's Complicated#219.1#2009
+Knocked Up#219.1#2007
+Captain Phillips#218.8#2013
+The Prince of Egypt#218.6#1998
+Jack Reacher#218.3#2012
+The Emoji Movie#217.8#2017
+Collateral#217.8#2004
+Dracula Untold#217.1#2014
+Central Intelligence#217.0#2016
+Million Dollar Baby#216.8#2004
+Ted 2#216.7#2015
+The Help#216.6#2011
+Twins#216.6#1988
+Valentine's Day#216.5#2010
+Bad Teacher#216.2#2011
+Clear and Present Danger#215.9#1994
+101 Dalmatians#215.9#1961
+Bram Stoker's Dracula#215.9#1992
+Vertical Limit#215.7#2000
+Ghostbusters II#215.4#1989
+The Patriot#215.3#2000
+The Sorcerer's Apprentice#215.3#2010
+Just Go With It#214.9#2011
+The Expendables 3#214.7#2014
+Public Enemies#214.1#2009
+The Bourne Identity#214.0#2002
+Disclosure#214.0#1994
+Dirty Dancing#214.0#1987
+Pulp Fiction#213.9#1994
+The Aviator#213.7#2004
+Crouching Tiger, Hidden Dragon#213.5#2000
+Smallfoot#213.4#2018
+Braveheart#213.2#1995
+Into the Woods#213.1#2014
+Bedtime Stories#212.9#2008
+Miss Congeniality#212.7#2000
+Entrapment#212.4#1999
+Ace Ventura: When Nature Calls#212.4#1995
+Master and Commander: The Far Side of the World#212.0#2003
+End of Days#212.0#1999
+Bridget Jones's Baby#212.0#2016
+Battle: Los Angeles#211.8#2011
+Fury (2014)#211.8#2014
+Due Date#211.8#2010
+Kingdom of Heaven#211.7#2005
+The Little Mermaid#211.3#1989
+Australia#211.3#2008
+District 9#210.8#2009
+Moonraker#210.3#1979
+The Others#209.9#2001
+Horrible Bosses#209.6#2011
+Red Dragon#209.2#2002
+Tomorrowland#209.2#2015
+Lemony Snicket's A Series of Unfortunate Events#209.1#2004
+Me Before You#208.3#2016
+Safe House#208.1#2012
+S.W.A.T.#207.7#2003
+Traffic#207.5#2000
+The Fast and the Furious#207.3#2001
+Paranormal Activity 3#207.0#2011
+Philadelphia#206.7#1993
+Sleepy Hollow#206.1#1999
+The Jungle Book#205.8#1967
+London Has Fallen#205.8#2016
+Journey to the West#205.6#2014
+JFK#205.4#1991
+White House Down#205.4#2013
+The Ugly Truth#205.3#2009
+The Holiday#205.1#2006
+The Break-Up#205.0#2006
+Eat Pray Love#204.6#2010
+A Dog's Purpose#204.1#2017
+King Arthur#203.6#2004
+Everest (2015)#203.4#2015
+Vanilla Sky#203.4#2001
+Arrival#203.4#2016
+Need for Speed#203.3#2014
+Hairspray (2007)#202.5#2007
+Patch Adams#202.3#1998
+Fun with Dick and Jane#202.0#2005
+Teenage Mutant Ninja Turtles#202.0#1990
+Kindergarten Cop#202.0#1990
+Ponyo#201.8#2009
+Straight Outta Compton#201.6#2015
+21 Jump Street#201.6#2012
+Yogi Bear#201.6#2010
+Garfield: The Movie#200.8#2004
+Cats & Dogs#200.7#2001
+The Hunt for Red October#200.5#1990
+Valkyrie#200.3#2008

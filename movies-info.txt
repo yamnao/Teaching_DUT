@@ -1,0 +1,4560 @@
+Avatar
+	genre:Sci-Fi Adventure
+	distributor:Fox
+	directors:James Cameron
+	actors:Sam Worthington#Zoe Saldana#Sigourney Weaver#Michelle Rodriguez#Giovanni Ribisi#Joel David Moore
+
+Titanic
+	genre:Romance
+	distributor:Paramount
+	directors:James Cameron
+	actors:Leonardo DiCaprio#Kate Winslet#Kathy Bates#Bill Paxton#Ioan Gruffudd#Billy Zane#Bernard Hill
+
+Star Wars: The Force Awakens
+	genre:Sci-Fi Fantasy
+	distributor:Buena Vista
+	directors:J.J. Abrams
+	actors:John Boyega#Daisy Ridley#Oscar Isaac#Andy Serkis#Harrison Ford#Carrie Fisher#Mark Hamill#Anthony Daniels#Peter Mayhew#Lupita Nyong'o#Simon Pegg#Adam Driver#Domhnall Gleeson#Kenny Baker#Iko Uwais
+
+Avengers: Infinity War
+	genre:Action / Adventure
+	distributor:Buena Vista
+	directors:Joe Russo#Anthony Russo
+	actors:Robert Downey, Jr.#Chris Hemsworth#Mark Ruffalo#Anthony Mackie#Elizabeth Olsen#Paul Bettany#Benedict Cumberbatch#Tom Holland#Chadwick Boseman#Josh Brolin#Don Cheadle#Sebastian Stan#Dave Bautista#Karen Gillan#Chris Evans#Scarlett Johansson#Idris Elba#Tom Hiddleston#Chris Pratt#Bradley Cooper#Samuel L. Jackson#Zoe Saldana#Vin Diesel#William Hurt#Gwyneth Paltrow#Benicio Del Toro#Peter Dinklage
+
+Jurassic World
+	genre:Action / Adventure
+	distributor:Universal
+	directors:Colin Trevorrow
+	actors:Omar Sy#Chris Pratt#Bryce Dallas Howard#Jake Johnson#Irrfan Khan#Vincent D'Onofrio#Judy Greer
+
+Marvel's The Avengers
+	genre:Action / Adventure
+	distributor:Buena Vista
+	directors:Joss Whedon
+	actors:Robert Downey, Jr.#Chris Hemsworth#Chris Evans#Jeremy Renner#Mark Ruffalo#Scarlett Johansson#Clark Gregg#Samuel L. Jackson#Tom Hiddleston#Stellan Skarsgard#Gwyneth Paltrow#Paul Bettany#Cobie Smulders
+
+Furious 7
+	genre:Action
+	distributor:Universal
+	directors:James Wan
+	actors:Tony Jaa#Vin Diesel#Paul Walker#Dwayne Johnson#Michelle Rodriguez#Jordana Brewster#Tyrese Gibson#Chris 'Ludacris' Bridges#Lucas Black#Jason Statham#Djimon Hounsou#Kurt Russell
+
+Avengers: Age of Ultron
+	genre:Action / Adventure
+	distributor:Buena Vista
+	directors:Joss Whedon
+	actors:Robert Downey, Jr.#Chris Hemsworth#Mark Ruffalo#Chris Evans#Scarlett Johansson#Jeremy Renner#Don Cheadle#Aaron Johnson#Elizabeth Olsen#Paul Bettany#Anthony Mackie#Idris Elba#Stellan Skarsgard#Samuel L. Jackson#Josh Brolin#Andy Serkis#Cobie Smulders#Hayley Atwell#James Spader
+
+Black Panther
+	genre:Action / Adventure
+	distributor:Buena Vista
+	directors:Ryan Coogler
+	actors:Chadwick Boseman#Lupita Nyong'o#Michael B. Jordan#Angela Bassett#Martin Freeman#Forest Whitaker#Andy Serkis#Sterling K. Brown
+
+Harry Potter and the Deathly Hallows Part 2
+	genre:Fantasy
+	distributor:Warner Bros.
+	directors:David Yates
+	actors:Daniel Radcliffe#Rupert Grint#Emma Watson#Helena Bonham Carter#Ralph Fiennes#Alan Rickman#Julie Walters#Gary Oldman#Emma Thompson#Maggie Smith#Jim Broadbent#Tom Felton#Michael Gambon#David Thewlis#Bonnie Wright#John Hurt#Ciaran Hinds#Miranda Richardson
+
+Star Wars: The Last Jedi
+	genre:Sci-Fi Fantasy
+	distributor:Buena Vista
+	directors:Rian Johnson
+	actors:Mark Hamill#Carrie Fisher#Daisy Ridley#John Boyega#Oscar Isaac#Lupita Nyong'o#Andy Serkis#Anthony Daniels#Benicio Del Toro#Adam Driver#Domhnall Gleeson#Laura Dern#Kelly Marie Tran
+
+Jurassic World: Fallen Kingdom
+	genre:Action / Adventure
+	distributor:Universal
+	directors:J.A. Bayona
+	actors:Chris Pratt#Bryce Dallas Howard#Jeff Goldblum#James Cromwell#Toby Jones
+
+Frozen
+	genre:Animation
+	distributor:Buena Vista
+	directors:Chris Buck#Jennifer Lee
+	actors:Kristen Bell#Josh Gad#Alan Tudyk#Jonathan Groff#Idina Menzel
+
+Beauty and the Beast (2017)
+	genre:Fantasy
+	distributor:Buena Vista
+	directors:Bill Condon
+	actors:Emma Watson#Luke Evans#Emma Thompson#Kevin Kline#Dan Stevens#Ewan McGregor#Stanley Tucci#Ian McKellen#Josh Gad#Gugu Mbatha-Raw
+
+Incredibles 2
+	genre:Animation
+	distributor:Buena Vista
+	directors:Brad Bird
+	actors:Craig T. Nelson#Holly Hunter#Samuel L. Jackson#Brad Bird#Bob Odenkirk#Catherine Keener#Sophia Bush#Isabella Rossellini
+
+The Fate of the Furious
+	genre:Action
+	distributor:Universal
+	directors:F. Gary Gray
+	actors:Vin Diesel#Dwayne Johnson#Tyrese Gibson#Charlize Theron#Michelle Rodriguez#Helen Mirren#Chris 'Ludacris' Bridges#Jason Statham#Kristofer Hivju#Kurt Russell
+
+Iron Man 3
+	genre:Action / Adventure
+	distributor:Buena Vista
+	directors:Shane Black
+	actors:Robert Downey, Jr.#Gwyneth Paltrow#Don Cheadle#Guy Pearce#Rebecca Hall#Jon Favreau#Ben Kingsley#Paul Bettany#Mark Ruffalo#James Badge Dale
+
+Minions
+	genre:Animation
+	distributor:Universal
+	directors:Pierre Coffin
+	actors:Sandra Bullock#Jon Hamm#Michael Keaton#Allison Janney#Steve Coogan#Steve Carell
+
+Captain America: Civil War
+	genre:Action / Adventure
+	distributor:Buena Vista
+	directors:Anthony Russo#Joe Russo
+	actors:Chris Evans#Robert Downey, Jr.#Scarlett Johansson#Sebastian Stan#Anthony Mackie#Paul Bettany#Jeremy Renner#Don Cheadle#Elizabeth Olsen#Paul Rudd#Chadwick Boseman#Frank Grillo#William Hurt#Martin Freeman#Tom Holland#Marisa Tomei#Emily VanCamp
+
+Transformers: Dark of the Moon
+	genre:Sci-Fi Action
+	distributor:Paramount (DreamWorks)
+	directors:Michael Bay
+	actors:Shia LaBeouf#Rosie Huntington-Whiteley#Josh Duhamel#Tyrese Gibson#Frances McDormand#John Malkovich#Alan Tudyk#Hugo Weaving#Leonard Nimoy#Patrick Dempsey#Ken Jeong
+
+The Lord of the Rings: The Return of the King
+	genre:Fantasy
+	distributor:New Line
+	directors:Peter Jackson
+	actors:Andy Serkis#Ian McKellen#Elijah Wood#Viggo Mortensen#Liv Tyler#Orlando Bloom#Ian Holm#Cate Blanchett#Karl Urban#Sean Bean#Sean Astin
+
+Skyfall
+	genre:Action
+	distributor:Sony / Columbia
+	directors:Sam Mendes
+	actors:Daniel Craig#Judi Dench#Javier Bardem#Ralph Fiennes#Naomie Harris#Ben Whishaw#Berenice Marlohe#Albert Finney
+
+Transformers: Age of Extinction
+	genre:Sci-Fi Action
+	distributor:Paramount
+	directors:Michael Bay
+	actors:Mark Wahlberg#Stanley Tucci#Kelsey Grammer#Nicola Peltz#TJ Miller
+
+The Dark Knight Rises
+	genre:Action Thriller
+	distributor:Warner Bros.
+	directors:Christopher Nolan
+	actors:Christian Bale#Michael Caine#Anne Hathaway#Tom Hardy#Gary Oldman#Marion Cotillard#Joseph Gordon-Levitt#Morgan Freeman#Juno Temple#Cillian Murphy#Liam Neeson#Joey King#Ben Mendelsohn#Matthew Modine
+
+Toy Story 3
+	genre:Animation
+	distributor:Buena Vista
+	directors:Lee Unkrich
+	actors:Tom Hanks#Michael Keaton#Tim Allen#Bonnie Hunt#Lee Unkrich#Joan Cusack#Don Rickles#John Ratzenberger#Whoopi Goldberg#Wallace Shawn#Timothy Dalton#Ned Beatty#Jodi Benson#Richard Kind#Jeff Garlin
+
+Pirates of the Caribbean: Dead Man's Chest
+	genre:Period Adventure
+	distributor:Buena Vista
+	directors:Gore Verbinski
+	actors:Johnny Depp#Orlando Bloom#Keira Knightley#Jack Davenport#Jonathan Pryce#Stellan Skarsgard#Naomie Harris#Geoffrey Rush#Bill Nighy#Tom Hollander
+
+Rogue One: A Star Wars Story
+	genre:Sci-Fi Adventure
+	distributor:Buena Vista
+	directors:Gareth Edwards
+	actors:Felicity Jones#Mads Mikkelsen#Ben Mendelsohn#Alan Tudyk#Donnie Yen#Forest Whitaker#Diego Luna#Anthony Daniels#Riz Ahmed
+
+Pirates of the Caribbean: On Stranger Tides
+	genre:Period Adventure
+	distributor:Buena Vista
+	directors:Rob Marshall
+	actors:Johnny Depp#Penelope Cruz#Geoffrey Rush#Ian McShane#Astrid Berges-Frisbey
+
+Despicable Me 3
+	genre:Animation
+	distributor:Universal
+	directors:Pierre Coffin#Eric Guillon
+	actors:Steve Carell#Trey Parker#Kristen Wiig#Steve Coogan#Julie Andrews#Jenny Slate
+
+Jurassic Park
+	genre:Sci-Fi Horror
+	distributor:Universal
+	directors:Steven Spielberg
+	actors:Jeff Goldblum#Samuel L. Jackson#Laura Dern
+
+Finding Dory
+	genre:Animation
+	distributor:Buena Vista
+	directors:Andrew Stanton
+	actors:Ellen DeGeneres#Albert Brooks#Ty Burrell#Diane Keaton#Idris Elba#Andrew Stanton#Bob Peterson#Sigourney Weaver#Ed O'Neill#Eugene Levy#Dominic West#Bill Hader#Kate McKinnon
+
+Star Wars: Episode I - The Phantom Menace
+	genre:Sci-Fi Fantasy
+	distributor:Fox
+	directors:George Lucas
+	actors:Anthony Daniels#Ian McDiarmid#Liam Neeson#Ewan McGregor#Natalie Portman#Samuel L. Jackson#Keira Knightley
+
+Alice in Wonderland (2010)
+	genre:Family Adventure
+	distributor:Buena Vista
+	directors:Tim Burton
+	actors:Mia Wasikowska#Johnny Depp#Helena Bonham Carter#Anne Hathaway#Michael Sheen#Alan Rickman#Crispin Glover#Timothy Spall
+
+Zootopia
+	genre:Animation
+	distributor:Buena Vista
+	directors:Rich Moore
+	actors:Ginnifer Goodwin#Jason Bateman#Idris Elba#Octavia Spencer#Bonnie Hunt#Alan Tudyk#J.K. Simmons#Jenny Slate#Tommy Chong
+
+The Hobbit: An Unexpected Journey
+	genre:Fantasy
+	distributor:Warner Bros. (New Line)
+	directors:Peter Jackson
+	actors:Martin Freeman#Ian McKellen#Andy Serkis#Cate Blanchett#Hugo Weaving#Christopher Lee#Ian Holm#Elijah Wood#Lee Pace#Richard Armitage
+
+The Dark Knight
+	genre:Action / Adventure
+	distributor:Warner Bros.
+	directors:Christopher Nolan
+	actors:Christian Bale#Heath Ledger#Aaron Eckhart#Morgan Freeman#Michael Caine#Gary Oldman#Maggie Gyllenhaal#Cillian Murphy#Eric Roberts#William Fichtner
+
+Harry Potter and the Sorcerer's Stone
+	genre:Fantasy
+	distributor:Warner Bros.
+	directors:Chris Columbus
+	actors:Daniel Radcliffe#Emma Watson#Rupert Grint#Alan Rickman#Julie Walters#Robbie Coltrane
+
+Despicable Me 2
+	genre:Animation
+	distributor:Universal
+	directors:Pierre Coffin#Chris Renaud
+	actors:Steve Carell#Kristen Wiig#Benjamin Bratt#Russell Brand#Steve Coogan#Ken Jeong
+
+The Lion King
+	genre:Animation
+	distributor:Buena Vista
+	directors:Rob Minkoff
+	actors:Matthew Broderick#Jeremy Irons#Jonathan Taylor Thomas#Moira Kelly#Rowan Atkinson#Cheech Marin
+
+The Jungle Book (2016)
+	genre:Adventure
+	distributor:Buena Vista
+	directors:Jon Favreau
+	actors:Scarlett Johansson#Idris Elba#Lupita Nyong'o#Ben Kingsley#Christopher Walken#Bill Murray
+
+Pirates of the Caribbean: At World's End
+	genre:Period Adventure
+	distributor:Buena Vista
+	directors:Gore Verbinski
+	actors:Johnny Depp#Orlando Bloom#Keira Knightley#Geoffrey Rush#Jack Davenport#Jonathan Pryce#Stellan Skarsgard#Naomie Harris#Chow Yun-Fat#Bill Nighy#Tom Hollander
+
+Jumanji: Welcome to the Jungle
+	genre:Action
+	distributor:Sony / Columbia
+	directors:Jake Kasdan
+	actors:Dwayne Johnson#Jack Black#Kevin Hart#Karen Gillan#Nick Jonas#Bobby Cannavale
+
+Harry Potter and the Deathly Hallows Part 1
+	genre:Fantasy
+	distributor:Warner Bros.
+	directors:David Yates
+	actors:Daniel Radcliffe#Rupert Grint#Emma Watson#Helena Bonham Carter#Ralph Fiennes#Alan Rickman#Brendan Gleeson#Maggie Smith#Julie Walters#Imelda Staunton#Rhys Ifans#Clemence Poesy#Michael Gambon#Richard Griffiths#David Thewlis#Miranda Richardson#John Hurt#Jason Isaacs
+
+The Hobbit: The Desolation of Smaug
+	genre:Fantasy
+	distributor:Warner Bros. (New Line)
+	directors:Peter Jackson
+	actors:Martin Freeman#Ian McKellen#Orlando Bloom#Evangeline Lilly#Benedict Cumberbatch#Luke Evans#Lee Pace#Cate Blanchett#Richard Armitage
+
+The Hobbit: The Battle of the Five Armies
+	genre:Fantasy
+	distributor:Warner Bros. (New Line)
+	directors:Peter Jackson
+	actors:Ian McKellen#Martin Freeman#Lee Pace#Luke Evans#Orlando Bloom#Evangeline Lilly#Hugo Weaving#Christopher Lee#Cate Blanchett#Benedict Cumberbatch#Richard Armitage
+
+Finding Nemo
+	genre:Animation
+	distributor:Buena Vista
+	directors:Andrew Stanton#Lee Unkrich
+	actors:Albert Brooks#Ellen DeGeneres#Willem Dafoe#Eric Bana#Geoffrey Rush
+
+Harry Potter and the Order of the Phoenix
+	genre:Fantasy
+	distributor:Warner Bros.
+	directors:David Yates
+	actors:Daniel Radcliffe#Rupert Grint#Emma Watson#Helena Bonham Carter#Ralph Fiennes#Brendan Gleeson#Gary Oldman#Alan Rickman#Maggie Smith#Imelda Staunton#Emma Thompson#Julie Walters#Robert Pattinson#Robbie Coltrane#Michael Gambon#Richard Griffiths#Fiona Shaw#David Thewlis
+
+Harry Potter and the Half-Blood Prince
+	genre:Fantasy
+	distributor:Warner Bros.
+	directors:David Yates
+	actors:Daniel Radcliffe#Rupert Grint#Emma Watson#Jim Broadbent#Helena Bonham Carter#Alan Rickman#Maggie Smith#Julie Walters#Robbie Coltrane#Michael Gambon#Timothy Spall
+
+The Lord of the Rings: The Two Towers
+	genre:Fantasy
+	distributor:New Line
+	directors:Peter Jackson
+	actors:Elijah Wood#Ian McKellen#Viggo Mortensen#Liv Tyler#Orlando Bloom#Andy Serkis#Karl Urban#Christopher Lee#Cate Blanchett#Sean Astin
+
+Shrek 2
+	genre:Animation
+	distributor:DreamWorks
+	directors:Andrew Adamson#Kelly Asbury#Conrad Vernon
+	actors:Mike Myers#Cameron Diaz#Eddie Murphy#Antonio Banderas#Julie Andrews
+
+Harry Potter and the Goblet of Fire
+	genre:Fantasy
+	distributor:Warner Bros.
+	directors:Mike Newell
+	actors:Daniel Radcliffe#Emma Watson#Rupert Grint#Ralph Fiennes#Brendan Gleeson#Robert Pattinson#Gary Oldman#Alan Rickman#Clemence Poesy
+
+Spider-Man 3
+	genre:Action / Adventure
+	distributor:Sony / Columbia
+	directors:Sam Raimi
+	actors:Tobey Maguire#Kirsten Dunst#James Franco#Thomas Haden Church#Topher Grace#Bryce Dallas Howard#Elizabeth Banks#Willem Dafoe
+
+Ice Age: Dawn of the Dinosaurs
+	genre:Animation
+	distributor:Fox
+	directors:Carlos Saldanha
+	actors:John Leguizamo#Queen Latifah#Simon Pegg#Kristen Wiig#Joey King#Denis Leary
+
+Spectre
+	genre:Action
+	distributor:Sony / Columbia
+	directors:Sam Mendes
+	actors:Daniel Craig#Christoph Waltz#Ralph Fiennes#Dave Bautista#Monica Bellucci#Ben Whishaw#Naomie Harris#Lea Seydoux
+
+Spider-Man: Homecoming
+	genre:Action / Adventure
+	distributor:Sony / Columbia
+	directors:
+	actors:Tom Holland#Marisa Tomei#Robert Downey, Jr.#Michael Keaton#Jon Favreau#Tony Revolori#Zendaya
+
+Harry Potter and the Chamber of Secrets
+	genre:Fantasy
+	distributor:Warner Bros.
+	directors:Chris Columbus
+	actors:Daniel Radcliffe#Rupert Grint#Emma Watson#Kenneth Branagh#Julie Walters#Alan Rickman#Robbie Coltrane#Warwick Davis
+
+Ice Age: Continental Drift
+	genre:Animation
+	distributor:Fox
+	directors:
+	actors:Queen Latifah#John Leguizamo#Jennifer Lopez#Alan Tudyk#Nick Frost#Aziz Ansari#Nicki Minaj#Rebel Wilson#Denis Leary#Josh Peck#Seann William Scott
+
+The Secret Life of Pets
+	genre:Animation
+	distributor:Universal
+	directors:Chris Renaud
+	actors:Dana Carvey#Kevin Hart#Louis C.K.#Eric Stonestreet
+
+Batman v Superman: Dawn of Justice
+	genre:Action / Adventure
+	distributor:Warner Bros.
+	directors:Zack Snyder
+	actors:Henry Cavill#Ben Affleck#Gal Gadot#Jesse Eisenberg#Jeremy Irons#Amy Adams#Laurence Fishburne#Diane Lane#Holly Hunter#Kevin Costner
+
+The Lord of the Rings: The Fellowship of the Ring
+	genre:Fantasy
+	distributor:New Line
+	directors:Peter Jackson
+	actors:Andy Serkis#Elijah Wood#Ian McKellen#Viggo Mortensen#Cate Blanchett#Liv Tyler#Ian Holm#Christopher Lee#Sean Bean#Orlando Bloom#Hugo Weaving#Sean Astin
+
+Wolf Warrior 2
+	genre:Foreign
+	distributor:H Collective
+	directors:
+	actors:
+
+The Hunger Games: Catching Fire
+	genre:Action / Adventure
+	distributor:Lionsgate
+	directors:Francis Lawrence
+	actors:Jennifer Lawrence#Josh Hutcherson#Liam Hemsworth#Elizabeth Banks#Stanley Tucci#Woody Harrelson#Philip Seymour Hoffman#Jeffrey Wright#Jena Malone#Lenny Kravitz#Amanda Plummer#Donald Sutherland
+
+Guardians of the Galaxy Vol. 2
+	genre:Action / Adventure
+	distributor:Buena Vista
+	directors:James Gunn
+	actors:Michael Rooker#Chris Pratt#Zoe Saldana#Dave Bautista#Vin Diesel#Bradley Cooper#Karen Gillan#Elizabeth Debicki#Kurt Russell#Sylvester Stallone
+
+Inside Out
+	genre:Animation
+	distributor:Buena Vista
+	directors:Pete Docter
+	actors:Mindy Kaling#Diane Lane#Bill Hader#Phyllis Smith#Lewis Black#Kyle MacLachlan
+
+Thor: Ragnarok
+	genre:Action / Adventure
+	distributor:Buena Vista
+	directors:Taika Waititi
+	actors:Chris Hemsworth#Mark Ruffalo#Cate Blanchett#Jeff Goldblum#Tessa Thompson#Karl Urban#Anthony Hopkins#Tom Hiddleston#Idris Elba#Benedict Cumberbatch
+
+Venom (2018)
+	genre:Action
+	distributor:Sony / Columbia
+	directors:Ruben Fleischer
+	actors:Tom Hardy#Michelle Williams#Woody Harrelson#Jenny Slate
+
+Star Wars: Episode III - Revenge of the Sith
+	genre:Sci-Fi Fantasy
+	distributor:Fox
+	directors:George Lucas
+	actors:Anthony Daniels#Christopher Lee#Peter Mayhew#Ian McDiarmid#Ewan McGregor#Hayden Christensen#Natalie Portman#Samuel L. Jackson
+
+Transformers: Revenge of the Fallen
+	genre:Sci-Fi Action
+	distributor:Paramount (DreamWorks)
+	directors:Michael Bay
+	actors:Shia LaBeouf#Megan Fox#Josh Duhamel#Tyrese Gibson#John Turturro
+
+The Twilight Saga: Breaking Dawn Part 2
+	genre:Romance
+	distributor:Lionsgate/Summit
+	directors:Bill Condon
+	actors:Kristen Stewart#Robert Pattinson#Taylor Lautner#Billy Burke#Ashley Greene#Dakota Fanning#Michael Sheen#Kellan Lutz#Jackson Rathbone#Lee Pace#Peter Facinelli#Maggie Grace#Nikki Reed
+
+Inception
+	genre:Sci-Fi Action
+	distributor:Warner Bros.
+	directors:Christopher Nolan
+	actors:Leonardo DiCaprio#Joseph Gordon-Levitt#Marion Cotillard#Ellen Page#Tom Hardy#Cillian Murphy#Michael Caine#Lukas Haas#Ken Watanabe#Tom Berenger
+
+Wonder Woman
+	genre:Action / Adventure
+	distributor:Warner Bros.
+	directors:Patty Jenkins
+	actors:Gal Gadot#Chris Pine#Robin Wright#Ewen Bremner#Connie Nielsen#Danny Huston
+
+Spider-Man
+	genre:Action / Adventure
+	distributor:Sony / Columbia
+	directors:Sam Raimi
+	actors:Tobey Maguire#Willem Dafoe#Kirsten Dunst#James Franco#Elizabeth Banks
+
+Independence Day
+	genre:Sci-Fi Action
+	distributor:Fox
+	directors:Roland Emmerich
+	actors:Will Smith#Jeff Goldblum#Randy Quaid#Brent Spiner#Bill Pullman#Mary McDonnell#Robert Loggia#Vivica A. Fox
+
+Fantastic Beasts and Where To Find Them
+	genre:Fantasy
+	distributor:Warner Bros.
+	directors:David Yates
+	actors:Eddie Redmayne#Katherine Waterston#Ezra Miller#Dan Fogler#Colin Farrell#Jon Voight#Ron Perlman#Samantha Morton#Carmen Ejogo
+
+Coco
+	genre:Animation
+	distributor:Buena Vista
+	directors:Lee Unkrich
+	actors:Gael Garcia Bernal#Benjamin Bratt#Gabriel Iglesias#Cheech Marin
+
+Shrek the Third
+	genre:Animation
+	distributor:Paramount (DreamWorks)
+	directors:Chris Miller
+	actors:Mike Myers#Eddie Murphy#Cameron Diaz#Antonio Banderas#Julie Andrews#Justin Timberlake#John Krasinski#Seth Rogen#Tom McGrath#John Cleese#Rupert Everett#Eric Idle#Ian McShane#Cheri Oteri#Regis Philbin#Amy Poehler#Maya Rudolph#Amy Sedaris
+
+Harry Potter and the Prisoner of Azkaban
+	genre:Fantasy
+	distributor:Warner Bros.
+	directors:Alfonso Cuaron
+	actors:Daniel Radcliffe#Emma Watson#Rupert Grint#Alan Rickman#Gary Oldman#Emma Thompson#Julie Walters#Warwick Davis
+
+Pirates of the Caribbean: Dead Men Tell No Tales
+	genre:Period Adventure
+	distributor:Buena Vista
+	directors:Joachim Ronning#Espen Sandberg
+	actors:Johnny Depp#Javier Bardem#Brenton Thwaites#Geoffrey Rush#Orlando Bloom#Kaya Scodelario
+
+E.T.: The Extra-Terrestrial
+	genre:Family Adventure
+	distributor:Universal
+	directors:Steven Spielberg
+	actors:Drew Barrymore
+
+Mission: Impossible - Fallout
+	genre:Action
+	distributor:Paramount
+	directors:Christopher McQuarrie
+	actors:Tom Cruise#Henry Cavill#Simon Pegg#Rebecca Ferguson#Angela Bassett#Michelle Monaghan#Alec Baldwin#Ving Rhames#Wes Bentley
+
+Fast & Furious 6
+	genre:Action
+	distributor:Universal
+	directors:Justin Lin
+	actors:Gal Gadot#Vin Diesel#Paul Walker#Dwayne Johnson#Michelle Rodriguez#Tyrese Gibson#Chris 'Ludacris' Bridges#Jordana Brewster#Luke Evans#Gina Carano
+
+Indiana Jones and the Kingdom of the Crystal Skull
+	genre:Period Adventure
+	distributor:Paramount
+	directors:Steven Spielberg
+	actors:Harrison Ford#Cate Blanchett#Shia LaBeouf#Jim Broadbent#Karen Allen#Ray Winstone
+
+Spider-Man 2
+	genre:Action / Adventure
+	distributor:Sony / Columbia
+	directors:Sam Raimi
+	actors:Tobey Maguire#Kirsten Dunst#James Franco#Alfred Molina#Elizabeth Banks#Willem Dafoe#J.K. Simmons
+
+Deadpool
+	genre:Action
+	distributor:Fox
+	directors:
+	actors:Ryan Reynolds#Morena Baccarin#TJ Miller
+
+Star Wars
+	genre:Sci-Fi Fantasy
+	distributor:Fox
+	directors:George Lucas
+	actors:Anthony Daniels#Peter Mayhew#Mark Hamill#Harrison Ford#Carrie Fisher#Peter Cushing#Alec Guinness
+
+Guardians of the Galaxy
+	genre:Action / Adventure
+	distributor:Buena Vista
+	directors:James Gunn
+	actors:Michael Rooker#Chris Pratt#Zoe Saldana#Dave Bautista#Vin Diesel#Bradley Cooper#Lee Pace#Karen Gillan#Djimon Hounsou#John C. Reilly#Glenn Close#Benicio Del Toro#Josh Brolin
+
+2012
+	genre:Action Drama
+	distributor:Sony / Columbia
+	directors:Roland Emmerich
+	actors:Chiwetel Ejiofor#John Cusack#Woody Harrelson#Thandie Newton#Amanda Peet#Danny Glover
+
+Maleficent
+	genre:Fantasy
+	distributor:Buena Vista
+	directors:Robert Stromberg
+	actors:Angelina Jolie#Sharlto Copley#Elle Fanning#Imelda Staunton#Juno Temple#Brenton Thwaites#Sam Riley#Lesley Manville#Miranda Richardson
+
+The Da Vinci Code
+	genre:Thriller
+	distributor:Sony / Columbia
+	directors:Ron Howard
+	actors:Tom Hanks#Ian McKellen#Paul Bettany#Alfred Molina#Audrey Tautou#Jean Reno
+
+The Amazing Spider-Man
+	genre:Action / Adventure
+	distributor:Sony / Columbia
+	directors:Marc Webb
+	actors:Andrew Garfield#Emma Stone#Rhys Ifans#Sally Field#Irrfan Khan#Denis Leary#Campbell Scott
+
+The Hunger Games: Mockingjay - Part 1
+	genre:Action / Adventure
+	distributor:Lionsgate
+	directors:Francis Lawrence
+	actors:Jennifer Lawrence#Josh Hutcherson#Liam Hemsworth#Woody Harrelson#Philip Seymour Hoffman#Julianne Moore#Elizabeth Banks#Jena Malone#Jeffrey Wright#Stanley Tucci#Donald Sutherland#Sam Claflin
+
+Shrek Forever After
+	genre:Animation
+	distributor:Paramount (DreamWorks)
+	directors:Mike Mitchell
+	actors:Mike Myers#Eddie Murphy#Cameron Diaz#Antonio Banderas#Jon Hamm#Lake Bell#Julie Andrews#Jane Lynch#Maya Rudolph#John Cleese
+
+X-Men: Days of Future Past
+	genre:Action / Adventure
+	distributor:Fox
+	directors:Bryan Singer
+	actors:Omar Sy#Hugh Jackman#James McAvoy#Michael Fassbender#Jennifer Lawrence#Nicholas Hoult#Patrick Stewart#Ian McKellen#Ellen Page#Halle Berry#Anna Paquin#Famke Janssen#James Marsden#Shawn Ashmore
+
+Madagascar 3: Europe's Most Wanted
+	genre:Animation
+	distributor:Paramount (DreamWorks)
+	directors:Eric Darnell#Tom McGrath#Conrad Vernon
+	actors:Ben Stiller#Chris Rock#David Schwimmer#Jada Pinkett-Smith#Sacha Baron Cohen#Cedric the Entertainer#Jessica Chastain#Frances McDormand#Bryan Cranston#Andy Richter#Martin Short
+
+Suicide Squad
+	genre:Action / Adventure
+	distributor:Warner Bros.
+	directors:David Ayer
+	actors:Will Smith#Margot Robbie#Jared Leto#Jai Courtney#Cara Delevingne#Viola Davis#Common#Ben Affleck#Scott Eastwood#Jay Hernandez
+
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+	genre:Fantasy
+	distributor:Buena Vista
+	directors:Andrew Adamson
+	actors:Tilda Swinton#James McAvoy#Jim Broadbent#Liam Neeson
+
+Monsters University
+	genre:Animation
+	distributor:Buena Vista
+	directors:Dan Scanlon
+	actors:Billy Crystal#John Goodman#Helen Mirren#Alfred Molina#Charlie Day#Aubrey Plaza#John Krasinski#Bonnie Hunt#Steve Buscemi#Sean Hayes#Nathan Fillion#Tyler Labine#John Ratzenberger
+
+The Matrix Reloaded
+	genre:Sci-Fi Action
+	distributor:Warner Bros.
+	directors:Lilly & Lana Wachowski
+	actors:Keanu Reeves#Laurence Fishburne#Carrie-Anne Moss#Jada Pinkett-Smith#Hugo Weaving#Monica Bellucci
+
+Deadpool 2
+	genre:Action
+	distributor:Fox
+	directors:David Leitch
+	actors:Ryan Reynolds#Josh Brolin#Alan Tudyk#Brad Pitt#Morena Baccarin#Terry Crews#Eddie Marsan
+
+Up
+	genre:Animation
+	distributor:Buena Vista
+	directors:Pete Docter#Bob Peterson
+	actors:Christopher Plummer#John Ratzenberger#Delroy Lindo
+
+Gravity
+	genre:Sci-Fi Thriller
+	distributor:Warner Bros.
+	directors:Alfonso Cuaron
+	actors:George Clooney#Sandra Bullock
+
+Captain America: The Winter Soldier
+	genre:Action / Adventure
+	distributor:Buena Vista
+	directors:Anthony Russo#Joe Russo
+	actors:Chris Evans#Scarlett Johansson#Samuel L. Jackson#Robert Redford#Sebastian Stan#Anthony Mackie#Frank Grillo#Elizabeth Olsen#Cobie Smulders#Hayley Atwell#Toby Jones
+
+The Twilight Saga: Breaking Dawn Part 1
+	genre:Romance
+	distributor:Summit Entertainment
+	directors:Bill Condon
+	actors:Robert Pattinson#Kristen Stewart#Taylor Lautner#Ashley Greene#Billy Burke#Kellan Lutz#Jackson Rathbone#Anna Kendrick#Michael Sheen#Peter Facinelli#Nikki Reed#Maggie Grace
+
+Dawn of the Planet of the Apes
+	genre:Sci-Fi Action
+	distributor:Fox
+	directors:Matt Reeves
+	actors:Andy Serkis#Gary Oldman#Kodi Smit-McPhee#Jason Clarke#Keri Russell#Judy Greer
+
+The Twilight Saga: New Moon
+	genre:Romance
+	distributor:Summit Entertainment
+	directors:Chris Weitz
+	actors:Kristen Stewart#Robert Pattinson#Taylor Lautner#Billy Burke#Ashley Greene#Jackson Rathbone#Kellan Lutz#Michael Sheen#Dakota Fanning#Anna Kendrick#Cam Gigandet#Peter Facinelli
+
+Transformers
+	genre:Sci-Fi Action
+	distributor:Paramount (DreamWorks)
+	directors:Michael Bay
+	actors:Shia LaBeouf#Tyrese Gibson#Josh Duhamel#Megan Fox#Jon Voight#Bernie Mac#Anthony Anderson#Rachael Taylor
+
+The Amazing Spider-Man 2
+	genre:Action / Adventure
+	distributor:Sony / Columbia
+	directors:Marc Webb
+	actors:Andrew Garfield#Emma Stone#Jamie Foxx#Dane DeHaan#Sally Field#Paul Giamatti#Chris Cooper#Felicity Jones
+
+It
+	genre:Horror
+	distributor:Warner Bros. (New Line)
+	directors:Andres Muschietti
+	actors:Jaden Lieberher
+
+The Twilight Saga: Eclipse
+	genre:Romance
+	distributor:Summit Entertainment
+	directors:David Slade
+	actors:Kristen Stewart#Robert Pattinson#Taylor Lautner#Ashley Greene#Billy Burke#Kellan Lutz#Jackson Rathbone#Dakota Fanning#Bryce Dallas Howard#Anna Kendrick#Peter Facinelli#Nikki Reed#Cameron Bright#Catalina Sandino Moreno#Sarah Clarke
+
+Mission: Impossible - Ghost Protocol
+	genre:Action
+	distributor:Paramount
+	directors:Brad Bird
+	actors:Tom Cruise#Jeremy Renner#Simon Pegg#Paula Patton#Michael Nyqvist#Tom Wilkinson#Josh Holloway#Vladimir Mashkov#Anil Kapoor
+
+The Hunger Games
+	genre:Action / Adventure
+	distributor:Lionsgate
+	directors:Gary Ross
+	actors:Jennifer Lawrence#Josh Hutcherson#Liam Hemsworth#Elizabeth Banks#Stanley Tucci#Woody Harrelson#Lenny Kravitz#Wes Bentley#Toby Jones
+
+Mission: Impossible - Rogue Nation
+	genre:Action
+	distributor:Paramount
+	directors:Christopher McQuarrie
+	actors:Tom Cruise#Jeremy Renner#Simon Pegg#Alec Baldwin#Rebecca Ferguson#Ving Rhames
+
+Forrest Gump
+	genre:Comedy / Drama
+	distributor:Paramount
+	directors:Robert Zemeckis
+	actors:Tom Hanks#Robin Wright#Sally Field#Gary Sinise
+
+Doctor Strange
+	genre:Action / Adventure
+	distributor:Buena Vista
+	directors:Scott Derrickson
+	actors:Benedict Cumberbatch#Tilda Swinton#Chiwetel Ejiofor#Rachel McAdams#Mads Mikkelsen#Michael Stuhlbarg
+
+Interstellar
+	genre:Sci-Fi Adventure
+	distributor:Paramount
+	directors:Christopher Nolan
+	actors:Matthew McConaughey#Anne Hathaway#Jessica Chastain#Casey Affleck#Topher Grace#David Oyelowo#Michael Caine#Matt Damon#Bill Irwin#Wes Bentley#Ellen Burstyn
+
+The Sixth Sense
+	genre:Horror
+	distributor:Buena Vista
+	directors:M. Night Shyamalan
+	actors:Bruce Willis#Toni Collette#M. Night Shyamalan#Haley Joel Osment
+
+Man of Steel
+	genre:Action / Adventure
+	distributor:Warner Bros.
+	directors:Zack Snyder
+	actors:Henry Cavill#Amy Adams#Michael Shannon#Kevin Costner#Diane Lane#Laurence Fishburne#Russell Crowe#Ayelet Zurer#Christopher Meloni
+
+Kung Fu Panda 2
+	genre:Animation
+	distributor:Paramount (DreamWorks)
+	directors:Jennifer Yuh Nelson
+	actors:Jack Black#Angelina Jolie#Dustin Hoffman#Jackie Chan#Seth Rogen#Lucy Liu#Gary Oldman#Michelle Yeoh#Jean-Claude Van Damme#David Cross
+
+Ice Age: The Meltdown
+	genre:Animation
+	distributor:Fox
+	directors:Carlos Saldanha
+	actors:John Leguizamo#Queen Latifah#Denis Leary
+
+Justice League
+	genre:Action / Adventure
+	distributor:Warner Bros.
+	directors:Zack Snyder
+	actors:Ben Affleck#Henry Cavill#Gal Gadot#Jason Momoa#Ezra Miller#Amy Adams#Amber Heard#Jeremy Irons#Diane Lane#Billy Crudup#Ray Fisher#J.K. Simmons#Connie Nielsen#Ciaran Hinds
+
+Big Hero 6
+	genre:Animation
+	distributor:Buena Vista
+	directors:Don Hall#Chris Williams
+	actors:Alan Tudyk#Jamie Chung#Genesis Rodriguez#Damon Wayans Jr.#James Cromwell#Maya Rudolph
+
+Pirates of the Caribbean: The Curse of the Black Pearl
+	genre:Period Adventure
+	distributor:Buena Vista
+	directors:Gore Verbinski
+	actors:Johnny Depp#Geoffrey Rush#Orlando Bloom#Keira Knightley#Jack Davenport#Jonathan Pryce#Zoe Saldana
+
+The Hunger Games: Mockingjay - Part 2
+	genre:Action / Adventure
+	distributor:Lionsgate
+	directors:Francis Lawrence
+	actors:Jennifer Lawrence#Josh Hutcherson#Liam Hemsworth#Woody Harrelson#Philip Seymour Hoffman#Julianne Moore#Elizabeth Banks#Jena Malone#Jeffrey Wright#Stanley Tucci#Donald Sutherland#Sam Claflin
+
+Star Wars: Episode II - Attack of the Clones
+	genre:Sci-Fi Fantasy
+	distributor:Fox
+	directors:George Lucas
+	actors:Anthony Daniels#Christopher Lee#Ian McDiarmid#Ewan McGregor#Hayden Christensen#Natalie Portman#Samuel L. Jackson#Rose Byrne
+
+Thor: The Dark World
+	genre:Action / Adventure
+	distributor:Buena Vista
+	directors:Alan Taylor
+	actors:Chris Hemsworth#Natalie Portman#Tom Hiddleston#Anthony Hopkins#Idris Elba#Stellan Skarsgard#Kat Dennings#Ray Stevenson#Zachary Levi#Rene Russo#Chris Evans#Christopher Eccleston#Jaimie Alexander
+
+Moana
+	genre:Animation
+	distributor:Buena Vista
+	directors:John Musker
+	actors:Dwayne Johnson#Jemaine Clement
+
+Bohemian Rhapsody
+	genre:Drama
+	distributor:Fox
+	directors:Bryan Singer
+	actors:Mike Myers#Aidan Gillen#Tom Hollander
+
+Sing
+	genre:Animation
+	distributor:Universal
+	directors:Garth Jennings
+	actors:Matthew McConaughey#Reese Witherspoon#Seth MacFarlane#Scarlett Johansson#John C. Reilly#Taron Egerton
+
+The Incredibles
+	genre:Animation
+	distributor:Buena Vista
+	directors:Brad Bird
+	actors:Craig T. Nelson#Holly Hunter#Samuel L. Jackson#Brad Bird
+
+Kung Fu Panda
+	genre:Animation
+	distributor:Paramount (DreamWorks)
+	directors:
+	actors:Jack Black#Dustin Hoffman#Angelina Jolie#Jackie Chan#Seth Rogen#Lucy Liu#Dan Fogler#Michael Clarke Duncan#Ian McShane#David Cross
+
+The Martian
+	genre:Sci-Fi
+	distributor:Fox
+	directors:Ridley Scott
+	actors:Sean Bean#Jessica Chastain#Matt Damon#Chiwetel Ejiofor#Kate Mara#Michael Pena#Sebastian Stan#Kristen Wiig#Jeff Daniels#Donald Glover
+
+Fast Five
+	genre:Action
+	distributor:Universal
+	directors:Justin Lin
+	actors:Gal Gadot#Vin Diesel#Paul Walker#Dwayne Johnson#Jordana Brewster#Chris 'Ludacris' Bridges#Tyrese Gibson
+
+Hancock
+	genre:Fantasy Drama
+	distributor:Sony / Columbia
+	directors:Peter Berg
+	actors:Will Smith#Charlize Theron#Jason Bateman
+
+MIB 3
+	genre:Sci-Fi Comedy
+	distributor:Sony / Columbia
+	directors:Barry Sonnenfeld
+	actors:Will Smith#Josh Brolin#Tommy Lee Jones#Alice Eve#Emma Thompson#Jemaine Clement#Michael Stuhlbarg#Bill Hader
+
+Iron Man 2
+	genre:Action / Adventure
+	distributor:Paramount
+	directors:Jon Favreau
+	actors:Robert Downey, Jr.#Don Cheadle#Scarlett Johansson#Gwyneth Paltrow#Sam Rockwell#Mickey Rourke#Samuel L. Jackson#Clark Gregg#John Slattery#Paul Bettany#Kate Mara#Jon Favreau#Garry Shandling
+
+Ant-Man and the Wasp
+	genre:Action
+	distributor:Buena Vista
+	directors:Peyton Reed
+	actors:Paul Rudd#Evangeline Lilly#Michael Pena#Michelle Pfeiffer#Laurence Fishburne#Michael Douglas#Walton Goggins#Judy Greer
+
+How to Train Your Dragon 2
+	genre:Animation
+	distributor:Fox
+	directors:Dean DeBlois
+	actors:Jay Baruchel#Gerard Butler#America Ferrera#Jonah Hill#Christopher Mintz-Plasse#Kristen Wiig#Cate Blanchett#Djimon Hounsou#Craig Ferguson#TJ Miller#Kit Harington
+
+Ratatouille
+	genre:Animation
+	distributor:Buena Vista
+	directors:Brad Bird
+	actors:Ian Holm#Brad Bird#Brian Dennehy#Peter Sohn#Peter O'Toole#Brad Garrett#Will Arnett#Janeane Garofalo#James Remar#John Ratzenberger
+
+Logan (2017)
+	genre:Action / Adventure
+	distributor:Fox
+	directors:James Mangold
+	actors:Hugh Jackman#Patrick Stewart#Boyd Holbrook#Richard E. Grant#Stephen Merchant
+
+The Lost World: Jurassic Park
+	genre:Sci-Fi Horror
+	distributor:Universal
+	directors:Steven Spielberg
+	actors:Jeff Goldblum#Julianne Moore#Vince Vaughn
+
+The Passion of the Christ
+	genre:Historical Drama
+	distributor:Newmarket
+	directors:Mel Gibson
+	actors:Monica Bellucci#James Caviezel
+
+Mamma Mia!
+	genre:Musical
+	distributor:Universal
+	directors:
+	actors:Meryl Streep#Pierce Brosnan#Colin Firth#Stellan Skarsgard#Amanda Seyfried#Dominic Cooper#Julie Walters#Christine Baranski
+
+Life of Pi
+	genre:Adventure
+	distributor:Fox
+	directors:Ang Lee
+	actors:Suraj Sharma#Irrfan Khan
+
+Transformers: The Last Knight
+	genre:Sci-Fi Action
+	distributor:Paramount
+	directors:Michael Bay
+	actors:Mark Wahlberg#Anthony Hopkins#Josh Duhamel#Stanley Tucci#Omar Sy#John Goodman#Steve Buscemi
+
+Madagascar: Escape 2 Africa
+	genre:Animation
+	distributor:Paramount (DreamWorks)
+	directors:Eric Darnell#Tom McGrath
+	actors:Ben Stiller#Chris Rock#David Schwimmer#Jada Pinkett-Smith#Sacha Baron Cohen#Cedric the Entertainer#Bernie Mac#Alec Baldwin#Tom McGrath#Zachary Gordon#Andy Richter
+
+Casino Royale
+	genre:Action
+	distributor:Sony / Columbia
+	directors:Martin Campbell
+	actors:Daniel Craig#Judi Dench#Eva Green#Jeffrey Wright#Mads Mikkelsen#Caterina Murino
+
+Fantastic Beasts: The Crimes of Grindelwald
+	genre:Fantasy
+	distributor:Warner Bros.
+	directors:David Yates
+	actors:Eddie Redmayne#Jude Law#Ezra Miller#Katherine Waterston#Dan Fogler#Johnny Depp#Zoe Kravitz
+
+Tangled
+	genre:Animation
+	distributor:Buena Vista
+	directors:Byron Howard
+	actors:Mandy Moore#Zachary Levi#Ron Perlman#Donna Murphy#Jeffrey Tambor#Brad Garrett
+
+War of the Worlds
+	genre:Sci-Fi Horror
+	distributor:Paramount
+	directors:Steven Spielberg
+	actors:Amy Ryan#Tom Cruise#Dakota Fanning#Tim Robbins
+
+Men in Black
+	genre:Sci-Fi Comedy
+	distributor:Sony / Columbia
+	directors:Barry Sonnenfeld
+	actors:Tommy Lee Jones#Will Smith
+
+The Croods
+	genre:Animation
+	distributor:Fox
+	directors:Kirk De Micco#Chris Sanders
+	actors:Nicolas Cage#Emma Stone#Ryan Reynolds#Clark Duke#Catherine Keener#Cloris Leachman
+
+The Hangover Part II
+	genre:Comedy
+	distributor:Warner Bros.
+	directors:Todd Phillips
+	actors:Bradley Cooper#Ed Helms#Zach Galifianakis#Justin Bartha#Paul Giamatti#Jamie Chung#Ken Jeong#Mike Tyson
+
+Quantum of Solace
+	genre:Action
+	distributor:Sony / Columbia
+	directors:Marc Forster
+	actors:Daniel Craig#Olga Kurylenko#Judi Dench#Gemma Arterton#Jeffrey Wright#Mathieu Amalric#Rory Kinnear
+
+I Am Legend
+	genre:Sci-Fi Horror
+	distributor:Warner Bros.
+	directors:Francis Lawrence
+	actors:Will Smith
+
+Iron Man
+	genre:Action / Adventure
+	distributor:Paramount
+	directors:Jon Favreau
+	actors:Robert Downey, Jr.#Terrence Howard#Gwyneth Paltrow#Jeff Bridges#Clark Gregg#Paul Bettany#Jon Favreau#Samuel L. Jackson
+
+Ready Player One
+	genre:Sci-Fi Action
+	distributor:Warner Bros.
+	directors:Steven Spielberg
+	actors:Tye Sheridan#Simon Pegg#Mark Rylance#Ben Mendelsohn#Olivia Cooke#TJ Miller
+
+Operation Red Sea
+	genre:Action
+	distributor:Well Go USA
+	directors:
+	actors:
+
+Monsters, Inc.
+	genre:Animation
+	distributor:Buena Vista
+	directors:Pete Docter#David Silverman#Lee Unkrich
+	actors:Billy Crystal#John Goodman#Bonnie Hunt
+
+Night at the Museum
+	genre:Family Adventure
+	distributor:Fox
+	directors:Shawn Levy
+	actors:Ben Stiller#Carla Gugino#Ricky Gervais#Robin Williams#Steve Coogan#Owen Wilson#Dick Van Dyke#Bill Cobbs
+
+Fifty Shades of Grey
+	genre:Romance
+	distributor:Universal
+	directors:Sam Taylor-Johnson
+	actors:Dakota Johnson#Jamie Dornan#Marcia Gay Harden
+
+Kong: Skull Island
+	genre:Action / Adventure
+	distributor:Warner Bros.
+	directors:Jordan Vogt-Roberts
+	actors:Tom Hiddleston#Brie Larson#Samuel L. Jackson#John Goodman#John C. Reilly#Thomas Mann#Toby Kebbell#Jason Mitchell
+
+The Smurfs
+	genre:Family Comedy
+	distributor:Sony / Columbia
+	directors:Raja Gosnell
+	actors:Neil Patrick Harris#Anton Yelchin#Jayma Mays#Katy Perry#Alan Cumming#George Lopez#Paul Reubens
+
+Cars 2
+	genre:Animation
+	distributor:Buena Vista
+	directors:John Lasseter#Brad Lewis
+	actors:Owen Wilson#Larry the Cable Guy#Michael Caine#Bonnie Hunt#Emily Mortimer#Tony Shalhoub#Cheech Marin#Jason Isaacs#Joe Mantegna
+
+Puss in Boots
+	genre:Animation
+	distributor:Paramount (DreamWorks)
+	directors:Chris Miller
+	actors:Antonio Banderas#Salma Hayek#Zach Galifianakis#Billy Bob Thornton#Amy Sedaris
+
+The Mermaid (Mei ren yu)
+	genre:Fantasy Drama
+	distributor:Sony / Columbia
+	directors:
+	actors:
+
+Armageddon
+	genre:Sci-Fi Action
+	distributor:Buena Vista
+	directors:Michael Bay
+	actors:Bruce Willis#Ben Affleck#Liv Tyler#Billy Bob Thornton#Michael Clarke Duncan#Owen Wilson#Will Patton#William Fichtner
+
+King Kong
+	genre:Period Adventure
+	distributor:Universal
+	directors:Peter Jackson
+	actors:Naomi Watts#Jack Black#Adrien Brody#Andy Serkis#Jamie Bell#Colin Hanks#Kyle Chandler
+
+Ted
+	genre:Comedy
+	distributor:Universal
+	directors:Seth MacFarlane
+	actors:Mark Wahlberg#Mila Kunis#Seth MacFarlane#Giovanni Ribisi#Patrick Stewart#Joel McHale#Patrick Warburton
+
+American Sniper
+	genre:Drama
+	distributor:Warner Bros.
+	directors:Clint Eastwood
+	actors:Bradley Cooper#Kyle Gallner#Sienna Miller
+
+Mission: Impossible II
+	genre:Action
+	distributor:Paramount
+	directors:John Woo
+	actors:Tom Cruise#Thandie Newton#Brendan Gleeson#Anthony Hopkins#Dougray Scott#Ving Rhames
+
+Sherlock Holmes: A Game of Shadows
+	genre:Adventure
+	distributor:Warner Bros.
+	directors:Guy Ritchie
+	actors:Robert Downey, Jr.#Jude Law#Noomi Rapace#Jared Harris#Rachel McAdams#Stephen Fry#Eddie Marsan
+
+The Day After Tomorrow
+	genre:Action Drama
+	distributor:Fox
+	directors:Roland Emmerich
+	actors:Ian Holm#Dennis Quaid#Jake Gyllenhaal#Emmy Rossum
+
+Detective Chinatown 2
+	genre:Action Comedy
+	distributor:Warner Bros.
+	directors:
+	actors:
+
+X-Men: Apocalypse
+	genre:Action / Adventure
+	distributor:Fox
+	directors:Bryan Singer
+	actors:James McAvoy#Michael Fassbender#Jennifer Lawrence#Oscar Isaac#Nicholas Hoult#Rose Byrne#Tye Sheridan#Kodi Smit-McPhee#Hugh Jackman#Sophie Turner#Evan Peters
+
+Cinderella (2015)
+	genre:Fantasy
+	distributor:Buena Vista
+	directors:Kenneth Branagh
+	actors:Cate Blanchett#Helena Bonham Carter#Stellan Skarsgard#Richard Madden#Hayley Atwell
+
+Despicable Me
+	genre:Animation
+	distributor:Universal
+	directors:Pierre Coffin#Chris Renaud
+	actors:Steve Carell#Jason Segel#Russell Brand#Kristen Wiig#Jemaine Clement#Danny McBride#Julie Andrews#Mindy Kaling#Will Arnett#Jack McBrayer
+
+Brave
+	genre:Animation
+	distributor:Buena Vista
+	directors:Mark Andrews#Brenda Chapman
+	actors:Emma Thompson#Julie Walters#Billy Connolly#Robbie Coltrane#Craig Ferguson
+
+World War Z
+	genre:Action Horror
+	distributor:Paramount
+	directors:Marc Forster
+	actors:Brad Pitt#Mireille Enos#David Morse
+
+The Empire Strikes Back
+	genre:Sci-Fi Fantasy
+	distributor:Fox
+	directors:Irvin Kershner
+	actors:Anthony Daniels#Peter Mayhew#Mark Hamill#Harrison Ford#Carrie Fisher#Billy Dee Williams
+
+WALL-E
+	genre:Animation
+	distributor:Buena Vista
+	directors:Andrew Stanton
+	actors:Sigourney Weaver#Jeff Garlin
+
+The Revenant
+	genre:Action / Adventure
+	distributor:Fox
+	directors:Alejandro González Iñárritu
+	actors:Leonardo DiCaprio#Tom Hardy#Lukas Haas#Domhnall Gleeson
+
+Madagascar
+	genre:Animation
+	distributor:DreamWorks
+	directors:Eric Darnell#Tom McGrath
+	actors:Ben Stiller#Chris Rock#David Schwimmer#Jada Pinkett-Smith#Cedric the Entertainer#Sacha Baron Cohen#Tom McGrath
+
+Godzilla (2014)
+	genre:Sci-Fi Action
+	distributor:Warner Bros.
+	directors:Gareth Edwards
+	actors:Aaron Johnson#Elizabeth Olsen#Sally Hawkins#Bryan Cranston#Ken Watanabe#Juliette Binoche#David Strathairn
+
+The Boss Baby
+	genre:Animation
+	distributor:Fox
+	directors:Tom McGrath
+	actors:Alec Baldwin#Lisa Kudrow#Steve Buscemi
+
+The Meg
+	genre:Sci-Fi Thriller
+	distributor:Warner Bros.
+	directors:Jon Turteltaub
+	actors:Jason Statham#Li Bingbing
+
+Dunkirk
+	genre:War
+	distributor:Warner Bros.
+	directors:Christopher Nolan
+	actors:Mark Rylance#Kenneth Branagh#Tom Hardy#Cillian Murphy#Harry Styles
+
+The Simpsons Movie
+	genre:Animation
+	distributor:Fox
+	directors:David Silverman
+	actors:Albert Brooks#Julie Kavner#Nancy Cartwright#Yeardley Smith#Harry Shearer#Hank Azaria#Joe Mantegna
+
+Hotel Transylvania 3: Summer Vacation
+	genre:Animation
+	distributor:Sony / Columbia
+	directors:
+	actors:Adam Sandler#Selena Gomez#Andy Samberg#Kevin James#David Spade#Fran Drescher#Steve Buscemi#Molly Shannon#Keegan-Michael Key#Jim Gaffigan
+
+Sherlock Holmes
+	genre:Adventure
+	distributor:Warner Bros.
+	directors:Guy Ritchie
+	actors:Robert Downey, Jr.#Jude Law#Rachel McAdams#Mark Strong#Eddie Marsan
+
+Kung Fu Panda 3
+	genre:Animation
+	distributor:Fox
+	directors:Jennifer Yuh Nelson
+	actors:Jack Black#Jackie Chan#Bryan Cranston#Dustin Hoffman#Kate Hudson#Angelina Jolie#Lucy Liu#Seth Rogen#David Cross
+
+Terminator 2: Judgment Day
+	genre:Sci-Fi Action
+	distributor:TriStar
+	directors:James Cameron
+	actors:Arnold Schwarzenegger#Linda Hamilton#Edward Furlong#Robert Patrick
+
+Ant-Man
+	genre:Action / Adventure
+	distributor:Buena Vista
+	directors:Peyton Reed
+	actors:Chris Evans#Anthony Mackie#Paul Rudd#Michael Douglas#Evangeline Lilly#John Slattery#Michael Pena#Judy Greer#Corey Stoll#Bobby Cannavale#T.I.
+
+Meet the Fockers
+	genre:Comedy
+	distributor:Universal
+	directors:Jay Roach
+	actors:Robert DeNiro#Ben Stiller#Dustin Hoffman#Barbra Streisand#Owen Wilson#Blythe Danner
+
+Ghost
+	genre:Romance
+	distributor:Paramount
+	directors:Jerry Zucker
+	actors:Patrick Swayze#Demi Moore#Whoopi Goldberg
+
+Aladdin
+	genre:Animation
+	distributor:Buena Vista
+	directors:
+	actors:Robin Williams
+
+Rio 2
+	genre:Animation
+	distributor:Fox
+	directors:Carlos Saldanha
+	actors:Anne Hathaway#Jesse Eisenberg#Leslie Mann#Jemaine Clement#Jamie Foxx#Tracy Morgan#Rodrigo Santoro#Kristin Chenoweth#George Lopez#Bruno Mars#Janelle Monae
+
+Troy
+	genre:Historical Epic
+	distributor:Warner Bros.
+	directors:Wolfgang Petersen
+	actors:Brad Pitt#Eric Bana#Orlando Bloom#Brian Cox#Sean Bean#Brendan Gleeson#Rose Byrne#Garrett Hedlund#Peter O'Toole
+
+Toy Story 2
+	genre:Animation
+	distributor:Buena Vista
+	directors:John Lasseter#Lee Unkrich
+	actors:Tom Hanks#Tim Allen#Kelsey Grammer#Joan Cusack
+
+How to Train Your Dragon
+	genre:Animation
+	distributor:Paramount (DreamWorks)
+	directors:Dean DeBlois#Chris Sanders
+	actors:Jay Baruchel#Gerard Butler#America Ferrera#Jonah Hill#Kristen Wiig#Christopher Mintz-Plasse#TJ Miller
+
+Twister
+	genre:Action Drama
+	distributor:Warner Bros.
+	directors:Jan DeBont
+	actors:Helen Hunt#Bill Paxton#Cary Elwes#Philip Seymour Hoffman#Alexa Vega
+
+Teenage Mutant Ninja Turtles (2014)
+	genre:Action / Adventure
+	distributor:Paramount
+	directors:Jonathan Liebesman
+	actors:Megan Fox#Johnny Knoxville#Will Arnett#Whoopi Goldberg
+
+Oz The Great and Powerful
+	genre:Adventure
+	distributor:Buena Vista
+	directors:Sam Raimi
+	actors:Tony Cox#James Franco#Mila Kunis#Michelle Williams#Rachel Weisz#Zach Braff#Joey King
+
+Clash of the Titans (2010)
+	genre:Fantasy
+	distributor:Warner Bros.
+	directors:Louis Leterrier
+	actors:Sam Worthington#Liam Neeson#Ralph Fiennes#Gemma Arterton#Mads Mikkelsen#Alexa Davalos#Nicholas Hoult
+
+War for the Planet of the Apes
+	genre:Sci-Fi Action
+	distributor:Fox
+	directors:Matt Reeves
+	actors:Andy Serkis#Woody Harrelson#Steve Zahn
+
+Angels & Demons
+	genre:Thriller
+	distributor:Sony / Columbia
+	directors:Ron Howard
+	actors:Tom Hanks#Ewan McGregor#Stellan Skarsgard#Ayelet Zurer
+
+Rio
+	genre:Animation
+	distributor:Fox
+	directors:Carlos Saldanha
+	actors:Anne Hathaway#Jesse Eisenberg#Leslie Mann#Jamie Foxx#Rodrigo Santoro#Jemaine Clement#Tracy Morgan#George Lopez#Wanda Sykes
+
+Bruce Almighty
+	genre:Fantasy Comedy
+	distributor:Universal
+	directors:Tom Shadyac
+	actors:Jim Carrey#Morgan Freeman#Jennifer Aniston#Steve Carell
+
+Shrek
+	genre:Animation
+	distributor:DreamWorks
+	directors:Andrew Adamson#Vicky Jenson
+	actors:Mike Myers#Cameron Diaz#Eddie Murphy
+
+Saving Private Ryan
+	genre:War
+	distributor:DreamWorks
+	directors:Steven Spielberg
+	actors:Tom Hanks#Edward Burns#Vin Diesel#Giovanni Ribisi#Matt Damon#Paul Giamatti#Bryan Cranston#Tom Sizemore#Barry Pepper#Jeremy Davies#Ted Danson#Dennis Farina
+
+Rise of the Planet of the Apes
+	genre:Sci-Fi Action
+	distributor:Fox
+	directors:Rupert Wyatt
+	actors:James Franco#Freida Pinto#Brian Cox#Jamie Harris#Andy Serkis#David Oyelowo#John Lithgow#Tom Felton
+
+Mr. & Mrs. Smith
+	genre:Action Comedy
+	distributor:Fox
+	directors:Doug Liman
+	actors:Brad Pitt#Angelina Jolie#Vince Vaughn#Adam Brody#Michelle Monaghan#Kerry Washington
+
+Home Alone
+	genre:Family Comedy
+	distributor:Fox
+	directors:Chris Columbus
+	actors:Macaulay Culkin
+
+Return of the Jedi
+	genre:Sci-Fi Fantasy
+	distributor:Fox
+	directors:
+	actors:Tony Cox#Mark Hamill#Harrison Ford#Carrie Fisher#Anthony Daniels#Peter Mayhew#Ian McDiarmid#Frank Oz#Billy Dee Williams#James Earl Jones#Alec Guinness
+
+Charlie and the Chocolate Factory
+	genre:Family Adventure
+	distributor:Warner Bros.
+	directors:Tim Burton
+	actors:Johnny Depp#Freddie Highmore#Helena Bonham Carter#Christopher Lee#AnnaSophia Robb
+
+Hotel Transylvania 2
+	genre:Animation
+	distributor:Sony / Columbia
+	directors:
+	actors:Adam Sandler#Andy Samberg#Selena Gomez#Kevin James#David Spade#Rob Riggle#Robert Smigel#Nick Swardson#Dana Carvey#Steve Buscemi#Keegan-Michael Key#Fran Drescher#Molly Shannon#Megan Mullally#Nick Offerman#Mel Brooks#Chris Kattan#Jon Lovitz
+
+Indiana Jones and the Last Crusade
+	genre:Period Adventure
+	distributor:Paramount
+	directors:Steven Spielberg
+	actors:Sean Connery#Harrison Ford
+
+San Andreas
+	genre:Action
+	distributor:Warner Bros. (New Line)
+	directors:Brad Peyton
+	actors:Paul Giamatti#Ioan Gruffudd#Carla Gugino#Dwayne Johnson
+
+Wreck-It Ralph
+	genre:Animation
+	distributor:Buena Vista
+	directors:Rich Moore
+	actors:John C. Reilly#Alan Tudyk#Mindy Kaling#Jack McBrayer#Sarah Silverman#Jane Lynch
+
+Jaws
+	genre:Horror Thriller
+	distributor:Universal
+	directors:Steven Spielberg
+	actors:
+
+The LEGO Movie
+	genre:Animation
+	distributor:Warner Bros.
+	directors:Phil Lord#Chris Miller (II)
+	actors:Elizabeth Banks#Will Ferrell#Anthony Daniels#Charlie Day#Will Forte#Dave Franco#Morgan Freeman#Jonah Hill#Liam Neeson#Chris Pratt#Jorma Taccone#Channing Tatum#Alison Brie#Keegan-Michael Key#Shaquille O'Neal#Nick Offerman#Cobie Smulders#Billy Dee Williams
+
+The Hangover
+	genre:Comedy
+	distributor:Warner Bros.
+	directors:Todd Phillips
+	actors:Bradley Cooper#Ed Helms#Zach Galifianakis#Justin Bartha#Rob Riggle#Heather Graham#Ken Jeong
+
+Star Trek Into Darkness
+	genre:Sci-Fi Adventure
+	distributor:Paramount
+	directors:J.J. Abrams
+	actors:Leonard Nimoy#Chris Pine#Zoe Saldana#Karl Urban#Simon Pegg#Anton Yelchin#Benedict Cumberbatch#Alice Eve#Zachary Quinto#John Cho#Bruce Greenwood#Peter Weller
+
+The Matrix
+	genre:Sci-Fi Action
+	distributor:Warner Bros.
+	directors:Lilly & Lana Wachowski
+	actors:Keanu Reeves#Carrie-Anne Moss#Laurence Fishburne#Hugo Weaving
+
+Pretty Woman
+	genre:Romantic Comedy
+	distributor:Buena Vista
+	directors:Garry Marshall
+	actors:Richard Gere#Julia Roberts
+
+Lucy
+	genre:Sci-Fi Action
+	distributor:Universal
+	directors:Luc Besson
+	actors:Scarlett Johansson#Morgan Freeman#Analeigh Tipton
+
+Cars
+	genre:Animation
+	distributor:Buena Vista
+	directors:John Lasseter
+	actors:Owen Wilson#Paul Newman#Bonnie Hunt#Larry the Cable Guy#Michael Keaton
+
+Gladiator
+	genre:Historical Epic
+	distributor:DreamWorks
+	directors:Ridley Scott
+	actors:Russell Crowe#Joaquin Phoenix
+
+X-Men: The Last Stand
+	genre:Action / Adventure
+	distributor:Fox
+	directors:Brett Ratner
+	actors:Hugh Jackman#Halle Berry#Ian McKellen#Famke Janssen#Anna Paquin#Kelsey Grammer#Rebecca Romijn#James Marsden#Ben Foster#Patrick Stewart#Ellen Page
+
+Mission: Impossible
+	genre:Action
+	distributor:Paramount
+	directors:Brian De Palma
+	actors:Tom Cruise#Jon Voight
+
+National Treasure: Book of Secrets
+	genre:Adventure
+	distributor:Buena Vista
+	directors:Jon Turteltaub
+	actors:Nicolas Cage#Justin Bartha#Jon Voight#Helen Mirren#Ed Harris#Ty Burrell#Diane Kruger#Harvey Keitel
+
+The Last Samurai
+	genre:War
+	distributor:Warner Bros.
+	directors:Edward Zwick
+	actors:Tom Cruise#Ken Watanabe
+
+300
+	genre:Period Action
+	distributor:Warner Bros.
+	directors:Zack Snyder
+	actors:Gerard Butler#Lena Headey#Michael Fassbender#Rodrigo Santoro#Dominic West
+
+Ocean's Eleven
+	genre:Crime Comedy
+	distributor:Warner Bros.
+	directors:Steven Soderbergh
+	actors:George Clooney#Brad Pitt#Matt Damon#Julia Roberts#Don Cheadle#Bernie Mac#Casey Affleck#Topher Grace
+
+Thor
+	genre:Action / Adventure
+	distributor:Paramount
+	directors:Kenneth Branagh
+	actors:Chris Hemsworth#Natalie Portman#Kat Dennings#Anthony Hopkins#Ray Stevenson#Idris Elba#Stellan Skarsgard#Rene Russo#Clark Gregg#Tom Hiddleston#Samuel L. Jackson#Jeremy Renner#Colm Feore
+
+Pearl Harbor
+	genre:War
+	distributor:Buena Vista
+	directors:Michael Bay
+	actors:Ewen Bremner#Ben Affleck#Josh Hartnett#Kate Beckinsale#Cuba Gooding, Jr.#Jon Voight#Alec Baldwin#Jennifer Garner#Tom Sizemore
+
+Tarzan
+	genre:Animation
+	distributor:Buena Vista
+	directors:Chris Buck
+	actors:Glenn Close#Lance Henriksen
+
+La La Land
+	genre:Musical
+	distributor:Lionsgate/Summit
+	directors:Damien Chazelle
+	actors:Ryan Gosling#Emma Stone
+
+Alvin and the Chipmunks: The Squeakquel
+	genre:Family Comedy
+	distributor:Fox
+	directors:Betty Thomas
+	actors:Christina Applegate#Anna Faris#Zachary Levi#Justin Long#David Cross#Jason Lee#Amy Poehler
+
+The Bourne Ultimatum
+	genre:Action Thriller
+	distributor:Universal
+	directors:Paul Greengrass
+	actors:Matt Damon#Julia Stiles#Joan Allen#Edgar Ramirez#David Strathairn#Paddy Considine#Daniel Bruhl
+
+Men in Black II
+	genre:Sci-Fi Comedy
+	distributor:Sony / Columbia
+	directors:Barry Sonnenfeld
+	actors:Tommy Lee Jones#Will Smith#Johnny Knoxville#Rosario Dawson#Rip Torn#Tony Shalhoub
+
+Les Miserables (2012)
+	genre:Musical
+	distributor:Universal
+	directors:Tom Hooper
+	actors:Hugh Jackman#Russell Crowe#Anne Hathaway#Amanda Seyfried#Sacha Baron Cohen#Helena Bonham Carter#Eddie Redmayne
+
+The Exorcist
+	genre:Horror
+	distributor:Warner Bros.
+	directors:William Friedkin
+	actors:
+
+Mrs. Doubtfire
+	genre:Family Comedy
+	distributor:Fox
+	directors:Chris Columbus
+	actors:Robin Williams#Sally Field#Pierce Brosnan
+
+Terminator: Genisys
+	genre:Action
+	distributor:Paramount
+	directors:Alan Taylor
+	actors:Arnold Schwarzenegger#Jai Courtney#Jason Clarke#J.K. Simmons
+
+The Greatest Showman
+	genre:Musical
+	distributor:Fox
+	directors:
+	actors:Hugh Jackman#Michelle Williams#Zac Efron#Rebecca Ferguson#Zendaya
+
+Warcraft
+	genre:Fantasy
+	distributor:Universal
+	directors:Duncan Jones
+	actors:Ben Foster#Paula Patton#Dominic Cooper#Toby Kebbell
+
+Terminator 3: Rise of the Machines
+	genre:Sci-Fi Action
+	distributor:Warner Bros.
+	directors:
+	actors:Arnold Schwarzenegger#Claire Danes#Nick Stahl#Kristanna Loken
+
+The Mummy Returns
+	genre:Period Adventure
+	distributor:Universal
+	directors:Stephen Sommers
+	actors:Brendan Fraser#Rachel Weisz#Dwayne Johnson
+
+Die Another Day
+	genre:Action
+	distributor:MGM
+	directors:Lee Tamahori
+	actors:Rosamund Pike#Pierce Brosnan#Halle Berry#Judi Dench#Madonna
+
+Cast Away
+	genre:Drama
+	distributor:Fox
+	directors:Robert Zemeckis
+	actors:Tom Hanks#Helen Hunt
+
+The Matrix Revolutions
+	genre:Sci-Fi Action
+	distributor:Warner Bros.
+	directors:Lilly & Lana Wachowski
+	actors:Keanu Reeves#Laurence Fishburne#Carrie-Anne Moss#Jada Pinkett-Smith#Hugo Weaving#Monica Bellucci
+
+The Intouchables (U.S.-only)
+	genre:Foreign
+	distributor:Weinstein Company
+	directors:
+	actors:Omar Sy
+
+Rampage (2018)
+	genre:Action / Adventure
+	distributor:Warner Bros. (New Line)
+	directors:Brad Peyton
+	actors:Dwayne Johnson#Naomie Harris
+
+Django Unchained
+	genre:Western
+	distributor:Weinstein Company
+	directors:Quentin Tarantino
+	actors:Jamie Foxx#Christoph Waltz#Leonardo DiCaprio#Samuel L. Jackson#Jonah Hill#Kerry Washington#Don Johnson#Walton Goggins
+
+Beauty and the Beast
+	genre:Animation
+	distributor:Buena Vista
+	directors:
+	actors:
+
+Dances with Wolves
+	genre:Western
+	distributor:Orion Pictures
+	directors:Kevin Costner
+	actors:Kevin Costner
+
+The Chronicles of Narnia: Prince Caspian
+	genre:Fantasy
+	distributor:Buena Vista
+	directors:Andrew Adamson
+	actors:Ben Barnes#Liam Neeson#Peter Dinklage#Georgie Henley#William Moseley
+
+The Mummy
+	genre:Period Adventure
+	distributor:Universal
+	directors:Stephen Sommers
+	actors:Brendan Fraser#Rachel Weisz
+
+The Chronicles of Narnia: The Voyage of the Dawn Treader
+	genre:Fantasy
+	distributor:Fox
+	directors:Michael Apted
+	actors:Ben Barnes#Tilda Swinton#Liam Neeson#Simon Pegg
+
+Jason Bourne
+	genre:Action
+	distributor:Universal
+	directors:Paul Greengrass
+	actors:Matt Damon#Tommy Lee Jones#Julia Stiles#Alicia Vikander#Vincent Cassel
+
+Sex and the City
+	genre:Romantic Comedy
+	distributor:Warner Bros. (New Line)
+	directors:Michael Patrick King
+	actors:Sarah Jessica Parker#Kim Cattrall#Cynthia Nixon#Jennifer Hudson
+
+The Wolverine
+	genre:Action
+	distributor:Fox
+	directors:James Mangold
+	actors:Hugh Jackman#Famke Janssen
+
+Kingsman: The Secret Service
+	genre:Action / Adventure
+	distributor:Fox
+	directors:Matthew Vaughn
+	actors:Sofia Boutella#Colin Firth#Samuel L. Jackson#Michael Caine#Taron Egerton#Mark Strong#Sophie Cookson#Mark Hamill
+
+The King's Speech
+	genre:Historical Drama
+	distributor:Weinstein Company
+	directors:Tom Hooper
+	actors:Colin Firth#Geoffrey Rush#Helena Bonham Carter#Guy Pearce#Michael Gambon#Timothy Spall
+
+Night at the Museum: Battle of the Smithsonian
+	genre:Family Adventure
+	distributor:Fox
+	directors:Shawn Levy
+	actors:Nick Jonas#Ben Stiller#Amy Adams#Owen Wilson#Robin Williams#Christopher Guest#Steve Coogan#Ricky Gervais#Jonah Hill#Jay Baruchel#Mindy Kaling#Hank Azaria#Bill Hader
+
+Batman
+	genre:Action / Adventure
+	distributor:Warner Bros.
+	directors:Tim Burton
+	actors:Jack Nicholson#Michael Keaton#Kim Basinger
+
+The Bodyguard
+	genre:Romance
+	distributor:Warner Bros.
+	directors:
+	actors:Kevin Costner#Whitney Houston
+
+Pacific Rim
+	genre:Sci-Fi Action
+	distributor:Warner Bros.
+	directors:Guillermo del Toro
+	actors:Idris Elba#Charlie Day#Ron Perlman#Rinko Kikuchi
+
+Kingsman: The Golden Circle
+	genre:Action Comedy
+	distributor:Fox
+	directors:Matthew Vaughn
+	actors:Taron Egerton#Sophie Cookson#Channing Tatum#Halle Berry#Colin Firth#Julianne Moore#Mark Strong#Jeff Bridges#Pedro Pascal
+
+The Mummy (2017)
+	genre:Action / Adventure
+	distributor:Universal
+	directors:Alex Kurtzman
+	actors:Tom Cruise#Sofia Boutella#Russell Crowe#Annabelle Wallis
+
+Ice Age: Collision Course
+	genre:Animation
+	distributor:Fox
+	directors:
+	actors:Adam DeVine#John Leguizamo#Queen Latifah#Simon Pegg#Jennifer Lopez#Max Greenfield#Ray Romano#Denis Leary#Seann William Scott#Josh Peck#Keke Palmer#Wanda Sykes
+
+Signs
+	genre:Sci-Fi Horror
+	distributor:Buena Vista
+	directors:M. Night Shyamalan
+	actors:Mel Gibson#Joaquin Phoenix#Abigail Breslin#Rory Culkin#M. Night Shyamalan
+
+X2: X-Men United
+	genre:Action / Adventure
+	distributor:Fox
+	directors:Bryan Singer
+	actors:Patrick Stewart#Hugh Jackman#Ian McKellen#Halle Berry#Famke Janssen#James Marsden#Anna Paquin#Rebecca Romijn#Brian Cox#Alan Cumming
+
+Prometheus
+	genre:Sci-Fi Action
+	distributor:Fox
+	directors:Ridley Scott
+	actors:Noomi Rapace#Michael Fassbender#Charlize Theron#Idris Elba#Guy Pearce#Patrick Wilson
+
+The Mummy: Tomb of the Dragon Emperor
+	genre:Period Adventure
+	distributor:Universal
+	directors:Rob Cohen
+	actors:Michelle Yeoh#Brendan Fraser#Jet Li#Maria Bello
+
+Gone with the Wind
+	genre:Historical Epic
+	distributor:MGM
+	directors:
+	actors:Vivien Leigh#Olivia de Havilland
+
+Tron Legacy
+	genre:Sci-Fi Action
+	distributor:Buena Vista
+	directors:Joseph Kosinski
+	actors:Jeff Bridges#Garrett Hedlund#Olivia Wilde#Michael Sheen#Cillian Murphy#Bruce Boxleitner#Beau Garrett
+
+Mission: Impossible III
+	genre:Action
+	distributor:Paramount
+	directors:J.J. Abrams
+	actors:Tom Cruise#Philip Seymour Hoffman#Billy Crudup#Michelle Monaghan#Jonathan Rhys Meyers#Simon Pegg#Laurence Fishburne#Ving Rhames#Keri Russell#Eddie Marsan
+
+Snow White and the Huntsman
+	genre:Adventure
+	distributor:Universal
+	directors:Rupert Sanders
+	actors:Kristen Stewart#Chris Hemsworth#Charlize Theron#Nick Frost#Sam Claflin#Ian McShane#Ray Winstone#Eddie Marsan
+
+Grease
+	genre:Musical
+	distributor:Paramount
+	directors:
+	actors:John Travolta#Olivia Newton-John
+
+Mamma Mia! Here We Go Again
+	genre:Musical
+	distributor:Universal
+	directors:
+	actors:Pierce Brosnan#Dominic Cooper#Colin Firth#Amanda Seyfried#Stellan Skarsgard#Julie Walters#Cher#Meryl Streep#Andy Garcia
+
+Twilight
+	genre:Romance
+	distributor:Summit Entertainment
+	directors:Catherine Hardwicke
+	actors:Kristen Stewart#Robert Pattinson#Billy Burke#Cam Gigandet#Ashley Greene#Anna Kendrick#Taylor Lautner#Kellan Lutz#Jackson Rathbone#Peter Facinelli#Nikki Reed#Sarah Clarke
+
+Solo: A Star Wars Story
+	genre:Action / Adventure
+	distributor:Buena Vista
+	directors:Ron Howard
+	actors:Woody Harrelson#Thandie Newton#Paul Bettany#Jon Favreau#Donald Glover
+
+The Wolf of Wall Street
+	genre:Drama
+	distributor:Paramount
+	directors:Martin Scorsese
+	actors:Leonardo DiCaprio#Jonah Hill#Matthew McConaughey#Margot Robbie#Jon Favreau#Rob Reiner#Kyle Chandler#Shea Whigham#Jean Dujardin
+
+Superman Returns
+	genre:Action / Adventure
+	distributor:Warner Bros.
+	directors:Bryan Singer
+	actors:Brandon Routh#Kate Bosworth#Kevin Spacey#James Marsden#Parker Posey#Frank Langella#Kal Penn
+
+Robin Hood: Prince of Thieves
+	genre:Period Adventure
+	distributor:Warner Bros.
+	directors:Kevin Reynolds
+	actors:Kevin Costner#Morgan Freeman#Alan Rickman
+
+Raiders of the Lost Ark
+	genre:Period Adventure
+	distributor:Paramount
+	directors:Steven Spielberg
+	actors:Harrison Ford#Alfred Molina
+
+Independence Day: Resurgence
+	genre:Sci-Fi Adventure
+	distributor:Fox
+	directors:Roland Emmerich
+	actors:Liam Hemsworth#Jeff Goldblum#Brent Spiner#Joey King#Bill Pullman#Vivica A. Fox#Charlotte Gainsbourg#Maika Monroe
+
+Home (2015)
+	genre:Animation
+	distributor:Fox
+	directors:Tim Johnson
+	actors:Rihanna#Steve Martin#Jennifer Lopez
+
+Star Trek
+	genre:Sci-Fi Adventure
+	distributor:Paramount
+	directors:J.J. Abrams
+	actors:Chris Pine#Leonard Nimoy#Eric Bana#Karl Urban#Zoe Saldana#Simon Pegg#Anton Yelchin#Chris Hemsworth#Winona Ryder#Tyler Perry#Zachary Quinto#Bruce Greenwood#John Cho
+
+Monster Hunt
+	genre:Action Fantasy
+	distributor:FilmRise
+	directors:
+	actors:
+
+Happy Feet
+	genre:Animation
+	distributor:Warner Bros.
+	directors:George Miller
+	actors:Elijah Wood#Robin Williams#Brittany Murphy#Hugh Jackman#Nicole Kidman#Hugo Weaving#Anthony LaPaglia
+
+Cars 3
+	genre:Animation
+	distributor:Buena Vista
+	directors:
+	actors:Owen Wilson#Chris Cooper#Larry the Cable Guy#Armie Hammer#Bonnie Hunt#Nathan Fillion#Tony Shalhoub#Kerry Washington
+
+Live Free or Die Hard
+	genre:Action
+	distributor:Fox
+	directors:Len Wiseman
+	actors:Bruce Willis#Timothy Olyphant#Justin Long#Mary Elizabeth Winstead#Kevin Smith#Maggie Q
+
+Ice Age
+	genre:Animation
+	distributor:Fox
+	directors:Carlos Saldanha#Chris Wedge
+	actors:Cedric the Entertainer#John Leguizamo#Jack Black#Goran Visnjic#Ray Romano#Denis Leary
+
+Monsters Vs. Aliens
+	genre:Animation
+	distributor:Paramount (DreamWorks)
+	directors:Rob Letterman#Conrad Vernon
+	actors:Reese Witherspoon#Seth Rogen#Hugh Laurie#Kiefer Sutherland#Paul Rudd#John Krasinski#Tom McGrath#Ed Helms#Will Arnett#Rainn Wilson#Stephen Colbert
+
+Back to the Future
+	genre:Sci-Fi Adventure
+	distributor:Universal
+	directors:Robert Zemeckis
+	actors:
+
+Godzilla
+	genre:Sci-Fi Action
+	distributor:Sony / Columbia
+	directors:Roland Emmerich
+	actors:Matthew Broderick
+
+True Lies
+	genre:Action Comedy
+	distributor:Fox
+	directors:James Cameron
+	actors:Arnold Schwarzenegger#Tom Arnold#Jamie Lee Curtis
+
+Mad Max: Fury Road
+	genre:Sci-Fi Action
+	distributor:Warner Bros.
+	directors:George Miller
+	actors:Tom Hardy#Charlize Theron#Nicholas Hoult#Rosie Huntington-Whiteley
+
+Slumdog Millionaire
+	genre:Drama
+	distributor:Fox Searchlight
+	directors:Danny Boyle
+	actors:Irrfan Khan#Dev Patel#Freida Pinto
+
+Fifty Shades Darker
+	genre:Romance
+	distributor:Universal
+	directors:James Foley
+	actors:Kim Basinger#Dakota Johnson#Luke Grimes#Jamie Dornan
+
+A Star is Born (2018)
+	genre:Music Drama
+	distributor:Warner Bros.
+	directors:Bradley Cooper
+	actors:Bradley Cooper#Sam Elliott#Dave Chappelle
+
+Taken 2
+	genre:Action
+	distributor:Fox
+	directors:Olivier Megaton
+	actors:Liam Neeson#Famke Janssen#Maggie Grace
+
+G.I. Joe: Retaliation
+	genre:Action
+	distributor:Paramount
+	directors:Jon Chu
+	actors:Dwayne Johnson#Channing Tatum#Bruce Willis#Adrianne Palicki#Ray Stevenson#Jonathan Pryce#Luke Bracey
+
+Batman Begins
+	genre:Action / Adventure
+	distributor:Warner Bros.
+	directors:Christopher Nolan
+	actors:Christian Bale#Michael Caine#Liam Neeson#Morgan Freeman#Gary Oldman#Katie Holmes#Cillian Murphy#Tom Wilkinson#Rutger Hauer#Ken Watanabe#Linus Roache
+
+What Women Want
+	genre:Fantasy Comedy
+	distributor:Paramount
+	directors:Nancy Meyers
+	actors:Mel Gibson#Helen Hunt#Marisa Tomei#Alan Alda#Logan Lerman#Bette Midler#Sarah Paulson
+
+The Adventures of Tintin
+	genre:Animation
+	distributor:Paramount
+	directors:Steven Spielberg
+	actors:Daniel Craig#Jamie Bell#Simon Pegg#Andy Serkis#Cary Elwes#Nick Frost#Toby Jones
+
+Toy Story
+	genre:Animation
+	distributor:Buena Vista
+	directors:John Lasseter
+	actors:Tim Allen#Tom Hanks
+
+X-Men Origins: Wolverine
+	genre:Action / Adventure
+	distributor:Fox
+	directors:
+	actors:Hugh Jackman#Liev Schreiber#Ryan Reynolds#Taylor Kitsch#Danny Huston
+
+Penguins of Madagascar
+	genre:Animation
+	distributor:Fox
+	directors:Eric Darnell#Simon J. Smith
+	actors:Benedict Cumberbatch#John Malkovich#Ken Jeong#Peter Stormare
+
+Dr. Seuss' The Grinch (2018)
+	genre:Animation
+	distributor:Universal
+	directors:Scott Mosier
+	actors:Benedict Cumberbatch#Rashida Jones#Pharrell Williams#Kenan Thompson#Angela Lansbury
+
+The Golden Compass
+	genre:Fantasy
+	distributor:New Line
+	directors:Chris Weitz
+	actors:Nicole Kidman#Daniel Craig#Eva Green#Sam Elliott#Ian McKellen#Freddie Highmore
+
+Fifty Shades Freed
+	genre:Romance
+	distributor:Universal
+	directors:James Foley
+	actors:Dakota Johnson#Kim Basinger#Jamie Dornan#Arielle Kebbel#Max Martini
+
+Terminator Salvation
+	genre:Sci-Fi Action
+	distributor:Warner Bros.
+	directors:McG
+	actors:Christian Bale#Sam Worthington#Anton Yelchin#Common#Bryce Dallas Howard#Helena Bonham Carter#Arnold Schwarzenegger#Moon Bloodgood#Jane Alexander#Michael Ironside
+
+Captain America: The First Avenger
+	genre:Action / Adventure
+	distributor:Paramount
+	directors:Joe Johnston
+	actors:Chris Evans#Hugo Weaving#Stanley Tucci#Tommy Lee Jones#Dominic Cooper#Sebastian Stan#Derek Luke#Samuel L. Jackson#Neal McDonough#Toby Jones
+
+Edge of Tomorrow
+	genre:Sci-Fi Action
+	distributor:Warner Bros.
+	directors:Doug Liman
+	actors:Tom Cruise#Emily Blunt#Bill Paxton#Brendan Gleeson
+
+There's Something About Mary
+	genre:Romantic Comedy
+	distributor:Fox
+	directors:The Farrelly Bros.
+	actors:Cameron Diaz#Matt Dillon#Ben Stiller
+
+Gone Girl
+	genre:Thriller
+	distributor:Fox
+	directors:David Fincher
+	actors:Ben Affleck#Rosamund Pike#Neil Patrick Harris#Tyler Perry#Emily Ratajkowski#Boyd Holbrook#Patrick Fugit#Scoot McNairy
+
+The Fugitive
+	genre:Action Thriller
+	distributor:Warner Bros.
+	directors:Andrew Davis
+	actors:Harrison Ford#Tommy Lee Jones#Julianne Moore
+
+Jurassic Park III
+	genre:Sci-Fi Horror
+	distributor:Universal
+	directors:Joe Johnston
+	actors:William H. Macy#Tea Leoni#Laura Dern
+
+My Big Fat Greek Wedding
+	genre:Romantic Comedy
+	distributor:IFC
+	directors:
+	actors:John Corbett#Nia Vardalos
+
+Hitch
+	genre:Romantic Comedy
+	distributor:Sony / Columbia
+	directors:Andy Tennant
+	actors:Will Smith#Eva Mendes#Kevin James#Paula Patton
+
+Shark Tale
+	genre:Animation
+	distributor:DreamWorks
+	directors:Vicky Jenson#Rob Letterman
+	actors:Will Smith#Angelina Jolie#Renee Zellweger#Jack Black#Robert DeNiro
+
+Die Hard: With A Vengeance
+	genre:Action Thriller
+	distributor:Fox
+	directors:John McTiernan
+	actors:Jeremy Irons#Samuel L. Jackson#Bruce Willis
+
+The Nun
+	genre:Horror
+	distributor:Warner Bros. (New Line)
+	directors:
+	actors:Taissa Farmiga
+
+Notting Hill
+	genre:Romantic Comedy
+	distributor:Universal
+	directors:
+	actors:Julia Roberts#Hugh Grant#Rhys Ifans#Alec Baldwin
+
+A Bug's Life
+	genre:Animation
+	distributor:Buena Vista
+	directors:John Lasseter
+	actors:Kevin Spacey#Hayden Panettiere#Bonnie Hunt#Denis Leary
+
+Night at the Museum: Secret of the Tomb
+	genre:Family Adventure
+	distributor:Fox
+	directors:Shawn Levy
+	actors:Dan Stevens#Ben Stiller#Robin Williams#Owen Wilson#Rebel Wilson#Ben Kingsley#Steve Coogan#Ricky Gervais#Dick Van Dyke
+
+Fast and Furious
+	genre:Action
+	distributor:Universal
+	directors:Justin Lin
+	actors:Gal Gadot#Vin Diesel#Paul Walker#Michelle Rodriguez#Jordana Brewster#Brandon T. Jackson
+
+Ocean's Twelve
+	genre:Crime Comedy
+	distributor:Warner Bros.
+	directors:Steven Soderbergh
+	actors:George Clooney#Brad Pitt#Matt Damon#Catherine Zeta-Jones#Don Cheadle#Bernie Mac#Julia Roberts#Casey Affleck#Bruce Willis#Jared Harris#Topher Grace
+
+Noah
+	genre:Drama
+	distributor:Paramount
+	directors:Darren Aronofsky
+	actors:Russell Crowe#Jennifer Connelly#Emma Watson#Anthony Hopkins#Logan Lerman#Frank Langella#Ray Winstone#Kevin Durand
+
+Planet of the Apes (2001)
+	genre:Sci-Fi Action
+	distributor:Fox
+	directors:Tim Burton
+	actors:Mark Wahlberg#Helena Bonham Carter#Michael Clarke Duncan#Paul Giamatti#Tim Roth
+
+The Hangover Part III
+	genre:Comedy
+	distributor:Warner Bros.
+	directors:Todd Phillips
+	actors:Bradley Cooper#Ed Helms#Zach Galifianakis#Justin Bartha#John Goodman#Melissa McCarthy#Heather Graham
+
+The World Is Not Enough
+	genre:Action
+	distributor:MGM
+	directors:Michael Apted
+	actors:Pierce Brosnan#Judi Dench#Denise Richards
+
+Monster Hunt 2
+	genre:Fantasy
+	distributor:Lionsgate
+	directors:
+	actors:
+
+Alvin and the Chipmunks
+	genre:Family Comedy
+	distributor:Fox
+	directors:Tim Hill
+	actors:Justin Long#David Cross#Jane Lynch
+
+The Karate Kid
+	genre:Action Drama
+	distributor:Sony / Columbia
+	directors:Harald Zwart
+	actors:Jaden Smith#Jackie Chan#Taraji P. Henson
+
+Home Alone 2: Lost in New York
+	genre:Family Comedy
+	distributor:Fox
+	directors:Chris Columbus
+	actors:Macaulay Culkin#Rob Schneider#Joe Pesci
+
+Hotel Transylvania
+	genre:Animation
+	distributor:Sony / Columbia
+	directors:
+	actors:Adam Sandler#Andy Samberg#Selena Gomez#Kevin James#David Spade#Fran Drescher#Steve Buscemi#Molly Shannon#Jon Lovitz
+
+Minority Report
+	genre:Sci-Fi Thriller
+	distributor:Fox
+	directors:Steven Spielberg
+	actors:Frank Grillo#Tom Cruise#Colin Farrell#Max von Sydow#Samantha Morton
+
+Your Name.
+	genre:Animation
+	distributor:FUNimation Films
+	directors:
+	actors:
+
+Top Gun
+	genre:Action Drama
+	distributor:Paramount
+	directors:Tony Scott
+	actors:Tom Cruise#Val Kilmer#Meg Ryan#Tim Robbins
+
+The Legend of Tarzan
+	genre:Action / Adventure
+	distributor:Warner Bros.
+	directors:David Yates
+	actors:Alexander Skarsgård#Samuel L. Jackson#Margot Robbie#Christoph Waltz#Djimon Hounsou
+
+American Beauty
+	genre:Drama
+	distributor:DreamWorks
+	directors:Sam Mendes
+	actors:Chris Cooper#Kevin Spacey#Annette Bening
+
+Apollo 13
+	genre:Action Thriller
+	distributor:Universal
+	directors:Ron Howard
+	actors:Tom Hanks#Bill Paxton#Kevin Bacon#Ed Harris#Gary Sinise
+
+Rain Man
+	genre:Drama
+	distributor:MGM
+	directors:Barry Levinson
+	actors:Dustin Hoffman#Tom Cruise#Bonnie Hunt#Valeria Golino
+
+The Great Gatsby (2013)
+	genre:Drama
+	distributor:Warner Bros.
+	directors:Baz Luhrmann
+	actors:Elizabeth Debicki#Leonardo DiCaprio#Tobey Maguire#Carey Mulligan#Isla Fisher#Joel Edgerton#Jason Clarke
+
+X-Men: First Class
+	genre:Action / Adventure
+	distributor:Fox
+	directors:Matthew Vaughn
+	actors:Hugh Jackman#James McAvoy#Michael Fassbender#Jennifer Lawrence#Rose Byrne#January Jones#Kevin Bacon#Nicholas Hoult#Lucas Till#Oliver Platt
+
+Basic Instinct
+	genre:Thriller
+	distributor:TriStar
+	directors:Paul Verhoeven
+	actors:Michael Douglas#Sharon Stone
+
+Murder on the Orient Express (2017)
+	genre:Thriller
+	distributor:Fox
+	directors:Kenneth Branagh
+	actors:Kenneth Branagh#Johnny Depp#Michelle Pfeiffer#Daisy Ridley#Judi Dench#Michael Pena#Penelope Cruz#Willem Dafoe#Josh Gad#Derek Jacobi
+
+The Angry Birds Movie
+	genre:Animation
+	distributor:Sony / Columbia
+	directors:Fergal Reilly
+	actors:Jason Sudeikis#Josh Gad#Danny McBride#Sean Penn#Bill Hader#Maya Rudolph#Peter Dinklage#Keegan-Michael Key#Kate McKinnon#Clay Kaytis#Fergal Reilly
+
+GoldenEye
+	genre:Action
+	distributor:MGM
+	directors:Martin Campbell
+	actors:Pierce Brosnan#Sean Bean#Famke Janssen#Judi Dench#Izabella Scorupco#Joe Don Baker
+
+Catch Me If You Can
+	genre:Comedy / Drama
+	distributor:DreamWorks
+	directors:Steven Spielberg
+	actors:Leonardo DiCaprio#Tom Hanks#Christopher Walken#Amy Adams#Jennifer Garner#Elizabeth Banks#Martin Sheen#James Brolin
+
+Now You See Me
+	genre:Thriller
+	distributor:Lionsgate/Summit
+	directors:Louis Leterrier
+	actors:Jesse Eisenberg#Isla Fisher#Morgan Freeman#Woody Harrelson#Mark Ruffalo#Dave Franco#Melanie Laurent#Michael Caine
+
+Hannibal
+	genre:Thriller
+	distributor:MGM
+	directors:Ridley Scott
+	actors:Anthony Hopkins#Julianne Moore#Gary Oldman
+
+The Mask
+	genre:Comedy
+	distributor:New Line
+	directors:
+	actors:Jim Carrey#Cameron Diaz
+
+Peter Rabbit
+	genre:Family
+	distributor:Sony / Columbia
+	directors:Will Gluck
+	actors:Daisy Ridley#Margot Robbie#Rose Byrne#Elizabeth Debicki#James Corden#Domhnall Gleeson#Sam Neill
+
+Speed
+	genre:Action Thriller
+	distributor:Fox
+	directors:Jan DeBont
+	actors:Sandra Bullock#Keanu Reeves
+
+Dinosaur
+	genre:Animation
+	distributor:Buena Vista
+	directors:Ralph Zondag
+	actors:Hayden Panettiere#Ossie Davis#D.B. Sweeney
+
+Deep Impact
+	genre:Action Drama
+	distributor:Paramount
+	directors:Mimi Leder
+	actors:Robert Duvall#Tea Leoni#Elijah Wood#Morgan Freeman#Jon Favreau
+
+Dr. Seuss' The Lorax
+	genre:Animation
+	distributor:Universal
+	directors:Chris Renaud
+	actors:Danny DeVito#Zac Efron#Ed Helms#Rob Riggle#Taylor Swift#Betty White
+
+The Maze Runner
+	genre:Sci-Fi Thriller
+	distributor:Fox
+	directors:Wes Ball
+	actors:Kaya Scodelario#Will Poulter
+
+The Smurfs 2
+	genre:Family Comedy
+	distributor:Sony / Columbia
+	directors:Raja Gosnell
+	actors:Neil Patrick Harris#Brendan Gleeson#Christina Ricci#Anton Yelchin#Jayma Mays#Hank Azaria#George Lopez
+
+National Treasure
+	genre:Adventure
+	distributor:Buena Vista
+	directors:Jon Turteltaub
+	actors:Nicolas Cage#Justin Bartha#Sean Bean#Jon Voight#Christopher Plummer#Diane Kruger#Harvey Keitel
+
+Rush Hour 2
+	genre:Action Comedy
+	distributor:New Line
+	directors:Brett Ratner
+	actors:Jackie Chan#Chris Tucker#Zhang Ziyi#Don Cheadle
+
+I, Robot
+	genre:Sci-Fi Thriller
+	distributor:Fox
+	directors:Alex Proyas
+	actors:Will Smith#Bridget Moynahan#Alan Tudyk#Shia LaBeouf#James Cromwell#Chi McBride
+
+Trolls
+	genre:Animation
+	distributor:Fox
+	directors:Mike Mitchell
+	actors:Anna Kendrick#Justin Timberlake#Russell Brand#Zooey Deschanel#Christopher Mintz-Plasse#Quvenzhane Wallis#James Corden#Christine Baranski#John Cleese#Jeffrey Tambor
+
+xXx: The Return of Xander Cage
+	genre:Action / Adventure
+	distributor:Paramount
+	directors:D.J. Caruso
+	actors:Vin Diesel#Donnie Yen#Samuel L. Jackson#Toni Collette#Tony Jaa#Ice Cube#Deepika Padukone
+
+Pocahontas
+	genre:Animation
+	distributor:Buena Vista
+	directors:
+	actors:Christian Bale#Mel Gibson
+
+How the Grinch Stole Christmas
+	genre:Family Comedy
+	distributor:Universal
+	directors:Ron Howard
+	actors:Jim Carrey#Anthony Hopkins
+
+Star Trek Beyond
+	genre:Sci-Fi Adventure
+	distributor:Paramount
+	directors:Justin Lin
+	actors:Sofia Boutella#Idris Elba#Simon Pegg#Chris Pine#Zoe Saldana#Karl Urban#Anton Yelchin#John Cho#Zachary Quinto
+
+Alvin and the Chipmunks: Chipwrecked
+	genre:Family Comedy
+	distributor:Fox
+	directors:Mike Mitchell
+	actors:Justin Long#Christina Applegate#Anna Faris#David Cross
+
+The Flintstones
+	genre:Family Comedy
+	distributor:Universal
+	directors:
+	actors:John Goodman#Halle Berry#Mary-Kate Olsen#Elizabeth Perkins#Rosie O'Donnell#Elizabeth Taylor
+
+Wanted
+	genre:Action / Adventure
+	distributor:Universal
+	directors:Timur Bekmambetov
+	actors:Morgan Freeman#James McAvoy#Angelina Jolie#Common#Chris Pratt
+
+A Quiet Place
+	genre:Horror Thriller
+	distributor:Paramount
+	directors:John Krasinski
+	actors:Emily Blunt#John Krasinski
+
+Enchanted
+	genre:Family Adventure
+	distributor:Buena Vista
+	directors:
+	actors:Amy Adams#James Marsden#Susan Sarandon
+
+300: Rise of An Empire
+	genre:Period Action
+	distributor:Warner Bros.
+	directors:Noam Murro
+	actors:Eva Green#Lena Headey#Rodrigo Santoro#Jack O'Connell#David Wenham
+
+Batman Forever
+	genre:Action / Adventure
+	distributor:Warner Bros.
+	directors:Joel Schumacher
+	actors:Val Kilmer#Tommy Lee Jones#Jim Carrey#Nicole Kidman#Chris O'Donnell#Drew Barrymore#Jon Favreau
+
+Prince of Persia: The Sands of Time
+	genre:Adventure
+	distributor:Buena Vista
+	directors:Mike Newell
+	actors:Jake Gyllenhaal#Ben Kingsley#Alfred Molina#Gemma Arterton
+
+Over the Hedge
+	genre:Animation
+	distributor:Paramount (DreamWorks)
+	directors:Tim Johnson
+	actors:Bruce Willis#Steve Carell#Garry Shandling#William Shatner#Wanda Sykes#Nick Nolte
+
+Journey 2: The Mysterious Island
+	genre:Adventure
+	distributor:Warner Bros. (New Line)
+	directors:Brad Peyton
+	actors:Dwayne Johnson#Michael Caine#Josh Hutcherson#Vanessa Hudgens#Luis Guzman
+
+The Rock
+	genre:Action
+	distributor:Buena Vista
+	directors:Michael Bay
+	actors:Sean Connery#Nicolas Cage#Ed Harris#James Caviezel#David Morse#Michael Biehn#Tony Todd
+
+The Great Wall
+	genre:Action
+	distributor:Universal
+	directors:Zhang Yimou
+	actors:Willem Dafoe#Matt Damon#Pedro Pascal
+
+Now You See Me 2
+	genre:Thriller
+	distributor:Lionsgate/Summit
+	directors:Jon Chu
+	actors:Mark Ruffalo#Woody Harrelson#Jesse Eisenberg#Dave Franco#Morgan Freeman#Michael Caine#Daniel Radcliffe#Lizzy Caplan
+
+The Curious Case of Benjamin Button
+	genre:Fantasy Drama
+	distributor:Paramount
+	directors:David Fincher
+	actors:Brad Pitt#Cate Blanchett#Tilda Swinton#Elle Fanning#Taraji P. Henson#Jared Harris#Julia Ormond
+
+Indiana Jones and the Temple of Doom
+	genre:Period Adventure
+	distributor:Paramount
+	directors:Steven Spielberg
+	actors:Harrison Ford
+
+Tomorrow Never Dies
+	genre:Action
+	distributor:MGM
+	directors:
+	actors:Pierce Brosnan#Jonathan Pryce#Michelle Yeoh#Judi Dench#Gerard Butler#Teri Hatcher
+
+The Good Dinosaur
+	genre:Animation
+	distributor:Buena Vista
+	directors:
+	actors:Frances McDormand#Anna Paquin#Jeffrey Wright#Raymond Ochoa#Steve Zahn
+
+Back to the Future Part II
+	genre:Sci-Fi Adventure
+	distributor:Universal
+	directors:Robert Zemeckis
+	actors:Elijah Wood
+
+22 Jump Street
+	genre:Action Comedy
+	distributor:Sony / Columbia
+	directors:Phil Lord#Chris Miller (II)
+	actors:Jonah Hill#Channing Tatum#Ice Cube#Dave Franco#Rob Riggle#Peter Stormare
+
+Fantastic Four (2005)
+	genre:Action / Adventure
+	distributor:Fox
+	directors:Tim Story
+	actors:Ioan Gruffudd#Jessica Alba#Chris Evans#Michael Chiklis
+
+Meet the Parents
+	genre:Comedy
+	distributor:Universal
+	directors:Jay Roach
+	actors:Robert DeNiro#Ben Stiller#Owen Wilson#Blythe Danner
+
+Who Framed Roger Rabbit
+	genre:Fantasy Comedy
+	distributor:Buena Vista
+	directors:Robert Zemeckis
+	actors:
+
+Black Swan
+	genre:Drama / Thriller
+	distributor:Fox Searchlight
+	directors:Darren Aronofsky
+	actors:Natalie Portman#Mila Kunis#Winona Ryder#Sebastian Stan#Vincent Cassel#Barbara Hershey
+
+The Perfect Storm
+	genre:Action Drama
+	distributor:Warner Bros.
+	directors:Wolfgang Petersen
+	actors:George Clooney#Mark Wahlberg#Diane Lane#John C. Reilly#William Fichtner
+
+Crocodile Dundee
+	genre:Adventure Comedy
+	distributor:Paramount
+	directors:
+	actors:
+
+Seven
+	genre:Thriller
+	distributor:New Line
+	directors:David Fincher
+	actors:Brad Pitt#Morgan Freeman#Gwyneth Paltrow#Kevin Spacey
+
+The Devil Wears Prada
+	genre:Comedy
+	distributor:Fox
+	directors:David Frankel
+	actors:Meryl Streep#Anne Hathaway#Emily Blunt#Stanley Tucci#Adrien Grenier
+
+Taken 3
+	genre:Action
+	distributor:Fox
+	directors:Olivier Megaton
+	actors:Liam Neeson#Famke Janssen#Forest Whitaker#Maggie Grace#Dougray Scott
+
+The Hunchback of Notre Dame
+	genre:Animation
+	distributor:Buena Vista
+	directors:
+	actors:Kevin Kline#Demi Moore
+
+A Christmas Carol (2009)
+	genre:Animation
+	distributor:Buena Vista
+	directors:Robert Zemeckis
+	actors:Jim Carrey#Cary Elwes#Colin Firth#Gary Oldman#Robin Wright Penn
+
+The SpongeBob Movie: Sponge Out of Water
+	genre:Animation
+	distributor:Paramount
+	directors:Mike Mitchell#Paul Tibbitt
+	actors:Antonio Banderas
+
+Schindler's List
+	genre:War Drama
+	distributor:Universal
+	directors:Steven Spielberg
+	actors:Liam Neeson#Ben Kingsley#Ralph Fiennes
+
+Megamind
+	genre:Animation
+	distributor:Paramount (DreamWorks)
+	directors:Tom McGrath
+	actors:Will Ferrell#Brad Pitt#Tina Fey#Jonah Hill#Ben Stiller#Tom McGrath#David Cross#Justin Theroux#J.K. Simmons
+
+Lethal Weapon 3
+	genre:Action Comedy
+	distributor:Warner Bros.
+	directors:Richard Donner
+	actors:Mel Gibson#Danny Glover#Rene Russo
+
+Robin Hood
+	genre:Period Adventure
+	distributor:Universal
+	directors:Ridley Scott
+	actors:Russell Crowe#Cate Blanchett#William Hurt#Mark Strong#Max von Sydow#Danny Huston#Matthew MacFadyen
+
+Inglourious Basterds
+	genre:War
+	distributor:Weinstein Company
+	directors:Quentin Tarantino
+	actors:Brad Pitt#Mike Myers#Christoph Waltz#Melanie Laurent#Michael Fassbender#Diane Kruger#Til Schweiger
+
+101 Dalmatians (1996)
+	genre:Family Comedy
+	distributor:Buena Vista
+	directors:
+	actors:Glenn Close#Hugh Laurie#Jeff Daniels#Joan Plowright
+
+The Conjuring 2
+	genre:Horror
+	distributor:Warner Bros. (New Line)
+	directors:James Wan
+	actors:Vera Farmiga#Patrick Wilson#Frances O'Connor
+
+Fatal Attraction
+	genre:Thriller
+	distributor:Paramount
+	directors:
+	actors:Michael Douglas#Glenn Close
+
+The Last Airbender
+	genre:Fantasy
+	distributor:Paramount
+	directors:M. Night Shyamalan
+	actors:Noah Ringer#Dev Patel#Jackson Rathbone#Cliff Curtis
+
+The Conjuring
+	genre:Horror
+	distributor:Warner Bros. (New Line)
+	directors:James Wan
+	actors:Vera Farmiga#Patrick Wilson#Ron Livingston#Joey King#Lili Taylor
+
+The Proposal
+	genre:Romantic Comedy
+	distributor:Buena Vista
+	directors:Anne Fletcher
+	actors:Sandra Bullock#Ryan Reynolds#Craig T. Nelson#Mary Steenburgen#Betty White
+
+Beverly Hills Cop
+	genre:Action Comedy
+	distributor:Paramount
+	directors:Martin Brest
+	actors:Eddie Murphy#Damon Wayans
+
+Air Force One
+	genre:Action Thriller
+	distributor:Sony / Columbia
+	directors:Wolfgang Petersen
+	actors:Glenn Close#Harrison Ford#William H. Macy#Gary Oldman
+
+The Expendables 2
+	genre:Action
+	distributor:Lionsgate
+	directors:Simon West
+	actors:Sylvester Stallone#Jason Statham#Jet Li#Chuck Norris#Jean-Claude Van Damme#Bruce Willis#Arnold Schwarzenegger#Liam Hemsworth#Dolph Lundgren#Terry Crews
+
+Chicken Little
+	genre:Animation
+	distributor:Buena Vista
+	directors:
+	actors:Zach Braff#Garry Marshall#Patrick Stewart
+
+As Good as It Gets
+	genre:Romantic Comedy
+	distributor:Sony / Columbia
+	directors:James L. Brooks
+	actors:Jack Nicholson#Helen Hunt#Greg Kinnear#Cuba Gooding, Jr.
+
+A Beautiful Mind
+	genre:Period Drama
+	distributor:Universal
+	directors:Ron Howard
+	actors:Russell Crowe#Ed Harris#Jennifer Connelly#Christopher Plummer#Paul Bettany#Josh Lucas#Adam Goldberg
+
+Maze Runner: The Scorch Trials
+	genre:Action / Adventure
+	distributor:Fox
+	directors:Wes Ball
+	actors:Giancarlo Esposito#Ki Hong Lee#Lili Taylor#Kaya Scodelario
+
+Resident Evil: The Final Chapter
+	genre:Sci-Fi Action
+	distributor:Sony / Screen Gems
+	directors:Paul W.S. Anderson
+	actors:Milla Jovovich
+
+Austin Powers: The Spy Who Shagged Me
+	genre:Comedy
+	distributor:New Line
+	directors:Jay Roach
+	actors:Mike Myers#Rob Lowe#Seth Green#Will Ferrell#Tim Robbins#Jennifer Coolidge#Heather Graham
+
+The LEGO Batman Movie
+	genre:Animation
+	distributor:Warner Bros.
+	directors:
+	actors:Michael Cera#Rosario Dawson#Ralph Fiennes#Zach Galifianakis#Mariah Carey
+
+Ocean's Thirteen
+	genre:Crime Comedy
+	distributor:Warner Bros.
+	directors:Steven Soderbergh
+	actors:George Clooney#Brad Pitt#Matt Damon#Don Cheadle#Bernie Mac#Casey Affleck#Al Pacino#Andy Garcia#Scott Caan#Elliott Gould
+
+Little Fockers
+	genre:Comedy
+	distributor:Universal
+	directors:Paul Weitz
+	actors:Ben Stiller#Robert DeNiro#Dustin Hoffman#Barbra Streisand#Owen Wilson#Jessica Alba#Kevin Hart#Teri Polo#Blythe Danner
+
+The Polar Express
+	genre:Animation
+	distributor:Warner Bros.
+	directors:Robert Zemeckis
+	actors:Tom Hanks#Josh Hutcherson
+
+Bolt
+	genre:Animation
+	distributor:Buena Vista
+	directors:Chris Williams
+	actors:John Travolta#Miley Cyrus#Nick Swardson#Chloe Moretz#Susie Essman#Mark Walton#Malcolm McDowell#James Lipton
+
+Ransom
+	genre:Thriller
+	distributor:Buena Vista
+	directors:Ron Howard
+	actors:Mel Gibson#Rene Russo#Liev Schreiber#Gary Sinise#Lili Taylor#Donnie Wahlberg
+
+Runaway Bride
+	genre:Romantic Comedy
+	distributor:Paramount
+	directors:Garry Marshall
+	actors:Richard Gere#Julia Roberts
+
+The Blind Side
+	genre:Sports Drama
+	distributor:Warner Bros.
+	directors:John Lee Hancock
+	actors:Sandra Bullock#Kathy Bates#Lily Collins
+
+The Fault in our Stars
+	genre:Drama
+	distributor:Fox
+	directors:Josh Boone
+	actors:Shailene Woodley#Ansel Elgort#Willem Dafoe#Laura Dern
+
+The Pursuit of Happyness
+	genre:Drama
+	distributor:Sony / Columbia
+	directors:Gabriele Muccino
+	actors:Will Smith#Thandie Newton#Jaden Smith
+
+Rise of the Guardians
+	genre:Animation
+	distributor:Paramount (DreamWorks)
+	directors:
+	actors:Chris Pine#Alec Baldwin#Hugh Jackman#Isla Fisher#Jude Law
+
+Close Encounters of the Third Kind
+	genre:Sci-Fi
+	distributor:Columbia
+	directors:Steven Spielberg
+	actors:Lance Henriksen
+
+Chicago
+	genre:Musical
+	distributor:Miramax
+	directors:Rob Marshall
+	actors:Renee Zellweger#Catherine Zeta-Jones#Richard Gere#Queen Latifah#John C. Reilly#Lucy Liu
+
+Annabelle: Creation
+	genre:Horror
+	distributor:Warner Bros. (New Line)
+	directors:David F. Sandberg
+	actors:Anthony LaPaglia
+
+Wonder
+	genre:Drama
+	distributor:Lionsgate
+	directors:Stephen Chbosky
+	actors:Julia Roberts#Owen Wilson#Jacob Tremblay
+
+Wrath of the Titans
+	genre:Fantasy
+	distributor:Warner Bros.
+	directors:Jonathan Liebesman
+	actors:Sam Worthington#Rosamund Pike#Edgar Ramirez#Ralph Fiennes#Liam Neeson#Bill Nighy#Toby Kebbell#Danny Huston
+
+A Good Day to Die Hard
+	genre:Action
+	distributor:Fox
+	directors:John Moore
+	actors:Bruce Willis#Jai Courtney#Mary Elizabeth Winstead#Sebastian Koch
+
+Mulan
+	genre:Animation
+	distributor:Buena Vista
+	directors:Barry Cook
+	actors:Eddie Murphy
+
+Skyscraper
+	genre:Action
+	distributor:Universal
+	directors:Rawson Marshall Thurber
+	actors:Dwayne Johnson#Neve Campbell
+
+Passengers (2016)
+	genre:Sci-Fi
+	distributor:Sony / Columbia
+	directors:Morten Tyldum
+	actors:Jennifer Lawrence#Chris Pratt#Michael Sheen#Laurence Fishburne
+
+Battleship
+	genre:Action
+	distributor:Universal
+	directors:Peter Berg
+	actors:Jesse Plemons#Taylor Kitsch#Rihanna#Brooklyn Decker#Liam Neeson
+
+Dangal
+	genre:Drama
+	distributor:UTV Communications
+	directors:
+	actors:
+
+Liar Liar
+	genre:Fantasy Comedy
+	distributor:Universal
+	directors:Tom Shadyac
+	actors:Jim Carrey#Cary Elwes#Maura Tierney#Jennifer Tilly
+
+G.I. Joe: The Rise of Cobra
+	genre:Action
+	distributor:Paramount
+	directors:Stephen Sommers
+	actors:Channing Tatum#Marlon Wayans#Dennis Quaid#Joseph Gordon-Levitt#Brendan Fraser#Rachel Nichols
+
+Hook
+	genre:Fantasy
+	distributor:TriStar
+	directors:Steven Spielberg
+	actors:Carrie Fisher#Dustin Hoffman#Gwyneth Paltrow#Julia Roberts#Maggie Smith#Robin Williams
+
+Rocky IV
+	genre:Sports Drama
+	distributor:United Artists
+	directors:Sylvester Stallone
+	actors:Sylvester Stallone
+
+Superman
+	genre:Action / Adventure
+	distributor:Warner Bros.
+	directors:Richard Donner
+	actors:Marlon Brando#Christopher Reeve
+
+Rambo: First Blood Part II
+	genre:Action
+	distributor:TriStar
+	directors:
+	actors:Sylvester Stallone
+
+Van Helsing
+	genre:Period Horror
+	distributor:Universal
+	directors:Stephen Sommers
+	actors:Hugh Jackman#Kate Beckinsale
+
+Resident Evil: Afterlife
+	genre:Action Horror
+	distributor:Sony / Screen Gems
+	directors:Paul W.S. Anderson
+	actors:Milla Jovovich#Ali Larter#Boris Kodjoe#Wentworth Miller
+
+Stuart Little
+	genre:Family Adventure
+	distributor:Sony / Columbia
+	directors:Rob Minkoff
+	actors:Hugh Laurie#Geena Davis#Nathan Lane#Chazz Palminteri#Steve Zahn
+
+Beverly Hills Cop II
+	genre:Action Comedy
+	distributor:Paramount
+	directors:Tony Scott
+	actors:Eddie Murphy#Chris Rock
+
+Alice Through the Looking Glass
+	genre:Family Adventure
+	distributor:Buena Vista
+	directors:
+	actors:Johnny Depp#Anne Hathaway#Mia Wasikowska#Helena Bonham Carter#Rhys Ifans#Alan Rickman#Sacha Baron Cohen
+
+My Best Friend's Wedding
+	genre:Romantic Comedy
+	distributor:Sony / Columbia
+	directors:P.J. Hogan
+	actors:Julia Roberts#Cameron Diaz#Paul Giamatti#Dermot Mulroney#Rupert Everett
+
+Real Steel
+	genre:Action Drama
+	distributor:Buena Vista
+	directors:Shawn Levy
+	actors:Hugh Jackman#Evangeline Lilly#Anthony Mackie#Dakota Goyo#Kevin Durand
+
+The Divergent Series: Insurgent
+	genre:Action / Adventure
+	distributor:Lionsgate/Summit
+	directors:Robert Schwentke
+	actors:Shailene Woodley#Theo James#Kate Winslet#Octavia Spencer#Jai Courtney#Ray Stevenson#Miles Teller#Ansel Elgort#Naomi Watts#Maggie Q
+
+Dr. Seuss' Horton Hears a Who!
+	genre:Animation
+	distributor:Fox
+	directors:Jimmy Hayward
+	actors:Joey King#Jim Carrey#Steve Carell#Seth Rogen#Dan Fogler#Isla Fisher#Jonah Hill#Selena Gomez#Carol Burnett#Will Arnett#Amy Poehler
+
+Look Who's Talking
+	genre:Family Comedy
+	distributor:TriStar
+	directors:Amy Heckerling
+	actors:John Travolta#Bruce Willis
+
+Ocean's 8
+	genre:Action / Adventure
+	distributor:Warner Bros.
+	directors:Gary Ross
+	actors:Sandra Bullock#Cate Blanchett#Anne Hathaway#Rihanna#Helena Bonham Carter#Sarah Paulson#Mindy Kaling#Dakota Fanning#Awkwafina#Griffin Dunne#Richard Armitage
+
+Austin Powers in Goldmember
+	genre:Comedy
+	distributor:New Line
+	directors:Jay Roach
+	actors:Mike Myers#Beyonce Knowles#Seth Green#Michael Caine#Rob Lowe#Tom Cruise#Kevin Spacey#Josh Zuckerman#Danny DeVito
+
+Miss Peregrine's Home for Peculiar Children
+	genre:Fantasy
+	distributor:Fox
+	directors:Tim Burton
+	actors:Eva Green#Allison Janney#Judi Dench#Samuel L. Jackson#Asa Butterfield#Terence Stamp
+
+X-Men
+	genre:Action / Adventure
+	distributor:Fox
+	directors:Bryan Singer
+	actors:Hugh Jackman#Patrick Stewart#Ian McKellen#Famke Janssen#James Marsden#Halle Berry#Anna Paquin#Rebecca Romijn
+
+Ferdinand
+	genre:Animation
+	distributor:Fox
+	directors:Carlos Saldanha
+	actors:John Cena#Gina Rodriguez#Boris Kodjoe#Carlos Saldanha#Kate McKinnon#David Tennant#Bobby Cannavale#Jeremy Sisto#Anthony Anderson#Gabriel Iglesias
+
+Ghostbusters
+	genre:Horror Comedy
+	distributor:Columbia
+	directors:Ivan Reitman
+	actors:Bill Murray#Sigourney Weaver
+
+Shutter Island
+	genre:Period Drama
+	distributor:Paramount
+	directors:Martin Scorsese
+	actors:Leonardo DiCaprio#Mark Ruffalo#Ben Kingsley#Michelle Williams#Jackie Earle Haley#Max von Sydow#Patricia Clarkson#Elias Koteas
+
+Doctor Dolittle
+	genre:Family Comedy
+	distributor:Fox
+	directors:Betty Thomas
+	actors:Eddie Murphy#Chris Rock#Albert Brooks#Ellen DeGeneres#John Leguizamo#Raven-Symone
+
+Salt
+	genre:Action Thriller
+	distributor:Sony / Columbia
+	directors:Phillip Noyce
+	actors:Angelina Jolie#Liev Schreiber#Chiwetel Ejiofor
+
+G-Force
+	genre:Family Adventure
+	distributor:Buena Vista
+	directors:
+	actors:Sam Rockwell#Jon Favreau#Zach Galifianakis#Nicolas Cage#Penelope Cruz#Tracy Morgan#Will Arnett#Steve Buscemi
+
+The Departed
+	genre:Crime Drama
+	distributor:Warner Bros.
+	directors:Martin Scorsese
+	actors:Leonardo DiCaprio#Matt Damon#Jack Nicholson#Mark Wahlberg#Vera Farmiga#Alec Baldwin#Martin Sheen#Anthony Anderson#James Badge Dale
+
+What Lies Beneath
+	genre:Horror
+	distributor:DreamWorks
+	directors:Robert Zemeckis
+	actors:Harrison Ford#Michelle Pfeiffer
+
+Pacific Rim Uprising
+	genre:Sci-Fi Action
+	distributor:Universal
+	directors:
+	actors:John Boyega#Charlie Day#Scott Eastwood
+
+Shakespeare in Love
+	genre:Period Comedy
+	distributor:Miramax
+	directors:John Madden
+	actors:Gwyneth Paltrow#Geoffrey Rush#Ben Affleck#Judi Dench#Tom Wilkinson#Colin Firth#Imelda Staunton#Joseph Fiennes
+
+Fantastic Four: Rise of the Silver Surfer
+	genre:Action / Adventure
+	distributor:Fox
+	directors:Tim Story
+	actors:Ioan Gruffudd#Jessica Alba#Chris Evans#Laurence Fishburne#Michael Chiklis#Kerry Washington
+
+Divergent
+	genre:Action / Adventure
+	distributor:Lionsgate/Summit
+	directors:Neil Burger
+	actors:Shailene Woodley#Theo James#Jai Courtney#Ray Stevenson#Miles Teller#Kate Winslet#Ashley Judd#Ansel Elgort#Maggie Q#Tony Goldwyn
+
+Coming to America
+	genre:Romantic Comedy
+	distributor:Paramount
+	directors:John Landis
+	actors:Eddie Murphy#Samuel L. Jackson#Cuba Gooding, Jr.#James Earl Jones
+
+The Bourne Supremacy
+	genre:Action Thriller
+	distributor:Universal
+	directors:Paul Greengrass
+	actors:Matt Damon#Franka Potente#Brian Cox#Julia Stiles#Karl Urban#Joan Allen#Michelle Monaghan#Chris Cooper
+
+Bridesmaids
+	genre:Comedy
+	distributor:Universal
+	directors:Paul Feig
+	actors:Kristen Wiig#Rose Byrne#Melissa McCarthy#Jon Hamm#Rebel Wilson#Maya Rudolph#Ellie Kemper
+
+Sex and the City 2
+	genre:Romantic Comedy
+	distributor:Warner Bros. (New Line)
+	directors:Michael Patrick King
+	actors:Sarah Jessica Parker#Alice Eve#Penelope Cruz#John Corbett#Kim Cattrall#Cynthia Nixon#Chris Noth
+
+Maze Runner: The Death Cure
+	genre:Sci-Fi Adventure
+	distributor:Fox
+	directors:Wes Ball
+	actors:Kaya Scodelario#Will Poulter#Patricia Clarkson#Barry Pepper
+
+Casper
+	genre:Family Comedy
+	distributor:Universal
+	directors:Brad Silberling
+	actors:Christina Ricci
+
+Bee Movie
+	genre:Animation
+	distributor:Paramount (DreamWorks)
+	directors:Simon J. Smith
+	actors:Renee Zellweger#Matthew Broderick#John Goodman#Chris Rock#Kathy Bates#Barry Levinson#Oprah Winfrey#Patrick Warburton#Megan Mullally#Larry Miller#Rip Torn
+
+American Pie 2
+	genre:Comedy
+	distributor:Universal
+	directors:
+	actors:Chris Klein#Jennifer Coolidge#Adam Brody#Casey Affleck#Shannon Elizabeth#Tara Reid#Mena Suvari
+
+Pitch Perfect 2
+	genre:Comedy
+	distributor:Universal
+	directors:Elizabeth Banks
+	actors:Anna Kendrick#Rebel Wilson#Adam DeVine#Hailee Steinfeld#Elizabeth Banks#Skylar Astin#Anna Camp#Katey Sagal#Keegan-Michael Key
+
+The Green Mile
+	genre:Period Drama
+	distributor:Warner Bros.
+	directors:Frank Darabont
+	actors:Tom Hanks#Michael Clarke Duncan#Bonnie Hunt#Sam Rockwell#David Morse#James Cromwell#Barry Pepper#Harry Dean Stanton
+
+Oblivion
+	genre:Sci-Fi Adventure
+	distributor:Universal
+	directors:Joseph Kosinski
+	actors:Tom Cruise#Morgan Freeman#Olga Kurylenko#Melissa Leo#Nikolaj Coster-Waldau#Andrea Riseborough
+
+Elysium
+	genre:Sci-Fi
+	distributor:TriStar
+	directors:Neill Blomkamp
+	actors:Matt Damon#Jodie Foster#Sharlto Copley#Diego Luna#William Fichtner
+
+Lethal Weapon 4
+	genre:Action Comedy
+	distributor:Warner Bros.
+	directors:Richard Donner
+	actors:Mel Gibson#Danny Glover#Rene Russo#Chris Rock#Jet Li
+
+Wedding Crashers
+	genre:Comedy
+	distributor:New Line
+	directors:David Dobkin
+	actors:Owen Wilson#Vince Vaughn#Rachel McAdams#Christopher Walken#Isla Fisher#Bradley Cooper#Will Ferrell#Jane Seymour
+
+Ralph Breaks the Internet
+	genre:Animation
+	distributor:Buena Vista
+	directors:Rich Moore#Phil Johnston
+	actors:John C. Reilly#Taraji P. Henson#Gal Gadot#Sarah Silverman#Jack McBrayer#Jane Lynch
+
+John Carter
+	genre:Sci-Fi Adventure
+	distributor:Buena Vista
+	directors:Andrew Stanton
+	actors:James Purefoy#Taylor Kitsch#Willem Dafoe#Thomas Haden Church#Mark Strong#Bryan Cranston#Lynn Collins#Ciaran Hinds#Daryl Sabara
+
+Turbo
+	genre:Animation
+	distributor:Fox
+	directors:David Soren
+	actors:Ryan Reynolds#Paul Giamatti#Michael Pena#Samuel L. Jackson#Michelle Rodriguez#Snoop Dogg#Luis Guzman#Maya Rudolph#Bill Hader#Ken Jeong#Richard Jenkins
+
+Bridget Jones's Diary
+	genre:Romantic Comedy
+	distributor:Miramax
+	directors:Sharon Maguire
+	actors:Renee Zellweger#Hugh Grant#Jim Broadbent#Colin Firth
+
+Split
+	genre:Horror Thriller
+	distributor:Universal
+	directors:M. Night Shyamalan
+	actors:James McAvoy#Anya Taylor Joy
+
+The Tourist
+	genre:Romantic Thriller
+	distributor:Sony / Columbia
+	directors:
+	actors:Johnny Depp#Angelina Jolie#Paul Bettany#Rufus Sewell#Timothy Dalton
+
+Scary Movie
+	genre:Horror Comedy
+	distributor:Miramax
+	directors:Keenen Ivory Wayans
+	actors:Shawn Wayans#Marlon Wayans#Anna Faris#Regina Hall#Keenen Ivory Wayans
+
+XXX
+	genre:Action
+	distributor:Sony (Revolution)
+	directors:Rob Cohen
+	actors:Vin Diesel#Samuel L. Jackson
+
+The Bourne Legacy
+	genre:Action
+	distributor:Universal
+	directors:Tony Gilroy
+	actors:Jeremy Renner#Rachel Weisz#Edward Norton#Oscar Isaac#Joan Allen#David Strathairn#Scott Glenn
+
+Spirited Away
+	genre:Animation
+	distributor:Buena Vista
+	directors:Hayao Miyazaki
+	actors:
+
+Mr. Peabody & Sherman
+	genre:Animation
+	distributor:Fox
+	directors:Rob Minkoff
+	actors:Ty Burrell#Stanley Tucci#Lake Bell#Leslie Mann#Allison Janney#Stephen Colbert#Ariel Winter#Patrick Warburton#Mel Brooks
+
+Scooby-Doo
+	genre:Family Adventure
+	distributor:Warner Bros.
+	directors:Raja Gosnell
+	actors:Sarah Michelle Gellar#Freddie Prinze, Jr.#Matthew Lillard#Isla Fisher#Linda Cardellini
+
+Lincoln
+	genre:Historical Drama
+	distributor:Buena Vista
+	directors:Steven Spielberg
+	actors:Daniel Day-Lewis#Sally Field#Joseph Gordon-Levitt#Tommy Lee Jones#Jackie Earle Haley#Jared Harris#Lee Pace#David Oyelowo#Dane DeHaan#Lukas Haas#David Strathairn#James Spader#John Hawkes#Bruce McGill#Michael Stuhlbarg
+
+Lara Croft: Tomb Raider
+	genre:Action / Adventure
+	distributor:Paramount
+	directors:Simon West
+	actors:Angelina Jolie#Jon Voight#Daniel Craig#Noah Taylor
+
+The Expendables
+	genre:Action
+	distributor:Lionsgate
+	directors:Sylvester Stallone
+	actors:Sylvester Stallone#Jason Statham#Jet Li#Mickey Rourke#Bruce Willis#Arnold Schwarzenegger#Dolph Lundgren#Randy Couture#Terry Crews#David Zayas
+
+Cloudy with a Chance of Meatballs 2
+	genre:Animation
+	distributor:Sony / Columbia
+	directors:
+	actors:Anna Faris#Will Forte#Andy Samberg#Benjamin Bratt#Neil Patrick Harris#James Caan#Terry Crews#Kristen Schaal
+
+The Nutty Professor (1996)
+	genre:Comedy
+	distributor:Universal
+	directors:Tom Shadyac
+	actors:Eddie Murphy#Jada Pinkett-Smith
+
+Tomb Raider
+	genre:Action / Adventure
+	distributor:Warner Bros.
+	directors:
+	actors:Alicia Vikander#Dominic West#Walton Goggins#Derek Jacobi
+
+Jerry Maguire
+	genre:Comedy / Drama
+	distributor:Sony / Columbia
+	directors:Cameron Crowe
+	actors:Tom Cruise#Cuba Gooding, Jr.#Renee Zellweger#Bonnie Hunt#Lucy Liu#Kelly Preston#Jay Mohr#Regina King
+
+Bad Boys II
+	genre:Action Comedy
+	distributor:Sony / Columbia
+	directors:Michael Bay
+	actors:Will Smith#Martin Lawrence#Gabrielle Union
+
+Lilo & Stitch
+	genre:Animation
+	distributor:Buena Vista
+	directors:Dean DeBlois#Chris Sanders
+	actors:
+
+The Silence of the Lambs
+	genre:Thriller
+	distributor:Orion Pictures
+	directors:Jonathan Demme
+	actors:Jodie Foster#Anthony Hopkins
+
+Grown Ups
+	genre:Comedy
+	distributor:Sony / Columbia
+	directors:Dennis Dugan
+	actors:Adam Sandler#Kevin James#Chris Rock#Rob Schneider#David Spade#Salma Hayek#Maria Bello#Jamie Chung#Maya Rudolph#Norm MacDonald
+
+Neighbors
+	genre:Comedy
+	distributor:Universal
+	directors:Nick Stoller
+	actors:Seth Rogen#Rose Byrne#Zac Efron#Dave Franco#Christopher Mintz-Plasse#Craig Roberts
+
+The Firm
+	genre:Thriller
+	distributor:Paramount
+	directors:Sydney Pollack
+	actors:Tom Cruise#Ed Harris#Holly Hunter#Jeanne Tripplehorn#Hal Holbrook#David Strathairn#Tobin Bell
+
+We're the Millers
+	genre:Comedy
+	distributor:Warner Bros. (New Line)
+	directors:Rawson Marshall Thurber
+	actors:Jason Sudeikis#Jennifer Aniston#Ed Helms#Emma Roberts#Will Poulter
+
+Gran Torino
+	genre:Action Drama
+	distributor:Warner Bros.
+	directors:Clint Eastwood
+	actors:Clint Eastwood
+
+10,000 B.C.
+	genre:Period Adventure
+	distributor:Warner Bros.
+	directors:Roland Emmerich
+	actors:Camilla Belle
+
+Epic
+	genre:Animation
+	distributor:Fox
+	directors:Chris Wedge
+	actors:Beyonce Knowles#Colin Farrell#Josh Hutcherson#Amanda Seyfried#Aziz Ansari#Jason Sudeikis#Christoph Waltz#Steven Tyler#Blake Anderson#Judah Friedlander
+
+Exodus: Gods and Kings
+	genre:Drama
+	distributor:Fox
+	directors:Ridley Scott
+	actors:Christian Bale#Sigourney Weaver#Ben Kingsley#Ewen Bremner#Ben Mendelsohn#Joel Edgerton#John Turturro
+
+Paddington
+	genre:Family
+	distributor:Weinstein / Dimension
+	directors:Paul King
+	actors:Sally Hawkins#Nicole Kidman#Ben Whishaw#Jim Broadbent#Julie Walters
+
+Bambi
+	genre:Animation
+	distributor:RKO
+	directors:
+	actors:
+
+The Princess and the Frog
+	genre:Animation
+	distributor:Buena Vista
+	directors:John Musker
+	actors:John Goodman#Terrence Howard#Oprah Winfrey#Anika Noni Rose#Jenifer Lewis
+
+Batman Returns
+	genre:Action / Adventure
+	distributor:Warner Bros.
+	directors:Tim Burton
+	actors:Michael Keaton#Danny DeVito#Michelle Pfeiffer#Christopher Walken
+
+Something's Gotta Give
+	genre:Romantic Comedy
+	distributor:Sony / Columbia
+	directors:Nancy Meyers
+	actors:Jack Nicholson#Diane Keaton#Keanu Reeves#Frances McDormand#Amanda Peet#Jon Favreau
+
+Indecent Proposal
+	genre:Romance
+	distributor:Paramount
+	directors:
+	actors:Robert Redford#Demi Moore#Woody Harrelson#Billy Bob Thornton
+
+American Gangster
+	genre:Crime Drama
+	distributor:Universal
+	directors:Ridley Scott
+	actors:Denzel Washington#Russell Crowe#Josh Brolin#Chiwetel Ejiofor#Carla Gugino#Common#Idris Elba#T.I.
+
+Waterworld
+	genre:Sci-Fi Adventure
+	distributor:Universal
+	directors:Kevin Costner#Kevin Reynolds
+	actors:Jack Black#Kevin Costner
+
+The Truman Show
+	genre:Comedy / Drama
+	distributor:Paramount
+	directors:Peter Weir
+	actors:Jim Carrey#Ed Harris#Laura Linney#Peter Krause#Paul Giamatti
+
+Charlie's Angels
+	genre:Action Comedy
+	distributor:Sony / Columbia
+	directors:McG
+	actors:Cameron Diaz#Drew Barrymore#Lucy Liu#Bill Murray#Sam Rockwell#Luke Wilson#Matt LeBlanc#Melissa McCarthy
+
+The Fifth Element
+	genre:Sci-Fi Action
+	distributor:Sony / Columbia
+	directors:Luc Besson
+	actors:Bruce Willis#Gary Oldman#Milla Jovovich#Ian Holm#Chris Tucker
+
+The Incredible Hulk
+	genre:Action / Adventure
+	distributor:Universal
+	directors:Louis Leterrier
+	actors:Edward Norton#Liv Tyler#William Hurt#Ty Burrell#Michael K. Williams#Robert Downey, Jr.#Tim Roth#Tim Blake Nelson
+
+Jumanji
+	genre:Family Adventure
+	distributor:Sony / Columbia
+	directors:Joe Johnston
+	actors:Robin Williams#Kirsten Dunst#Bonnie Hunt
+
+Bridget Jones: The Edge of Reason
+	genre:Romantic Comedy
+	distributor:Universal
+	directors:Beeban Kidron
+	actors:Renee Zellweger#Hugh Grant#Jim Broadbent#Colin Firth
+
+Knight & Day
+	genre:Comedy
+	distributor:Fox
+	directors:James Mangold
+	actors:Gal Gadot#Tom Cruise#Cameron Diaz#Peter Sarsgaard#Paul Dano#Viola Davis#Maggie Grace#Marc Blucas
+
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan
+	genre:Comedy
+	distributor:Fox
+	directors:Larry Charles
+	actors:Sacha Baron Cohen
+
+Total Recall
+	genre:Sci-Fi Action
+	distributor:Sony / Columbia
+	directors:Paul Verhoeven
+	actors:Arnold Schwarzenegger#Sharon Stone
+
+Aquaman
+	genre:Action / Adventure
+	distributor:Warner Bros.
+	directors:James Wan
+	actors:Jason Momoa#Amber Heard#Willem Dafoe#Nicole Kidman#Patrick Wilson
+
+Michael Jackson's This Is It
+	genre:Concert
+	distributor:Sony / Columbia
+	directors:Kenny Ortega
+	actors:
+
+Robots
+	genre:Animation
+	distributor:Fox
+	directors:Carlos Saldanha#Chris Wedge
+	actors:Ewan McGregor#Halle Berry#Greg Kinnear#Amanda Bynes#Robin Williams#Jim Broadbent#Stanley Tucci#Jennifer Coolidge#Paul Giamatti
+
+The Lone Ranger
+	genre:Western
+	distributor:Buena Vista
+	directors:Gore Verbinski
+	actors:Johnny Depp#Armie Hammer#Tom Wilkinson#Helena Bonham Carter#William Fichtner#Ruth Wilson#James Badge Dale
+
+Super 8
+	genre:Sci-Fi
+	distributor:Paramount
+	directors:J.J. Abrams
+	actors:Elle Fanning#Noah Emmerich
+
+Mojin: The Lost Legend
+	genre:Action / Adventure
+	distributor:Well Go USA
+	directors:
+	actors:
+
+Blade Runner 2049
+	genre:Sci-Fi
+	distributor:Warner Bros.
+	directors:Denis Villeneuve
+	actors:Ryan Gosling#Harrison Ford#Robin Wright#Jared Leto#Dave Bautista#Barkhad Abdi#Edward James Olmos
+
+Charlie's Angels: Full Throttle
+	genre:Action Comedy
+	distributor:Sony / Columbia
+	directors:McG
+	actors:Cameron Diaz#Drew Barrymore#Lucy Liu#Bernie Mac#Demi Moore#Rodrigo Santoro#Shia LaBeouf#Matt LeBlanc#Luke Wilson#Carrie Fisher#Crispin Glover#Robert Patrick#John Cleese
+
+Rush Hour 3
+	genre:Action Comedy
+	distributor:New Line
+	directors:Brett Ratner
+	actors:Jackie Chan#Chris Tucker
+
+The Full Monty
+	genre:Comedy
+	distributor:Fox Searchlight
+	directors:
+	actors:Tom Wilkinson
+
+Annabelle
+	genre:Horror
+	distributor:Warner Bros. (New Line)
+	directors:John R. Leonetti
+	actors:Alfre Woodard
+
+The Village
+	genre:Period Horror
+	distributor:Buena Vista
+	directors:M. Night Shyamalan
+	actors:Joaquin Phoenix#Bryce Dallas Howard#Adrien Brody#Sigourney Weaver#Brendan Gleeson#Jesse Eisenberg#M. Night Shyamalan
+
+Lost in Hong Kong
+	genre:Comedy
+	distributor:Well Go USA
+	directors:
+	actors:
+
+Erin Brockovich
+	genre:Drama
+	distributor:Universal
+	directors:Steven Soderbergh
+	actors:Aaron Eckhart#Julia Roberts
+
+Get Out
+	genre:Horror
+	distributor:Universal
+	directors:Jordan Peele
+	actors:Lakeith Stanfield#Alison Williams#Bradley Whitford
+
+Cliffhanger
+	genre:Action Thriller
+	distributor:TriStar
+	directors:Renny Harlin
+	actors:Michael Rooker#Sylvester Stallone
+
+Kung Fu Yoga
+	genre:Action Comedy
+	distributor:Well Go USA
+	directors:
+	actors:Jackie Chan
+
+Baahubali 2: The Conclusion
+	genre:Action / Adventure
+	distributor:Great India Films
+	directors:
+	actors:
+
+Babe
+	genre:Family
+	distributor:Universal
+	directors:
+	actors:
+
+Wild Hogs
+	genre:Comedy
+	distributor:Buena Vista
+	directors:
+	actors:John Travolta#Tim Allen#Martin Lawrence#William H. Macy#Marisa Tomei#Ray Liotta
+
+Halloween (2018)
+	genre:Horror
+	distributor:Universal
+	directors:David Gordon Green
+	actors:Jamie Lee Curtis#Judy Greer
+
+High School Musical 3: Senior Year
+	genre:Musical
+	distributor:Buena Vista
+	directors:Kenny Ortega
+	actors:Zac Efron#Vanessa Hudgens
+
+Hercules
+	genre:Animation
+	distributor:Buena Vista
+	directors:
+	actors:
+
+True Grit
+	genre:Western
+	distributor:Paramount
+	directors:Ethan Coen#Joel Coen
+	actors:Jeff Bridges#Hailee Steinfeld#Matt Damon#Josh Brolin#Barry Pepper
+
+Bean
+	genre:Comedy
+	distributor:Gramercy
+	directors:
+	actors:
+
+American Hustle
+	genre:Drama
+	distributor:Sony / Columbia
+	directors:David O. Russell
+	actors:Christian Bale#Bradley Cooper#Amy Adams#Jeremy Renner#Jennifer Lawrence#Michael Pena#Robert DeNiro#Louis C.K.
+
+You've Got Mail
+	genre:Romantic Comedy
+	distributor:Warner Bros.
+	directors:Nora Ephron
+	actors:Tom Hanks#Meg Ryan#Greg Kinnear#Parker Posey#Chris Messina
+
+Enemy of the State
+	genre:Action Thriller
+	distributor:Buena Vista
+	directors:Tony Scott
+	actors:Will Smith#Jon Voight#Jack Black#Seth Green#Gene Hackman
+
+Brother Bear
+	genre:Animation
+	distributor:Buena Vista
+	directors:
+	actors:Michael Clarke Duncan#Joaquin Phoenix
+
+The Mask of Zorro
+	genre:Period Adventure
+	distributor:Sony / Columbia
+	directors:Martin Campbell
+	actors:Antonio Banderas#Anthony Hopkins#Catherine Zeta-Jones
+
+Eragon
+	genre:Fantasy
+	distributor:Fox
+	directors:
+	actors:Jeremy Irons#John Malkovich#Garrett Hedlund#Djimon Hounsou#Rachel Weisz#Robert Carlyle#Sienna Guillory
+
+The Ring
+	genre:Horror
+	distributor:DreamWorks
+	directors:Gore Verbinski
+	actors:Naomi Watts#Brian Cox#Adam Brody#Martin Henderson
+
+The Blair Witch Project
+	genre:Horror
+	distributor:Artisan
+	directors:
+	actors:
+
+Unbreakable
+	genre:Thriller
+	distributor:Buena Vista
+	directors:M. Night Shyamalan
+	actors:Bruce Willis#Samuel L. Jackson#M. Night Shyamalan
+
+Dumb and Dumber
+	genre:Comedy
+	distributor:New Line
+	directors:The Farrelly Bros.
+	actors:Jim Carrey
+
+Grown Ups 2
+	genre:Comedy
+	distributor:Sony / Columbia
+	directors:Dennis Dugan
+	actors:Adam Sandler#Kevin James#Chris Rock#David Spade#Salma Hayek#Maria Bello#Nick Swardson#Taylor Lautner#Maya Rudolph
+
+Love Actually
+	genre:Romantic Comedy
+	distributor:Universal
+	directors:
+	actors:Hugh Grant#Liam Neeson#Colin Firth#Laura Linney#Emma Thompson#Alan Rickman#Keira Knightley#Martin Freeman#Billy Bob Thornton#Denise Richards#January Jones#Bill Nighy#Sienna Guillory
+
+Journey to the West: The Demons Strike Back
+	genre:Adventure Comedy
+	distributor:Sony / Columbia
+	directors:
+	actors:
+
+The Peanuts Movie
+	genre:Animation
+	distributor:Fox
+	directors:
+	actors:
+
+Rango
+	genre:Animation
+	distributor:Paramount
+	directors:Gore Verbinski
+	actors:Johnny Depp#Isla Fisher#Abigail Breslin#Alfred Molina#Timothy Olyphant#Ned Beatty#Bill Nighy#Harry Dean Stanton#Ray Winstone
+
+Four Weddings and a Funeral
+	genre:Romantic Comedy
+	distributor:Gramercy
+	directors:Mike Newell
+	actors:Hugh Grant
+
+Face/Off
+	genre:Action
+	distributor:Paramount
+	directors:John Woo
+	actors:John Travolta#Nicolas Cage#Joan Allen#Thomas Jane
+
+Teenage Mutant Ninja Turtles: Out of the Shadows
+	genre:Action / Adventure
+	distributor:Paramount
+	directors:Dave Green
+	actors:Megan Fox#Laura Linney#Tyler Perry#Will Arnett#Tony Shalhoub#Brad Garrett
+
+Dark Shadows
+	genre:Horror Comedy
+	distributor:Warner Bros.
+	directors:Tim Burton
+	actors:Johnny Depp#Michelle Pfeiffer#Helena Bonham Carter#Jackie Earle Haley#Eva Green#Chloe Moretz#Christopher Lee#Jonny Lee Miller#Bella Heathcote
+
+Hulk
+	genre:Action / Adventure
+	distributor:Universal
+	directors:Ang Lee
+	actors:Eric Bana#Jennifer Connelly#Sam Elliott#Josh Lucas#Nick Nolte
+
+Bienvenue chez les Ch'tis
+	genre:Comedy
+	distributor:Unknown
+	directors:
+	actors:
+
+The Godfather
+	genre:Crime Drama
+	distributor:Paramount
+	directors:Francis Ford Coppola
+	actors:Marlon Brando#Al Pacino#Robert Duvall#Diane Keaton#James Caan
+
+Pixels
+	genre:Action Comedy
+	distributor:Sony / Columbia
+	directors:Chris Columbus
+	actors:Adam Sandler#Kevin James#Josh Gad#Michelle Monaghan#Brian Cox#Peter Dinklage
+
+Hercules (2014)
+	genre:Action / Adventure
+	distributor:Paramount
+	directors:Brett Ratner
+	actors:Rebecca Ferguson#Dwayne Johnson#Rufus Sewell#Ian McShane#Joseph Fiennes
+
+Back to the Future Part III
+	genre:Western
+	distributor:Universal
+	directors:Robert Zemeckis
+	actors:
+
+Rush Hour
+	genre:Action Comedy
+	distributor:New Line
+	directors:Brett Ratner
+	actors:Chris Tucker#Jackie Chan#Tom Wilkinson
+
+After Earth
+	genre:Sci-Fi
+	distributor:Sony / Columbia
+	directors:M. Night Shyamalan
+	actors:Kristofer Hivju#Jaden Smith#Will Smith
+
+A Few Good Men
+	genre:Drama / Thriller
+	distributor:Columbia
+	directors:Rob Reiner
+	actors:Tom Cruise#Jack Nicholson#Demi Moore#Kevin Bacon#Kiefer Sutherland#Cuba Gooding, Jr.#Kevin Pollak
+
+Cloudy with a Chance of Meatballs
+	genre:Animation
+	distributor:Sony / Columbia
+	directors:Phil Lord#Chris Miller (II)
+	actors:Anna Faris#Andy Samberg#Benjamin Bratt#Neil Patrick Harris#Will Forte#James Caan#Lauren Graham
+
+8 Mile
+	genre:Music Drama
+	distributor:Universal
+	directors:Curtis Hanson
+	actors:Eminem#Brittany Murphy#Kim Basinger#Anthony Mackie
+
+Daddy's Home
+	genre:Comedy
+	distributor:Paramount
+	directors:Sean Anders
+	actors:Thomas Haden Church#Will Ferrell#Mark Wahlberg
+
+Marley and Me
+	genre:Comedy
+	distributor:Fox
+	directors:David Frankel
+	actors:Jennifer Aniston#Owen Wilson
+
+RoboCop (2014)
+	genre:Sci-Fi Action
+	distributor:Sony / Columbia
+	directors:Jose Padilha
+	actors:Michael K. Williams#Gary Oldman#Michael Keaton#Abbie Cornish#Jackie Earle Haley#Jay Baruchel#Samuel L. Jackson#Joel Kinnaman#Jennifer Ehle
+
+Eraser
+	genre:Action
+	distributor:Warner Bros.
+	directors:
+	actors:Arnold Schwarzenegger#John Slattery#James Caan#James Cromwell
+
+Journey to the Center of the Earth
+	genre:Adventure
+	distributor:Warner Bros. (New Line)
+	directors:
+	actors:Brendan Fraser#Josh Hutcherson
+
+Assassin's Creed
+	genre:Action
+	distributor:Fox
+	directors:
+	actors:Michael Fassbender#Marion Cotillard#Jeremy Irons#Brendan Gleeson#Michael K. Williams#Ariane Labed
+
+Alien: Covenant
+	genre:Sci-Fi Horror
+	distributor:Fox
+	directors:Ridley Scott
+	actors:Michael Fassbender#Katherine Waterston#Danny McBride#Billy Crudup#Demian Bichir#Carmen Ejogo
+
+Sully
+	genre:Drama
+	distributor:Warner Bros.
+	directors:Clint Eastwood
+	actors:Aaron Eckhart#Tom Hanks#Laura Linney
+
+Die Hard 2: Die Harder
+	genre:Action Thriller
+	distributor:Fox
+	directors:Renny Harlin
+	actors:Bruce Willis#John Leguizamo
+
+Resident Evil: Retribution
+	genre:Action Horror
+	distributor:Sony / Screen Gems
+	directors:Paul W.S. Anderson
+	actors:Milla Jovovich#Michelle Rodriguez#Boris Kodjoe#Sienna Guillory
+
+Crocodile Dundee II
+	genre:Adventure Comedy
+	distributor:Paramount
+	directors:
+	actors:
+
+Planes
+	genre:Animation
+	distributor:Buena Vista
+	directors:Klay Hall
+	actors:Val Kilmer#Larry the Cable Guy#Cedric the Entertainer#Anthony Edwards#Teri Hatcher#Julia Louis-Dreyfus#John Cleese#Brad Garrett#Sinbad
+
+Batman and Robin
+	genre:Action / Adventure
+	distributor:Warner Bros.
+	directors:Joel Schumacher
+	actors:Arnold Schwarzenegger#George Clooney#Chris O'Donnell#Uma Thurman#Alicia Silverstone
+
+Crazy Rich Asians
+	genre:Romantic Comedy
+	distributor:Warner Bros.
+	directors:Jon Chu
+	actors:Michelle Yeoh#Henry Golding#Awkwafina
+
+Click
+	genre:Fantasy Comedy
+	distributor:Sony (Revolution)
+	directors:Frank Coraci
+	actors:Adam Sandler#Kate Beckinsale#Christopher Walken#Nick Swardson#Katie Cassidy#Jonah Hill#Rob Schneider
+
+Gulliver's Travels
+	genre:Adventure Comedy
+	distributor:Fox
+	directors:Rob Letterman
+	actors:Jack Black#Jason Segel#Emily Blunt#Amanda Peet#Billy Connolly
+
+Gone in 60 Seconds
+	genre:Action
+	distributor:Buena Vista
+	directors:Dominic Sena
+	actors:Nicolas Cage#Giovanni Ribisi#Angelina Jolie#Timothy Olyphant#Robert Duvall#Scott Caan#Delroy Lindo
+
+Saturday Night Fever
+	genre:Music Drama
+	distributor:Paramount
+	directors:
+	actors:John Travolta
+
+Silver Linings Playbook
+	genre:Comedy
+	distributor:Weinstein Company
+	directors:David O. Russell
+	actors:Bradley Cooper#Robert DeNiro#Jennifer Lawrence#Julia Stiles#Chris Tucker
+
+2 Fast 2 Furious
+	genre:Action
+	distributor:Universal
+	directors:John Singleton
+	actors:Paul Walker#Tyrese Gibson#Eva Mendes#Chris 'Ludacris' Bridges#Michael Ealy#Cole Hauser#Devon Aoki
+
+Hidden Figures
+	genre:Drama
+	distributor:Fox
+	directors:Theodore Melfi
+	actors:Taraji P. Henson#Octavia Spencer#Kirsten Dunst#Kevin Costner#Mahershala Ali#Janelle Monae#Jim Parsons
+
+A.I. Artificial Intelligence
+	genre:Sci-Fi
+	distributor:Warner Bros.
+	directors:Steven Spielberg
+	actors:Jude Law#William Hurt#Brendan Gleeson#Clark Gregg#Robin Williams#Ben Kingsley#Chris Rock#Meryl Streep#Frances O'Connor
+
+Dead Poets Society
+	genre:Drama
+	distributor:Buena Vista
+	directors:Peter Weir
+	actors:Ethan Hawke#Robin Williams
+
+Spy
+	genre:Comedy
+	distributor:Fox
+	directors:Paul Feig
+	actors:Melissa McCarthy#Jason Statham#Jude Law#Rose Byrne#Allison Janney#50 Cent#Bobby Cannavale
+
+American Pie
+	genre:Comedy
+	distributor:Universal
+	directors:Paul Weitz#Chris Weitz
+	actors:Chris Klein#Jennifer Coolidge#Alyson Hannigan#Tara Reid#Eugene Levy
+
+Howl's Moving Castle
+	genre:Animation
+	distributor:Buena Vista
+	directors:Hayao Miyazaki
+	actors:Christian Bale#Billy Crystal#Jena Malone#Blythe Danner#Emily Mortimer
+
+American Reunion
+	genre:Comedy
+	distributor:Universal
+	directors:Jon Hurwitz#Hayden Schlossberg
+	actors:Chris Klein#Jennifer Coolidge#Seann William Scott#Thomas Ian Nicholas#Alyson Hannigan#Mena Suvari#Natasha Lyonne#John Cho
+
+Big Daddy
+	genre:Comedy
+	distributor:Sony / Columbia
+	directors:Dennis Dugan
+	actors:Adam Sandler#Leslie Mann#Rob Schneider
+
+Alvin and the Chipmunks: The Road Chip
+	genre:Family Comedy
+	distributor:Fox
+	directors:
+	actors:Christina Applegate#Kaley Cuoco#Anna Faris#Justin Long#Bella Thorne#Jason Lee
+
+The Imitation Game
+	genre:Drama
+	distributor:Weinstein Company
+	directors:Morten Tyldum
+	actors:Benedict Cumberbatch#Keira Knightley#Matthew Goode#Mark Strong#Charles Dance
+
+The Day the Earth Stood Still (2008)
+	genre:Sci-Fi
+	distributor:Fox
+	directors:Scott Derrickson
+	actors:Keanu Reeves#Jennifer Connelly#Kathy Bates#Jaden Smith#Jon Hamm#Brandon T. Jackson#John Cleese#Kyle Chandler
+
+The Girl with the Dragon Tattoo (2011)
+	genre:Thriller
+	distributor:Sony / Columbia
+	directors:David Fincher
+	actors:Daniel Craig#Rooney Mara#Christopher Plummer#Stellan Skarsgard#Goran Visnjic#Robin Wright Penn#Joel Kinnaman
+
+Argo
+	genre:Drama / Thriller
+	distributor:Warner Bros.
+	directors:Ben Affleck
+	actors:Ben Affleck#Bryan Cranston#John Goodman#Chris Messina#Alan Arkin#Kyle Chandler
+
+The English Patient
+	genre:Romance
+	distributor:Miramax
+	directors:Anthony Minghella
+	actors:Ralph Fiennes#Willem Dafoe#Colin Firth
+
+Sister Act
+	genre:Comedy
+	distributor:Buena Vista
+	directors:
+	actors:Maggie Smith
+
+American Wedding
+	genre:Comedy
+	distributor:Universal
+	directors:
+	actors:Jennifer Coolidge#January Jones
+
+Juno
+	genre:Comedy / Drama
+	distributor:Fox Searchlight
+	directors:Jason Reitman
+	actors:Ellen Page#Michael Cera#Jennifer Garner#Jason Bateman#Olivia Thirlby#Allison Janney#J.K. Simmons#Rainn Wilson
+
+Constantine
+	genre:Horror
+	distributor:Warner Bros.
+	directors:Francis Lawrence
+	actors:Keanu Reeves#Rachel Weisz#Shia LaBeouf#Djimon Hounsou#Tilda Swinton
+
+Get Smart
+	genre:Action Comedy
+	distributor:Warner Bros.
+	directors:Peter Segal
+	actors:Steve Carell#Anne Hathaway#Dwayne Johnson#Terence Stamp
+
+Space Jam
+	genre:Family Comedy
+	distributor:Warner Bros.
+	directors:
+	actors:Danny DeVito#Bill Murray
+
+The Heat
+	genre:Comedy
+	distributor:Fox
+	directors:Paul Feig
+	actors:Sandra Bullock#Melissa McCarthy#Demian Bichir
+
+Mr. Bean's Holiday
+	genre:Comedy
+	distributor:Universal
+	directors:
+	actors:Willem Dafoe
+
+Life Is Beautiful
+	genre:Foreign
+	distributor:Miramax
+	directors:Roberto Benigni
+	actors:Roberto Benigni
+
+Ghostbusters (2016)
+	genre:Horror Comedy
+	distributor:Sony / Columbia
+	directors:Paul Feig
+	actors:Sigourney Weaver#Melissa McCarthy#Kristen Wiig#Michael K. Williams#Chris Hemsworth#Kate McKinnon#Charles Dance
+
+Ghost Rider
+	genre:Action Horror
+	distributor:Sony / Columbia
+	directors:Mark Steven Johnson
+	actors:Nicolas Cage#Eva Mendes#Sam Elliott#Rebel Wilson#Wes Bentley
+
+Goodbye Mr. Loser
+	genre:Comedy
+	distributor:China Lion
+	directors:
+	actors:
+
+Sleepless in Seattle
+	genre:Romantic Comedy
+	distributor:TriStar
+	directors:Nora Ephron
+	actors:Tom Hanks#Meg Ryan
+
+Lethal Weapon 2
+	genre:Action Comedy
+	distributor:Warner Bros.
+	directors:Richard Donner
+	actors:Mel Gibson#Danny Glover
+
+The Green Hornet
+	genre:Action / Adventure
+	distributor:Sony / Columbia
+	directors:Michel Gondry
+	actors:Seth Rogen#Jay Chou#Cameron Diaz#Tom Wilkinson#Christoph Waltz#Jamie Harris#James Franco#Analeigh Tipton#Edward James Olmos#Edward Furlong
+
+Out of Africa
+	genre:Romance
+	distributor:Universal
+	directors:Sydney Pollack
+	actors:Robert Redford#Meryl Streep
+
+Baby Driver
+	genre:Action / Crime
+	distributor:TriStar
+	directors:Edgar Wright
+	actors:Ansel Elgort#Jon Hamm#Kevin Spacey#Jamie Foxx#Jon Bernthal#Lily James
+
+Immortals
+	genre:Fantasy Drama
+	distributor:Relativity
+	directors:Tarsem
+	actors:Henry Cavill#Freida Pinto#Luke Evans#Kellan Lutz#Mickey Rourke#Stephen Dorff#John Hurt
+
+Paddington 2
+	genre:Family Adventure
+	distributor:Warner Bros.
+	directors:Paul King
+	actors:Hugh Grant#Brendan Gleeson#Sally Hawkins#Julie Walters#Jim Broadbent#Ben Whishaw#Hugh Bonneville
+
+Taken
+	genre:Action
+	distributor:Fox
+	directors:Pierre Morel
+	actors:Liam Neeson#Famke Janssen#Katie Cassidy#Maggie Grace
+
+Percy Jackson & The Olympians: The Lightning Thief
+	genre:Fantasy
+	distributor:Fox
+	directors:Chris Columbus
+	actors:Logan Lerman#Brandon T. Jackson#Sean Bean#Pierce Brosnan#Steve Coogan#Rosario Dawson#Uma Thurman#Catherine Keener
+
+Hansel and Gretel: Witch Hunters
+	genre:Action Comedy
+	distributor:Paramount
+	directors:Tommy Wirkola
+	actors:Jeremy Renner#Gemma Arterton#Famke Janssen#Thomas Mann#Peter Stormare
+
+Good Will Hunting
+	genre:Drama
+	distributor:Miramax
+	directors:Gus Van Sant
+	actors:Robin Williams#Matt Damon#Ben Affleck#Stellan Skarsgard#Casey Affleck
+
+Valerian and the City of a Thousand Planets
+	genre:Sci-Fi
+	distributor:STX Entertainment
+	directors:Luc Besson
+	actors:Cara Delevingne#Dane DeHaan#Clive Owen#Rihanna#Ethan Hawke#Rutger Hauer#Kris Wu
+
+The Social Network
+	genre:Comedy / Drama
+	distributor:Sony / Columbia
+	directors:David Fincher
+	actors:Jesse Eisenberg#Andrew Garfield#Justin Timberlake#Armie Hammer#Rooney Mara#Rashida Jones#Max Minghella
+
+Chicken Run
+	genre:Animation
+	distributor:DreamWorks
+	directors:Peter Lord
+	actors:Mel Gibson#Imelda Staunton
+
+Con Air
+	genre:Action
+	distributor:Buena Vista
+	directors:Simon West
+	actors:Nicolas Cage#John Cusack#John Malkovich#Ving Rhames#Colm Meaney#Danny Trejo
+
+Interview with the Vampire
+	genre:Period Horror
+	distributor:Warner Bros.
+	directors:Neil Jordan
+	actors:Tom Cruise#Brad Pitt#Kirsten Dunst#Antonio Banderas#Thandie Newton
+
+Flightplan
+	genre:Thriller
+	distributor:Buena Vista
+	directors:Robert Schwentke
+	actors:Jodie Foster#Peter Sarsgaard#Sean Bean#Erika Christensen
+
+Yes Man
+	genre:Comedy
+	distributor:Warner Bros.
+	directors:Peyton Reed
+	actors:Jim Carrey#Bradley Cooper#Zooey Deschanel
+
+Non-Stop
+	genre:Thriller
+	distributor:Universal
+	directors:Jaume Collet-Serra
+	actors:Liam Neeson#Julianne Moore#Lupita Nyong'o#Michelle Dockery#Scoot McNairy
+
+Honey, I Shrunk the Kids
+	genre:Family Adventure
+	distributor:Buena Vista
+	directors:Joe Johnston
+	actors:
+
+Fahrenheit 9/11
+	genre:Documentary
+	distributor:Lions Gate
+	directors:Michael Moore
+	actors:
+
+Jumper
+	genre:Fantasy
+	distributor:Fox
+	directors:Doug Liman
+	actors:Michael Rooker#Hayden Christensen#Jamie Bell#Rachel Bilson#Samuel L. Jackson#Max Thieriot#AnnaSophia Robb#Diane Lane#Kristen Stewart
+
+Wild Wild West
+	genre:Western Comedy
+	distributor:Warner Bros.
+	directors:Barry Sonnenfeld
+	actors:Will Smith#Kevin Kline#Kenneth Branagh#Salma Hayek
+
+Geostorm
+	genre:Action
+	distributor:Warner Bros.
+	directors:Dean Devlin
+	actors:Gerard Butler
+
+Presumed Innocent
+	genre:Thriller
+	distributor:Warner Bros.
+	directors:Alan J. Pakula
+	actors:Harrison Ford#Jeffrey Wright#Brian Dennehy#Bonnie Bedelia
+
+Scary Movie 3
+	genre:Horror Comedy
+	distributor:Dimension Films
+	directors:David Zucker
+	actors:Kevin Hart#Anna Faris#Regina Hall#Charlie Sheen#Leslie Nielsen#Queen Latifah#Denise Richards#Simon Rex#Eddie Griffin
+
+Elf
+	genre:Comedy
+	distributor:New Line
+	directors:Jon Favreau
+	actors:Will Ferrell#Zooey Deschanel#Jon Favreau#James Caan#Mary Steenburgen#Peter Dinklage
+
+Inferno
+	genre:Thriller
+	distributor:Sony / Columbia
+	directors:Ron Howard
+	actors:Tom Hanks#Felicity Jones#Irrfan Khan#Ben Foster#Omar Sy
+
+Green Lantern
+	genre:Action / Adventure
+	distributor:Warner Bros.
+	directors:Martin Campbell
+	actors:Ryan Reynolds#Blake Lively#Peter Sarsgaard#Mark Strong#Angela Bassett#Tim Robbins#Michael Clarke Duncan
+
+The Terminal
+	genre:Comedy / Drama
+	distributor:DreamWorks
+	directors:Steven Spielberg
+	actors:Tom Hanks#Catherine Zeta-Jones#Stanley Tucci#Diego Luna#Zoe Saldana
+
+What Happens in Vegas
+	genre:Comedy
+	distributor:Fox
+	directors:Tom Vaughan
+	actors:Cameron Diaz#Ashton Kutcher#Lake Bell#Jason Sudeikis#Zach Galifianakis#Queen Latifah#Rob Corddry#Treat Williams
+
+It's Complicated
+	genre:Romantic Comedy
+	distributor:Universal
+	directors:Nancy Meyers
+	actors:Meryl Streep#Steve Martin#Alec Baldwin#Lake Bell#John Krasinski#Zoe Kazan
+
+Knocked Up
+	genre:Romantic Comedy
+	distributor:Universal
+	directors:Judd Apatow
+	actors:Seth Rogen#Katherine Heigl#Paul Rudd#Leslie Mann#Jay Baruchel#Jonah Hill#Jason Segel#Kristen Wiig#Harold Ramis#Adam Scott#James Franco#Steve Carell
+
+Captain Phillips
+	genre:Drama
+	distributor:Sony / Columbia
+	directors:Paul Greengrass
+	actors:Tom Hanks#Catherine Keener
+
+The Prince of Egypt
+	genre:Animation
+	distributor:DreamWorks
+	directors:Brenda Chapman#Simon Wells
+	actors:Val Kilmer#Ralph Fiennes#Michelle Pfeiffer#Sandra Bullock#Jeff Goldblum#Danny Glover#Patrick Stewart#Helen Mirren#Steve Martin
+
+Jack Reacher
+	genre:Crime Drama
+	distributor:Paramount
+	directors:Christopher McQuarrie
+	actors:Tom Cruise#Rosamund Pike#David Oyelowo#Werner Herzog#Jai Courtney#Robert Duvall#Richard Jenkins
+
+The Emoji Movie
+	genre:Animation
+	distributor:Sony / Columbia
+	directors:
+	actors:Jennifer Coolidge#Patrick Stewart#Maya Rudolph#TJ Miller#James Corden#Ilana Glazer
+
+Collateral
+	genre:Crime
+	distributor:DreamWorks
+	directors:Michael Mann
+	actors:Tom Cruise#Jamie Foxx#Jada Pinkett-Smith#Mark Ruffalo#Peter Berg#Javier Bardem#Jason Statham#Bruce McGill
+
+Dracula Untold
+	genre:Action Horror
+	distributor:Universal
+	directors:Gary Shore
+	actors:Luke Evans#Dominic Cooper#Sarah Gadon#Charles Dance#Samantha Barks
+
+Central Intelligence
+	genre:Comedy
+	distributor:Warner Bros. (New Line)
+	directors:Rawson Marshall Thurber
+	actors:Kumail Nanjiani#Dwayne Johnson#Kevin Hart#Amy Ryan#Aaron Paul
+
+Million Dollar Baby
+	genre:Sports Drama
+	distributor:Warner Bros.
+	directors:Clint Eastwood
+	actors:Clint Eastwood#Hilary Swank#Morgan Freeman#Jay Baruchel#Anthony Mackie#Michael Pena
+
+Ted 2
+	genre:Comedy
+	distributor:Universal
+	directors:Seth MacFarlane
+	actors:Mark Wahlberg#Seth MacFarlane#Amanda Seyfried#Morgan Freeman#Giovanni Ribisi#John Slattery#Liam Neeson#Patrick Stewart#Patrick Warburton#John Carroll Lynch#Dennis Haysbert
+
+The Help
+	genre:Drama
+	distributor:Buena Vista
+	directors:Tate Taylor
+	actors:Emma Stone#Bryce Dallas Howard#Mike Vogel#Jessica Chastain#Viola Davis#Allison Janney#Octavia Spencer#David Oyelowo#Sissy Spacek#Mary Steenburgen
+
+Twins
+	genre:Comedy
+	distributor:Universal
+	directors:Ivan Reitman
+	actors:Danny DeVito#Arnold Schwarzenegger
+
+Valentine's Day
+	genre:Romantic Comedy
+	distributor:Warner Bros. (New Line)
+	directors:Garry Marshall
+	actors:Jessica Alba#Kathy Bates#Jessica Biel#Bradley Cooper#Jamie Foxx#Jennifer Garner#Topher Grace#Anne Hathaway#Ashton Kutcher#Queen Latifah#Taylor Lautner#Julia Roberts#Emma Roberts#Shirley MacLaine
+
+Bad Teacher
+	genre:Comedy
+	distributor:Sony / Columbia
+	directors:Jake Kasdan
+	actors:Cameron Diaz#Justin Timberlake#Jason Segel#Kathryn Newton
+
+Clear and Present Danger
+	genre:Action Thriller
+	distributor:Paramount
+	directors:Phillip Noyce
+	actors:Harrison Ford#Willem Dafoe#Benjamin Bratt#Clark Gregg#Thora Birch
+
+101 Dalmatians
+	genre:Animation
+	distributor:Disney
+	directors:
+	actors:
+
+Bram Stoker's Dracula
+	genre:Period Horror
+	distributor:Columbia
+	directors:Francis Ford Coppola
+	actors:Gary Oldman#Winona Ryder#Anthony Hopkins#Keanu Reeves#Monica Bellucci#Cary Elwes
+
+Vertical Limit
+	genre:Action
+	distributor:Sony / Columbia
+	directors:Martin Campbell
+	actors:Chris O'Donnell#Ben Mendelsohn
+
+Ghostbusters II
+	genre:Horror Comedy
+	distributor:Columbia
+	directors:Ivan Reitman
+	actors:Bill Murray#Sigourney Weaver
+
+The Patriot
+	genre:War
+	distributor:Sony / Columbia
+	directors:Roland Emmerich
+	actors:Mel Gibson#Heath Ledger#Chris Cooper#Logan Lerman
+
+The Sorcerer's Apprentice
+	genre:Fantasy
+	distributor:Buena Vista
+	directors:Jon Turteltaub
+	actors:Nicolas Cage#Jay Baruchel#Alfred Molina#Teresa Palmer#Monica Bellucci
+
+Just Go With It
+	genre:Romantic Comedy
+	distributor:Sony / Columbia
+	directors:Dennis Dugan
+	actors:Adam Sandler#Jennifer Aniston#Nicole Kidman#Brooklyn Decker#Nick Swardson#Minka Kelly#Allen Covert#Keegan-Michael Key
+
+The Expendables 3
+	genre:Action
+	distributor:Lionsgate
+	directors:Patrick Hughes
+	actors:Sylvester Stallone#Jason Statham#Antonio Banderas#Jet Li#Wesley Snipes#Kelsey Grammer#Kellan Lutz#Mel Gibson#Harrison Ford#Arnold Schwarzenegger#Dolph Lundgren#Randy Couture#Ronda Rousey
+
+Public Enemies
+	genre:Crime Drama
+	distributor:Universal
+	directors:Michael Mann
+	actors:Johnny Depp#Christian Bale#Marion Cotillard#Giovanni Ribisi#Billy Crudup#Channing Tatum#Carey Mulligan#Emilie de Ravin#Stephen Dorff#Johnny Lang
+
+The Bourne Identity
+	genre:Action Thriller
+	distributor:Universal
+	directors:Doug Liman
+	actors:Matt Damon#Franka Potente#Chris Cooper#Clive Owen#Brian Cox#Julia Stiles#Gabriel Mann
+
+Disclosure
+	genre:Drama / Thriller
+	distributor:Warner Bros.
+	directors:Barry Levinson
+	actors:Michael Douglas#Demi Moore
+
+Dirty Dancing
+	genre:Romance
+	distributor:Vestron
+	directors:
+	actors:Patrick Swayze#Jennifer Grey
+
+Pulp Fiction
+	genre:Crime
+	distributor:Miramax
+	directors:Quentin Tarantino
+	actors:Rosanna Arquette#John Travolta#Uma Thurman#Samuel L. Jackson#Bruce Willis#Christopher Walken
+
+The Aviator
+	genre:Period Drama
+	distributor:Miramax
+	directors:Martin Scorsese
+	actors:Leonardo DiCaprio#Cate Blanchett#Kate Beckinsale#Alec Baldwin#Alan Alda#Ian Holm#Adam Scott#Jude Law#Willem Dafoe#Brent Spiner
+
+Crouching Tiger, Hidden Dragon
+	genre:Foreign / Action
+	distributor:Sony Classics
+	directors:Ang Lee
+	actors:Michelle Yeoh#Zhang Ziyi
+
+Smallfoot
+	genre:Animation
+	distributor:Warner Bros.
+	directors:Karey Kirkpatrick
+	actors:Channing Tatum#Common#Danny DeVito#Gina Rodriguez#James Corden#Zendaya#LeBron James
+
+Braveheart
+	genre:Historical Epic
+	distributor:Paramount
+	directors:Mel Gibson
+	actors:Mel Gibson#Brendan Gleeson#Brian Cox
+
+Into the Woods
+	genre:Musical
+	distributor:Buena Vista
+	directors:Rob Marshall
+	actors:Meryl Streep#Emily Blunt#Anna Kendrick#Chris Pine#Johnny Depp#James Corden
+
+Bedtime Stories
+	genre:Family Adventure
+	distributor:Buena Vista
+	directors:Adam Shankman
+	actors:Adam Sandler#Guy Pearce#Russell Brand#Teresa Palmer#Courteney Cox#Nick Swardson#Keri Russell#Richard Griffiths#Allen Covert
+
+Miss Congeniality
+	genre:Action Comedy
+	distributor:Warner Bros.
+	directors:
+	actors:Sandra Bullock#Michael Caine#Benjamin Bratt
+
+Entrapment
+	genre:Romantic Thriller
+	distributor:Fox
+	directors:
+	actors:Sean Connery#Catherine Zeta-Jones
+
+Ace Ventura: When Nature Calls
+	genre:Comedy
+	distributor:Warner Bros.
+	directors:Steve Oedekerk
+	actors:Jim Carrey#Sophie Okonedo
+
+Master and Commander: The Far Side of the World
+	genre:War
+	distributor:Fox
+	directors:Peter Weir
+	actors:Russell Crowe#Paul Bettany
+
+End of Days
+	genre:Action Horror
+	distributor:Universal
+	directors:Peter Hyams
+	actors:Arnold Schwarzenegger
+
+Bridget Jones's Baby
+	genre:Romantic Comedy
+	distributor:Universal
+	directors:Sharon Maguire
+	actors:Colin Firth#Renee Zellweger
+
+Battle: Los Angeles
+	genre:Sci-Fi Action
+	distributor:Sony / Columbia
+	directors:Jonathan Liebesman
+	actors:Ne-Yo#Aaron Eckhart#Michelle Rodriguez#Bridget Moynahan#Michael Pena#Joey King#Lucas Till#Ramon Rodriguez
+
+Fury (2014)
+	genre:War
+	distributor:Sony / Columbia
+	directors:David Ayer
+	actors:Brad Pitt#Logan Lerman#Shia LaBeouf#Michael Pena#Jon Bernthal
+
+Due Date
+	genre:Comedy
+	distributor:Warner Bros.
+	directors:Todd Phillips
+	actors:Robert Downey, Jr.#Zach Galifianakis#Michelle Monaghan#Jamie Foxx#Danny McBride#Charlie Sheen#Juliette Lewis#RZA
+
+Kingdom of Heaven
+	genre:Historical Epic
+	distributor:Fox
+	directors:Ridley Scott
+	actors:Orlando Bloom#Eva Green#Jeremy Irons#Liam Neeson#Michael Sheen#Brendan Gleeson#Edward Norton
+
+The Little Mermaid
+	genre:Animation
+	distributor:Buena Vista
+	directors:
+	actors:Mark Hamill#Pat Carroll#Samuel E. Wright#Buddy Hackett#Kenneth Mars#Christopher Daniel Barnes#Rene Auberjonois
+
+Australia
+	genre:Period Adventure
+	distributor:Fox
+	directors:Baz Luhrmann
+	actors:Nicole Kidman#Hugh Jackman#Ben Mendelsohn#David Wenham#Bryan Brown
+
+District 9
+	genre:Sci-Fi
+	distributor:TriStar
+	directors:Neill Blomkamp
+	actors:Sharlto Copley
+
+Moonraker
+	genre:Action
+	distributor:MGM
+	directors:
+	actors:Roger Moore
+
+The Others
+	genre:Period Horror
+	distributor:Miramax
+	directors:Alejandro Amenabar
+	actors:Nicole Kidman
+
+Horrible Bosses
+	genre:Comedy
+	distributor:Warner Bros. (New Line)
+	directors:Seth Gordon
+	actors:Jason Bateman#Charlie Day#Jason Sudeikis#Jennifer Aniston#Colin Farrell#Jamie Foxx#Kevin Spacey#Donald Sutherland
+
+Red Dragon
+	genre:Thriller
+	distributor:Universal
+	directors:Brett Ratner
+	actors:Anthony Hopkins#Edward Norton#Ralph Fiennes#Philip Seymour Hoffman#Harvey Keitel#Mary-Louise Parker
+
+Tomorrowland
+	genre:Sci-Fi
+	distributor:Buena Vista
+	directors:Brad Bird
+	actors:George Clooney#Hugh Laurie#Keegan-Michael Key#Judy Greer
+
+Lemony Snicket's A Series of Unfortunate Events
+	genre:Family Adventure
+	distributor:Paramount
+	directors:Brad Silberling
+	actors:Jim Carrey#Meryl Streep#Emily Browning#Jude Law#Jamie Harris#Cedric the Entertainer
+
+Me Before You
+	genre:Romance
+	distributor:Warner Bros. (New Line)
+	directors:
+	actors:Sam Claflin
+
+Safe House
+	genre:Action Thriller
+	distributor:Universal
+	directors:Daniel Espinosa
+	actors:Denzel Washington#Ryan Reynolds#Vera Farmiga#Brendan Gleeson#Robert Patrick#Joel Kinnaman
+
+S.W.A.T.
+	genre:Action Thriller
+	distributor:Sony / Columbia
+	directors:Clark Johnson
+	actors:Colin Farrell#Samuel L. Jackson#Michelle Rodriguez#Jeremy Renner#Colin Egglesfield#LL Cool J#Olivier Martinez
+
+Traffic
+	genre:Crime Drama
+	distributor:USA Films
+	directors:Steven Soderbergh
+	actors:Michael Douglas#Don Cheadle#Benicio Del Toro#Dennis Quaid#Catherine Zeta-Jones#Benjamin Bratt#Erika Christensen#Topher Grace#John Slattery#Viola Davis#Luis Guzman#James Brolin#Clifton Collins, Jr.#Albert Finney#Amy Irving
+
+The Fast and the Furious
+	genre:Action
+	distributor:Universal
+	directors:Rob Cohen
+	actors:Paul Walker#Vin Diesel#Michelle Rodriguez#Jordana Brewster
+
+Paranormal Activity 3
+	genre:Horror
+	distributor:Paramount
+	directors:Henry Joost#Ariel Schulman
+	actors:Dustin Ingram
+
+Philadelphia
+	genre:Drama
+	distributor:TriStar
+	directors:Jonathan Demme
+	actors:Antonio Banderas#Tom Hanks#Denzel Washington
+
+Sleepy Hollow
+	genre:Period Horror
+	distributor:Paramount
+	directors:Tim Burton
+	actors:Johnny Depp#Christina Ricci#Christopher Walken#Miranda Richardson
+
+The Jungle Book
+	genre:Animation
+	distributor:Disney
+	directors:
+	actors:
+
+London Has Fallen
+	genre:Action
+	distributor:Focus Features
+	directors:
+	actors:Angela Bassett#Gerard Butler#Aaron Eckhart#Morgan Freeman#Jackie Earle Haley#Melissa Leo#Radha Mitchell
+
+Journey to the West
+	genre:Foreign
+	distributor:Magnolia
+	directors:
+	actors:
+
+JFK
+	genre:Drama / Thriller
+	distributor:Warner Bros.
+	directors:Oliver Stone
+	actors:Michael Rooker#Kevin Costner#Tommy Lee Jones#Gary Oldman#Kevin Bacon
+
+White House Down
+	genre:Action Drama
+	distributor:Sony / Columbia
+	directors:Roland Emmerich
+	actors:Channing Tatum#Jamie Foxx#Maggie Gyllenhaal#Joey King#James Woods#Jason Clarke
+
+The Ugly Truth
+	genre:Romantic Comedy
+	distributor:Sony / Columbia
+	directors:Robert Luketic
+	actors:Katherine Heigl#Gerard Butler#Cheryl Hines
+
+The Holiday
+	genre:Romantic Comedy
+	distributor:Sony / Columbia
+	directors:Nancy Meyers
+	actors:Cameron Diaz#Kate Winslet#Jude Law#Jack Black#Rufus Sewell#Edward Burns#John Krasinski#Shannyn Sossamon
+
+The Break-Up
+	genre:Romantic Comedy
+	distributor:Universal
+	directors:Peyton Reed
+	actors:Vince Vaughn#Jennifer Aniston#Jason Bateman#Jon Favreau#Justin Long
+
+Eat Pray Love
+	genre:Drama
+	distributor:Sony / Columbia
+	directors:Ryan Murphy
+	actors:Julia Roberts#Javier Bardem#James Franco#Billy Crudup#Viola Davis#Richard Jenkins
+
+A Dog's Purpose
+	genre:Comedy / Drama
+	distributor:Universal
+	directors:Lasse Hallstrom
+	actors:Dennis Quaid#Britt Robertson
+
+King Arthur
+	genre:Period Adventure
+	distributor:Buena Vista
+	directors:Antoine Fuqua
+	actors:Clive Owen#Keira Knightley#Ioan Gruffudd#Stellan Skarsgard#Ray Stevenson#Mads Mikkelsen#Joel Edgerton#Hugh Dancy#Til Schweiger
+
+Everest (2015)
+	genre:Thriller
+	distributor:Universal
+	directors:Baltasar Kormakur
+	actors:Josh Brolin#Elizabeth Debicki#Jake Gyllenhaal#Keira Knightley#Jason Clarke#John Hawkes#Robin Wright Penn
+
+Vanilla Sky
+	genre:Thriller
+	distributor:Paramount
+	directors:Cameron Crowe
+	actors:Tom Cruise#Cameron Diaz#Penelope Cruz#Kurt Russell#Tilda Swinton
+
+Arrival
+	genre:Sci-Fi
+	distributor:Paramount
+	directors:Denis Villeneuve
+	actors:Amy Adams#Jeremy Renner#Forest Whitaker#Michael Stuhlbarg
+
+Need for Speed
+	genre:Action
+	distributor:Buena Vista
+	directors:Scott Waugh
+	actors:Imogen Poots#Dominic Cooper#Scott Mescudi#Michael Keaton#Dakota Johnson
+
+Hairspray (2007)
+	genre:Musical
+	distributor:New Line
+	directors:Adam Shankman
+	actors:Nikki Blonsky#John Travolta#Michelle Pfeiffer#Christopher Walken#Amanda Bynes#James Marsden#Queen Latifah#Zac Efron#Brittany Snow
+
+Patch Adams
+	genre:Comedy / Drama
+	distributor:Universal
+	directors:Tom Shadyac
+	actors:Robin Williams#Philip Seymour Hoffman
+
+Fun with Dick and Jane
+	genre:Crime Comedy
+	distributor:Sony / Columbia
+	directors:Dean Parisot
+	actors:Jim Carrey#Tea Leoni#Alec Baldwin
+
+Teenage Mutant Ninja Turtles
+	genre:Family Adventure
+	distributor:New Line
+	directors:
+	actors:Sam Rockwell
+
+Kindergarten Cop
+	genre:Comedy
+	distributor:Universal
+	directors:Ivan Reitman
+	actors:Arnold Schwarzenegger#Angela Bassett
+
+Ponyo
+	genre:Animation
+	distributor:Buena Vista
+	directors:Hayao Miyazaki
+	actors:Cate Blanchett#Matt Damon#Tina Fey#Liam Neeson#Lily Tomlin#Noah Cyrus#Frankie Jonas#Cloris Leachman#Betty White
+
+Straight Outta Compton
+	genre:Drama
+	distributor:Universal
+	directors:F. Gary Gray
+	actors:Lakeith Stanfield#Aldis Hodge#Jason Mitchell
+
+21 Jump Street
+	genre:Action Comedy
+	distributor:Sony / Columbia
+	directors:Phil Lord#Chris Miller (II)
+	actors:Jonah Hill#Channing Tatum#Brie Larson#Dave Franco#Rob Riggle#Ice Cube#Jake Johnson#Johnny Depp#Ellie Kemper#Chris Parnell
+
+Yogi Bear
+	genre:Family Comedy
+	distributor:Warner Bros.
+	directors:
+	actors:Anna Faris#Justin Timberlake#Dan Aykroyd
+
+Garfield: The Movie
+	genre:Family Comedy
+	distributor:Fox
+	directors:Peter Hewitt
+	actors:Bill Murray#Breckin Meyer#Jennifer Love Hewitt
+
+Cats & Dogs
+	genre:Family Adventure
+	distributor:Warner Bros.
+	directors:
+	actors:Michael Clarke Duncan#Jeff Goldblum#Tobey Maguire#Alec Baldwin#Susan Sarandon
+
+The Hunt for Red October
+	genre:Action Thriller
+	distributor:Paramount
+	directors:John McTiernan
+	actors:Sean Connery#Alec Baldwin#Stellan Skarsgard
+
+Valkyrie
+	genre:Thriller
+	distributor:United Artists
+	directors:Bryan Singer
+	actors:Tom Cruise#Kenneth Branagh#Tom Wilkinson#Bill Nighy#Carice van Houten
+
